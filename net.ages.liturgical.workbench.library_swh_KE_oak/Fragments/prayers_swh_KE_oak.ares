@@ -1,0 +1,675 @@
+A_Resource_Whose_Name = prayers_swh_KE_oak
+
+Doxa = ""
+
+DoxaKaiNyn = ""
+
+KaiNyn = ""
+
+Allilouia1 = ""
+
+Allilouia3.text = "Alleluia. Alleluia. Alleluia."
+
+Allilouia3Doxa.text = ""
+
+DefteProskinisomen1 = ""
+
+DefteProskinisomen2 = ""
+
+DefteProskinisomen3 = ""
+
+DiEfchonDespotou.text = ""
+
+DiEfchonPateron.text = "Kwa maombi ya Mababa wetu watakatifu Ee Bwana Yesu Kristo Mungu wetu utuhurumie na utuokoe."
+
+DoxaPatri.text = ""
+
+DoxaSoiChriste1 = ""
+
+DoxaSoiChriste2 = ""
+
+DoxaSoiKyrie = ""
+
+DoxaSoiKyrieP = "Utukufu Kwako Ee Bwana, utukufu kwako."
+
+DoxaSoiOTheos1 = ""
+
+DoxaSoiOTheosImon.text = "Utukufu kwako Ee Mungu, utukufu kwako."
+
+DoxaTiAgiaAnastasei.text = ""
+
+DoxaTiMakrothymia.text = ""
+
+DoxaTiMakrothymiaP.text = ""
+
+DoxaToPatri.text = ""
+
+EisToOnoma = ""
+
+EvlogitosOTheosImon.text = ""
+
+EvlogoumenPatera.text = ""
+
+IElpisImonKyrie = ""
+
+KaiNynKaiAei.text = ""
+
+Kelefson = ""
+
+KelefsonDespota = ""
+
+
+OTheosOiktirisai.text = ""
+
+PantoteNyn.text = ""
+
+Evlogison = ""
+
+EvlogisonP = ""
+
+EnOnomatiKyriou.text = ""
+
+EvlogisonThymiama.text = ""
+
+AgieTouTheou.text = ""
+
+AgiaTouTheou.text = ""
+
+AgioiTouTheou.text = ""
+
+ApostoleTouChristou.text = ""
+
+OsiaTouTheou.text = ""
+
+EleisonMeOTheos.text = ""
+
+AxionEstin.text = ""
+
+AgiosOTheos.text = ""
+
+EpouranieVasilef.text = ""
+
+KyrieKaiDespota1.text = ""
+
+KyrieKaiDespota2.text = ""
+
+KyrieKaiDespota3.text = ""
+
+KyrieKaiDespota4.text = ""
+
+OEnPantiKairo.text = ""
+
+OOnEvlogitos.text = ""
+
+PanagiaTrias.text = ""
+
+PaschaDialog1.text = ""
+PaschaDialog2.text = ""
+PaschaDialog3.text = ""
+PaschaDialog4.text = ""
+PaschaDialog5.text = ""
+PaschaDialog6.text = ""
+
+PaterImon.text = "Baba wetu uliye mbinguni jina lako litukuzwe ufalme wako uje; mapenzi yako yatimizwe hapa duniani kama huko mbinguni utupe leo mkate wetu wa kila siku. Na utusamehe deni zetu, kama sisi tuwasamehavyo wadeni wetu: Tena usitutie majaribuni lakini utuokoe na yule mwovu."
+
+Pistevo.text = ""
+
+SoulSaturday.text = ""
+
+StereosaiKyrios.text = ""
+
+Thymiama.text = ""
+
+TinTimioteran.text = he.h.m6_swh_KE_oak.TinTimioteran.text
+
+VasilefOuranie.text = ""
+
+trDiaTisTheotokou = ""
+
+fePresveiaisTisTheotokou = ""
+
+fbPresveiaisKyrieTisTheotokou = ""
+
+trPresveiaisTonAgion = ""
+
+fePresveiaisTonAgionKaiSosonMe = ""
+
+fbPresveiaisKyrieTonAgion = ""
+
+enarxis01 = "Ahimidiwe Mungu wetu daima, sasa na siku zote hata milele na milele."
+
+enarxis02 = "Umbarikiwe ni ufalme wa Baba na Mwana na Roho Mtakatifu, sasa na siku zote hata milele na milele."
+
+enarxis03 = ""
+
+pet00 = "Tumuombe Bwana."
+
+pet01 = "Kwa amani tumuombe Bwana." // Great Litany
+
+pet02 = "Kwa anjili ya amani,pendo, msaada kutoka kwa Mungu iwashukie, tumuombe Bwana."
+
+pet03 = "Kwa anjili ya mani ya dunia yote, na kusimama imara katika Kanisa takatifu la Mungu na la umoja wa wote tumwombe Bwana."
+
+pet04 = "kwa anjili ya nyumba hii takatifu na waingiamo kwa imani, heshima na kmcha Mungu tumwombe Bwana"
+
+pet04alt1.title = ""
+pet04alt1 = ""
+
+pet04alt2.title = ""
+pet04alt2 = ""
+
+pet05 = ""
+
+pet06 = "Kwa anjili ya Patriaka (jina), Askofu (Jina) wetu mheshimiwa, makasisi, mashemasi na ya wateule na watu wote tumuombe Bwana."
+
+pet06a = "Kwa" // supplement with client specific rank and name
+
+pet06b = "mheshimiwa na makasisi wetu mashemasi na ya wateule na ya watu wote, tumuombe Bwana."
+
+pet07L = ""
+
+pet07S = ""
+
+pet07Sa = ""
+
+pet08 = ""
+
+pet08alt = ""
+
+pet09 = ""
+
+pet10 = ""
+
+pet11 = "Ili sisi sote tukombolewe toka katika sikitiko, ghadhabu, hatari na uhitaji tumuombe Bwana."
+
+pet12 = "Utusaidie, utuokoe, utuhurumie, utuhifadhi Ee Mungu kws neema yako."
+
+pet13 = "Tumkumbuke Maria Mtakatifu kamili asiye na ndoa mbarikiwa zaidi kushinda wote. Bibi Mtakatifu mzazi Mungu Bikira daima pamoja na watakatifu wote, tujiweke mikononi mwa Kristo Mungu."
+
+pet14 = "" // Short Litany
+
+pet15 = "" // Ektenia
+
+pet16 = ""
+
+pet17 = "Ee Bwana mwenyezi Mungu wa mababa zetu tunakuomba utusikilize na kutuhurumia"
+
+pet18 = ""
+
+pet19 = ""
+
+pet19a = ""
+
+pet20 = ""
+
+pet21 = ""
+
+pet21a = ""
+
+pet21b = "" // for baptism
+
+pet21c = "Tena tunakuomba kwa ajili ya huruma miaka miingi, amani, afya na wokovu kwa watumishi wako (Jina) na (Jina) - ambao wameoana leo wazazi wao na wasimamisi na kwa ajili ya wote waliohudhuria." // for wedding
+
+pet21d = "" // for unction
+
+pet21p = ""
+
+pet22 = ""
+
+pet23 = ""
+
+pet24 = "" // Complementary
+
+pet24v = ""
+
+pet24m = ""
+
+pet25v = ""
+
+pet25m = ""
+
+pet26 = ""
+
+pet27 = ""
+
+pet28 = ""
+
+pet29 = ""
+
+pet30 = ""
+
+pet31 = "Amani kwa wote."
+
+pet32 = "Tuinamishe vichwa vyetu kwa Bwana."
+
+pet33 = "" // Lity
+
+pet34 = ""
+
+pet35 = ""
+
+pet36 = ""
+
+pet37 = "" // Dismissal
+
+petBap01 = ""
+
+petBap02 = ""
+
+petBap03 = ""
+
+petBap04 = ""
+
+petBap05 = ""
+
+petBap06 = ""
+
+petBap07 = ""
+
+petCatechumens01 = ""
+
+petCatechumens02 = ""
+
+petCatechumens03 = ""
+
+petCatechumens04 = ""
+
+petCatechumens05 = ""
+
+petCatechumens06 = ""
+
+petCatechumens07 = ""
+
+petCatechumens08 = ""
+
+petCatechumens09 = ""
+
+petCatechumens10 = ""
+
+petCatechumens11 = ""
+
+petCatechumens12 = ""
+
+petCatechumens13 = ""
+
+petCatechumens14 = ""
+
+petCatechumens15 = ""
+
+petCatechumens16 = ""
+
+petCatechumens17 = ""
+
+petCatechumens18 = ""
+
+petCatechumens19 = ""
+
+petCatechumens20 = ""
+
+petCatechumens21 = ""
+
+petCatechumens22 = ""
+
+petCatechumens23 = ""
+
+petCatechumens24 = ""
+
+petCompline01 = ""
+
+petCompline02 = ""
+
+petCompline03 = "" // hierarch
+
+petCompline04 = ""
+
+petCompline05 = ""
+
+petCompline06 = ""
+
+petCompline07 = ""
+
+petCompline08 = ""
+
+petCompline09 = ""
+
+petCompline10 = ""
+
+petCompline11 = ""
+
+petCompline12 = ""
+
+petCompline13 = ""
+
+petCompline14 = ""
+
+petCompline15 = ""
+
+petConsecration01 = ""
+
+petConsecration02 = ""
+
+petFuneral01 = ""
+
+petFuneral02 = ""
+
+petKneel01 = ""
+
+petKneel02 = ""
+
+petKneel03 = ""
+
+petKneel04 = ""
+
+petKneel05 = ""
+
+petKneel06 = ""
+
+petKneel07 = ""
+
+petKneel08 = ""
+
+petSouls01 = ""
+
+petSouls02 = ""
+
+petUnction01 = ""
+
+petUnction02 = ""
+
+petUnction03 = ""
+
+petWater01 = ""
+
+petWater02 = ""
+
+petWater03 = ""
+
+petWater03alt = ""
+
+petWater04 = ""
+
+petWater05 = ""
+
+petWater06 = ""
+
+petWater07 = ""
+
+petWater07alt = ""
+
+petWater08 = ""
+
+petWater09 = ""
+
+petWater10 = ""
+
+petWater11 = ""
+
+petWater12 = ""
+
+petWater13 = ""
+
+petWater14 = ""
+
+petWater15 = ""
+
+petWater16 = ""
+
+petWed01 = "Kwa anjili ya watumishi wa Mungu (Majina), ambao wanaunganishwa kwa Ndoa na kwa anjili ya wokovu wao, tumombe Bwana."
+
+petWed02 = ""
+
+petWed03 = "Kwa anjili ya amani upendo, msaada kutoka kwa Mungu iwashukie, tumuombe Bwana."
+
+petWed04 = ""
+
+petWed05 = ""
+
+petWed06 = "Kwa anjili ya anjili ya mwenendo bora na maisha yasiyo na lawama. Tumuombe Bwana."
+
+petWed07 = "Ili Bwana Mungu wetu awape ndoa yenye heshima isiyo na lawama, tumuombe Bwana."
+
+petWed08 = "Kwa ajili ya watumishi wa Mungu (majina) ambao wanaunganishwa kwa ndoa na kwa ajili ya wokovu wao, tumuombe Bwana."
+
+petWed09 = "Ili hii ndoa ibarikiwe kama iliyokuwepo Kana ya Galilaya, tumuombe Bwana."
+
+petWed10 = "Ili wapewe hukumu ya utu na watoto kwa manufaa yao, tumuombe Bwana."
+
+petWed11 = "Ili wajazwe kwa furaha wakiwaona wavulana kwa wasichana, tumuombe Bwana."
+
+petWed12 = "Ili wambarikiwe na watoto wema na maisha ya haki, tumuombe Bwana."
+
+petWed13 = "Ili Mungu apokee maombi ya wokovu wetu, tumuombe Bwana."
+
+petWed14 = "Ili sisi tukombolewe toka katika sikitiko, ghadhabu, hatari na uhitaji, tumuombe Bwana."
+
+sup00 = ""
+
+sup00a = ""
+
+sup01 = ""
+
+sup02 = ""
+
+sup03 = ""
+
+sup04 = ""
+
+sup05 = ""
+
+sup06 = ""
+
+sup07 = ""
+
+sup08 = ""
+
+sup09 = ""
+
+sup10 = ""
+
+sup11 = ""
+
+sup12 = ""
+
+sup13 = ""
+
+sup14 = ""
+
+sup15 = ""
+
+sup99 = ""
+
+res01 = ""
+
+res02 = ""
+
+res03 = ""
+
+res04 = ""
+
+res05 = ""
+
+res06 = ""
+
+res07 = ""
+
+res08 = ""
+
+res09 = ""
+
+res10 = ""
+
+res12 = ""
+
+res13 = ""
+
+res14 = ""
+
+res15 = ""
+
+res16 = ""
+
+res01p = "(Bwana hurumia.)"
+
+res02p = ""
+
+res03p = "(Kwako Ee Bwana.)"
+
+res04p = "(Amina.)"
+
+res05p = "Na iwe kwa Roho Yako."
+
+res06p = "(Bwana hurumia, Bwana hurumia, Bwana hurumia.)"
+
+res07p = ""
+
+res08p = ""
+
+res09p = ""
+
+res10p = ""
+
+res12p = ""
+
+res13p = ""
+
+res14p = ""
+
+res15p = ""
+
+res16p = ""
+
+exc01 = "Kwa kuwa utukufu wote, heshima na usujudu ni haki yako ya Baba na Mwana na Roho Mtakatifu, Sasa na siku zote hata milele na milele."
+
+exc01a = "Kwa anjili ya mani ya dunia yote, na kusimama imara katika Kanisa takatifu la Mungu na la umoja wa wote tumwombe Bwana."
+
+exc02 = "Kwa kuwa utawala ni wako na ufalme na uweza na utukufu, ni wa Baba na Mwana na Roho Mtakatifu, sasa na siku zote hata milele na milele."
+
+exc03 = ""
+
+exc04 = "Kwa kuwa jina lako limehimidiwa naufalme wako unatukuzwa na Baba na Mwana na Roho Mtakatifu sasa na siku zote hata milele na milele."
+
+exc05 = ""
+
+exc05a = "" // split exclamation for Trisagios Hymn at Liturgy
+
+exc05b = ""
+
+exc06 = ""
+
+exc07 = ""
+
+exc07a = ""
+
+exc07b = ""
+
+exc07c = ""
+
+exc08 = ""
+
+exc09 = ""
+
+exc10 = ""
+
+exc11 = "Kwa kwa Wewe ni Mungu mwenye huruma na upendo na kwako tunatoa utukufu kwa Baba na Mwana na Roho mpaji wa uhai sasa na siku zote hata milele na milele."
+
+exc11a = ""
+
+exc12 = ""
+
+exc13 = ""
+
+exc14 = ""
+
+exc15 = ""
+
+exc16 = ""
+
+exc16a = ""
+
+exc17 = "Hekima"
+
+exc18 = "Simameni wima."
+
+exc19 = "Tusikilize"
+
+exc20 = "Kwa kuwa ufalme na uweza na utukufu, ni wa Baba na Mwana na Roho Mtakatifu sasa na siku zote hata milele na milele."
+
+exc22 = ""
+
+exc23 = ""
+
+exc24 = ""
+
+exc25 = ""
+
+exc26 = ""
+
+exc27 = ""
+
+exc28 = ""
+
+exc29 = ""
+
+epi01a = "" // leave blank in Greek
+
+epi01b = ""
+
+epi02 = "Amani kwako Ee Msomaji."
+
+gos01 = ""
+
+gos02 = "Tusikilize ijili Takatifu."
+
+gos03a = "Ijili Takatifu kama ilivyoandikwa na "
+
+gos03b = ""
+
+gos04 = ""
+
+verse_Angels.text = ""
+
+verseP_Angels.text = ""
+
+verse_ApostlesMartyrs.text = ""
+
+verseP_ApostlesMartyrs.text = ""
+
+verse_Baptist.text = ""
+
+verseP_Baptist.text = ""
+
+verse_Cross.text = ""
+
+verseP_Cross.text = ""
+
+verse_GreatMartyrs.text = ""
+
+verseP_GreatMartyrs.text = ""
+
+verse_Hierarchs.text = ""
+
+verseP_Hierarchs.text = ""
+
+verse_Nicholas.text = ""
+
+verseP_Nicholas.text = ""
+
+verse_Panteleimon.text = ""
+
+verseP_Panteleimon.text = ""
+
+verse_Righteous.text = ""
+
+verseP_Righteous.text = ""
+
+verse_Theotokos.text = ""
+
+verseP_Theotokos.text = ""
+
+verse_Trinity.text = ""
+
+verseP_Trinity.text = ""
+
+verse_Unmercenaries.text = ""
+
+verseP_Unmercenaries.text = ""
