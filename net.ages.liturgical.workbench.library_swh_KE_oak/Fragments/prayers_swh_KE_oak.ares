@@ -136,13 +136,13 @@ fePresveiaisTonAgionKaiSosonMe = ""
 
 fbPresveiaisKyrieTonAgion = ""
 
-enarxis01 = "Ahimidiwe Mungu wetu daima, sasa na siku zote hata milele na milele."
+enarxis01 = "Ahimidiwe Mungu wetu daima, sasa na siku zote, hata milele na milele."
 
 enarxis02 = "Umbarikiwe ni ufalme wa Baba na Mwana na Roho Mtakatifu, sasa na siku zote hata milele na milele."
 
 enarxis03 = ""
 
-pet00 = "Tumuombe Bwana."
+pet00 = "Tumwombe Bwana."
 
 pet01 = "Kwa amani tumuombe Bwana." // Great Litany
 
@@ -478,13 +478,13 @@ sup15 = ""
 
 sup99 = ""
 
-res01 = ""
+res01 = "Bwana, hurumia."
 
 res02 = ""
 
 res03 = ""
 
-res04 = ""
+res04 = "Amina."
 
 res05 = ""
 
@@ -592,7 +592,7 @@ exc18 = "Simameni wima."
 
 exc19 = "Tusikilize"
 
-exc20 = "Kwa kuwa ufalme na uweza na utukufu, ni wa Baba na Mwana na Roho Mtakatifu sasa na siku zote hata milele na milele."
+exc20 = "Kwa kuwa ufalme na uweza na utukufu, ni wa Baba na Mwana na Roho Mtakatifu, sasa na siku zote, hata milele na milele."
 
 exc22 = ""
 
