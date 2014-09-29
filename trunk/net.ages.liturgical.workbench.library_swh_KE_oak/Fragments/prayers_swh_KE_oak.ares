@@ -22,7 +22,7 @@ DiEfchonDespotou.text = ""
 
 DiEfchonPateron.text = "Kwa maombi ya Mababa wetu watakatifu Ee Bwana Yesu Kristo Mungu wetu utuhurumie na utuokoe."
 
-DoxaPatri.text = ""
+DoxaPatri.text = "Utukufu kwa Baba na Mwana na Roho Mtakatifu."
 
 DoxaSoiChriste1 = ""
 
@@ -52,7 +52,7 @@ EvlogoumenPatera.text = ""
 
 IElpisImonKyrie = ""
 
-KaiNynKaiAei.text = ""
+KaiNynKaiAei.text = "Sasa na siku zote, hata milele na milele. Amina."
 
 Kelefson = ""
 
@@ -110,7 +110,7 @@ PaschaDialog4.text = ""
 PaschaDialog5.text = ""
 PaschaDialog6.text = ""
 
-PaterImon.text = "Baba wetu uliye mbinguni jina lako litukuzwe ufalme wako uje; mapenzi yako yatimizwe hapa duniani kama huko mbinguni utupe leo mkate wetu wa kila siku. Na utusamehe deni zetu, kama sisi tuwasamehavyo wadeni wetu: Tena usitutie majaribuni lakini utuokoe na yule mwovu."
+PaterImon.text = "Baba wetu uliye mbinguni, jina lako litukuzwe; ufalme wako uje; mapenzi yako yatimizwe hapa duniani kama huko mbinguni. Utupe leo mkate wetu wa kila siku. Na utusamehe deni zetu, kama sisi tuwasamehavyo wadeni wetu. Tena usitutie majaribuni, lakini utuokoe na yule mwovu."
 
 Pistevo.text = ""
 
@@ -138,19 +138,19 @@ fbPresveiaisKyrieTonAgion = ""
 
 enarxis01 = "Ahimidiwe Mungu wetu daima, sasa na siku zote, hata milele na milele."
 
-enarxis02 = "Mhimidiwa ni ufalme wa Baba na Mwana na Roho Mtakatifu, sasa na siku zote hata milele na milele."
+enarxis02 = "Mhimidiwa ni ufalme wa Baba na Mwana na Roho Mtakatifu, sasa na siku zote, hata milele na milele."
 
 enarxis03 = ""
 
 pet00 = "Tumwombe Bwana."
 
-pet01 = "Kwa amani tumuombe Bwana." // Great Litany
+pet01 = "Kwa amani tumwombe Bwana." // Great Litany
 
-pet02 = "Kwa ajili ya amani kutoka juu na ya wokovu wa roho zetu, tumuombe Bwana."
+pet02 = "Kwa ajili ya amani kutoka juu na ya wokovu wa roho zetu, tumwombe Bwana."
 
-pet03 = "Kwa ajili ya amani ya dunia yote, na kusimama imara katika Kanisa takatifu la Mungu na umoja wa wote tumwombe Bwana."
+pet03 = "Kwa ajili ya amani ya dunia yote, na kusimama imara katika Kanisa takatifu la Mungu na umoja wa wote, tumwombe Bwana."
 
-pet04 = "kwa ajili ya nyumba hii takatifu na waingiamo kwa imani, heshima na kumcha Mungu tumwombe Bwana"
+pet04 = "Kwa ajili ya nyumba hii takatifu na waingiamo kwa imani, heshima na kumcha Mungu, tumwombe Bwana."
 
 pet04alt1.title = ""
 pet04alt1 = ""
@@ -160,7 +160,7 @@ pet04alt2 = ""
 
 pet05 = ""
 
-pet06 = "Kwa ajili ya Patriaka (jina), Askofu wetu Mkuu (Jina) mheshimiwa, makasisi, mashemasi na ya wateule na watu wote tumuombe Bwana."
+pet06 = "Kwa ajili ya Patriaka (jina), Askofu wetu Mkuu (Jina) mheshimiwa, makasisi, mashemasi na ya wateule na watu wote, tumwombe Bwana."
 
 pet06a = "Kwa" // supplement with client specific rank and name
 
@@ -180,11 +180,11 @@ pet09 = ""
 
 pet10 = ""
 
-pet11 = "Kwa ajili ya kuokolewa kwa kila sikitiko, ghadhabu, hatari na uhitaji tumuombe Bwana."
+pet11 = "Kwa ajili ya kuokolewa kwa kila sikitiko, ghadhabu, hatari na uhitaji, tumwombe Bwana."
 
 pet12 = "Utusaidie, utuokoe, utuhurumie, utuhifadhi Ee Mungu kwa neema yako."
 
-pet13 = "Tumkumbuke Maria Mtakatifu kamili asiyekuwa na ndoa, mbrikiwa zaidi kushinda wote, Bibi wetu mtukufu Mzazi Mungu na Bikira daima, pamoja na watakatifu wote, na kila mmoja wetu, wenzetu wote, hata maisha yetu tujiweke mikononi mwa Kristo Mungu."
+pet13 = "Tumkumbuke Maria Mtakatifu kamili asiyekuwa na doa, mbarikiwa zaidi kushinda wote, Bibi wetu mtukufu Mzazi-Mungu na Bikira daima, pamoja na watakatifu wote, na kila mmoja wetu, wenzetu wote, hata maisha yetu tujiweke mikononi mwa Kristo Mungu."
 
 pet14 = "" // Short Litany
 
@@ -482,7 +482,7 @@ res01 = "Bwana, hurumia."
 
 res02 = ""
 
-res03 = ""
+res03 = "Kwako, Ee Bwana."
 
 res04 = "Amina."
 
@@ -538,11 +538,11 @@ res15p = ""
 
 res16p = ""
 
-exc01 = "Kwa kuwa utukufu wote, heshima na usujudu ni haki yako ya Baba na Mwana na Roho Mtakatifu, Sasa na siku zote hata milele na milele."
+exc01 = "Kwa kuwa utukufu wote, heshima na usujudu ni haki yako, ya Baba na Mwana na Roho Mtakatifu, sasa na siku zote, hata milele na milele."
 
 exc01a = "Kwa kuwa utukufu, heshima na usujudu ni haki yako Baba na Mwana na Roho Mtakatifu, sasa na siku zote hata milele na milele."
 
-exc02 = "Kwa kuwa utawala ni wako na ufalme na uweza na utukufu, ni wa Baba na Mwana na Roho Mtakatifu, sasa na siku zote hata milele na milele."
+exc02 = "Kwa kuwa utawala ni wako na ufalme na uweza na utukufu, ni wa Baba na Mwana na Roho Mtakatifu, sasa na siku zote, hata milele na milele."
 
 exc03 = ""
 
@@ -620,7 +620,7 @@ gos01 = ""
 
 gos02 = "Tusikilize ijili Takatifu."
 
-gos03a = "Ijili Takatifu kama ilivyoandikwa na "
+gos03a = "Injili Takatifu kama ilivyoandikwa na "
 
 gos03b = ""
 

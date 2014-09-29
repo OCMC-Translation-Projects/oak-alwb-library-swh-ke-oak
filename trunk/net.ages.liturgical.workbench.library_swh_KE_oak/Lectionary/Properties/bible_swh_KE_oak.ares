@@ -1,17 +1,17 @@
-A_Resource_Whose_Name = bible_swh_KE_oak
+A_Resource_Whose_Name = bible_swh_KE_oak 
 
 version.designation = ""
 
 Matthew = "" // no period after names
 Mark = ""
 Luke = ""
-John = "Mtakatifu Yohana (Sura ya 2, mstari 1-11)."
+John = ""
 Acts = ""
 Romans = ""
 Corinthians1 = ""
 Corinthians2 = ""
 Galatians = ""
-Ephesians = "Somo kutoka Waraka wa Paulo kwa Waefeso"
+Ephesians = ""
 Philippians = ""
 Colossians = ""
 Thessalonians1 = ""
