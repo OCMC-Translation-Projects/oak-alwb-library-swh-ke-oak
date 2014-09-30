@@ -192,7 +192,7 @@ pet15 = "" // Ektenia
 
 pet16 = ""
 
-pet17 = "Ee Bwana mwenyezi Mungu wa mababa zetu tunakuomba utusikilize na kutuhurumia"
+pet17 = "Ee Bwana mwenyezi, Mungu wa mababa zetu, tunakuomba utusikilize na kutuhurumia."
 
 pet18 = ""
 
@@ -570,7 +570,7 @@ exc09 = ""
 
 exc10 = ""
 
-exc11 = "Kwa wewe ndiwe Mungu mwenye huruma na  mpenda wanadamu na kwako tunatoa utukufu kwa Baba na Mwana na Roho Mtakatifu, sasa na siku zote hata milele na milele."
+exc11 = "Kwa wewe ndiwe Mungu mwenye huruma na  mpenda-wanadamu na kwako tunatoa utukufu, kwa Baba na Mwana na Roho Mtakatifu, sasa na siku zote, hata milele na milele."
 
 exc11a = ""
 
@@ -586,11 +586,11 @@ exc16 = ""
 
 exc16a = ""
 
-exc17 = "Hekima"
+exc17 = "Hekima!"
 
 exc18 = "Simameni wima."
 
-exc19 = "Tusikilize"
+exc19 = "Tusikilize."
 
 exc20 = "Kwa kuwa ufalme na uweza na utukufu, ni wa Baba na Mwana na Roho Mtakatifu, sasa na siku zote, hata milele na milele."
 
@@ -614,11 +614,11 @@ epi01a = "" // leave blank in Greek
 
 epi01b = ""
 
-epi02 = "Amani kwako Ee Msomaji."
+epi02 = "Amani kwako Ee msomaji."
 
 gos01 = ""
 
-gos02 = "Tusikilize ijili Takatifu."
+gos02 = "Tusikilize Injili Takatifu."
 
 gos03a = "Injili Takatifu kama ilivyoandikwa na "
 
