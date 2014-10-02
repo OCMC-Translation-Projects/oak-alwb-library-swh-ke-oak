@@ -187,8 +187,8 @@ euLI.Key1407.text = ""
 euLI.Key1407.basil.text = ""
 euLI.Key1408.text = prayers_swh_KE_oak.exc07a
 euLI.Key1409.text = ""
-euLI.Key1410.text = ""
-euLI.Key1411.text = ""
+euLI.Key1410.text = "Vitu vitakatifu kwa watu watakatifu."
+euLI.Key1411.text = "Mtakatifu mmoja, Bwana ni mmoja, Yesu Kristo, kwa utukufu wa Mungu Baba. Amina."
 
 // Part 15 Communion
 euLI.Key1500.title = ""
@@ -222,7 +222,7 @@ euLI.Key1527.title = ""
 euLI.Key1527.text = ""
 euLI.Key1528.text = ""
 euLI.Key1529.text = ""
-euLI.Key1530.text = "" // find this hymn in Pentecost
+euLI.Key1530.text = "Tumeona nuru ya ukweli, tumepata Roho wa mbinguni, tumeona imani kweli tukimsujudu Utatu asiotengwa, kwa kuwa huyu ametuokoa." // find this hymn in Pentecost
 euLI.Key1531.text = ""
 
 // Part 16 After Communion 
