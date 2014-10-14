@@ -2,10 +2,10 @@ A_Resource_Whose_Name = bible_swh_KE_oak
 
 version.designation = ""
 
-Matthew = "" // no period after names
-Mark = ""
-Luke = ""
-John = ""
+Matthew = "Mtakatifu Mathayo" // no period after names
+Mark = "Mtakatifu Marko"
+Luke = "Mtakatifu Luka"
+John = "Mtakatifu Yohane"
 Acts = ""
 Romans = ""
 Corinthians1 = ""
@@ -47,7 +47,7 @@ Ezra = ""
 Nehemiah = ""
 Esther = ""
 Job = ""
-Psalms = ""
+Psalms = "Zaburi"
 Proverbs = ""
 Ecclesiastes = ""
 Song = ""
