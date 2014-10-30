@@ -508,8 +508,6 @@ octrMA.Kathisma11.mode = misc_swh_KE_oak.Mode2
 octrMA.Kathisma11.melody  = ""
 octrMA.Kathisma11.text = ocMA.Kathisma12.text
 
-octrMA.Kathisma12Verse.text = ""
-
 octrMA.Kathisma12.mode = misc_swh_KE_oak.Mode2
 octrMA.Kathisma12.melody  = ""
 octrMA.Kathisma12.text = ""

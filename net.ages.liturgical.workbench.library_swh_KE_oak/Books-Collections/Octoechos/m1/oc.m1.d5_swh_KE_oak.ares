@@ -42,7 +42,7 @@ ocVE.Aposticha3.text = he.a.m1_swh_KE_oak.PaneffimoiMartyres.text
 
 ocVE.AposTheotokion.mode = misc_swh_KE_oak.Mode1
 ocVE.AposTheotokion.melody = he.a.m1_swh_KE_oak.PaneffimoiMartyres.name
-ocVE.AposTheotokion.text = ""
+ocVE.AposTheotokion.text = oc.m1.d3_swh_KE_oak.ocMA.AposTheotokion.text
 
 ocVE.ApolTheotokionVM.mode = misc_swh_KE_oak.Mode1
 ocVE.ApolTheotokionVM.melody  = ""
@@ -504,8 +504,6 @@ octrMA.Triadic3.text = oc.m1.d2_swh_KE_oak.octrMA.Triadic3.text
 octrMA.Kathisma11.mode = misc_swh_KE_oak.Mode1
 octrMA.Kathisma11.melody = he.a.m1_swh_KE_oak.TouLithouSfragisthentos.name
 octrMA.Kathisma11.text = ocMA.Kathisma12.text
-
-octrMA.Kathisma12Verse.text = ""
 
 octrMA.Kathisma12.mode = misc_swh_KE_oak.Mode1
 octrMA.Kathisma12.melody  = ""
