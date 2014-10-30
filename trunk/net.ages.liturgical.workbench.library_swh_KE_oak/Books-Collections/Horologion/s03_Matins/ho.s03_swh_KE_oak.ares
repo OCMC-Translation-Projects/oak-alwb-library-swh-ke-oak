@@ -8,10 +8,10 @@ R3 = ""
 R4 = ""
 SixPsalms.title = ""
 R6 = ""
-hoMA.GodIsTheLord.text = "" // for media
+hoMA.GodIsTheLord.text = "" //for media
 R7 = ""
 R8 = ""
-R9 = "" // (about Lent)
+R9 = "" //(about Lent)
 R10 = ""
 
 hoMA.Triadics.title = titles_swh_KE_oak.TriadicHymns
@@ -95,7 +95,7 @@ hoMA.ResEvlog5.text = ""
 hoMA.ResEvlog6.mode = misc_swh_KE_oak.Mode5
 hoMA.ResEvlog6.text = ""
 hoMA.ResEvlog7.mode = misc_swh_KE_oak.Mode5
-hoMA.ResEvlog7.text = prayers_swh_KE_oak.Allilouia3Doxa.text
+hoMA.ResEvlog7.text = prayers_swh_KE_oak.Allilouia3Doxa.text 
 
 hoMA.FuneralEvlog.title1 = ""
 hoMA.FuneralEvlog.title2 = ""
@@ -121,12 +121,12 @@ hoMA.FuneralEvlog9.mode = misc_swh_KE_oak.Mode5
 hoMA.FuneralEvlog9.text = prayers_swh_KE_oak.Allilouia3Doxa.text
 
 //Psalm 50
-hoMA.Psalm50.text = "" // for media
+hoMA.Psalm50.text = "" //for media
 
 hoMA.Ode9.Meg00.text = ""
 
 R15 = ""
-R16 = "" // (Lent)
+R16 = "" //(Lent)
 /*
 Title On Monday
 ending1
@@ -195,15 +195,15 @@ Hymn
 hoMA.ExapSatTitle = ""
 hoMA.ExapSat1.mode = misc_swh_KE_oak.Mode3
 hoMA.ExapSat1.melody = misc_swh_KE_oak.Automelon
-hoMA.ExapSat1.text = da.d7_swh_KE_oak.daMA.Exaposteilarion1.text
+hoMA.ExapSat1.text = da.d7_swh_KE_oak.daMA.Exaposteilarion1.text 
 
 hoMA.ExapSat2.mode = misc_swh_KE_oak.Mode3
 hoMA.ExapSat2.melody = he.a.m3_swh_KE_oak.OOuranonToisAstrois.name
-hoMA.ExapSat2.text = da.d7_swh_KE_oak.daMA.Exaposteilarion2.text
+hoMA.ExapSat2.text = da.d7_swh_KE_oak.daMA.Exaposteilarion2.text 
 
 hoMA.ExapSatTh.mode = misc_swh_KE_oak.Mode3
 hoMA.ExapSatTh.melody = he.a.m3_swh_KE_oak.OOuranonToisAstrois.name
-hoMA.ExapSatTh.text = da.d7_swh_KE_oak.daMA.ExapTheotokion.text
+hoMA.ExapSatTh.text = da.d7_swh_KE_oak.daMA.ExapTheotokion.text 
 
 R19 = ""
 R20 = ""
@@ -212,30 +212,31 @@ hoMA.LaudsSunTheotokion.text = oc.m2.d1_swh_KE_oak.ocMA.Kathisma23.text
 
 hoMA.DoxologyGreat.title = ""
 hoMA.DoxologyGreatIntro.text = ""
-hoMA.DoxologyVerse01.text = ""
+hoMA.DoxologyVerse01.text = le.go.os_swh_KE_oak.leosMA.GreatDoxology.v01.text
 hoMA.DoxologyVerse02.text = ""
 hoMA.DoxologyVerse03.text = ""
 hoMA.DoxologyVerse04.text = ""
 hoMA.DoxologyVerse05.text = ""
 hoMA.DoxologyVerse06.text = ""
-hoMA.DoxologyVerse07.text = ""
+hoMA.DoxologyVerse07.text = ps_swh_KE_oak.psa144.v2.text
 hoMA.DoxologyVerse07e.text = ""
 hoMA.DoxologyVerse08.text = ""
 hoMA.DoxologyVerse08e.text = ""
 hoMA.DoxologyVerse08n.text = ""
-hoMA.DoxologyVerse09.text = ""
-hoMA.DoxologyVerse10.text = ""
-hoMA.DoxologyVerse11a.text = ""
+hoMA.DoxologyVerse09.text = le.pr.os_swh_KE_oak.leosMA.GreatDoxology.v09.text
+hoMA.DoxologyVerse10.text = ps_swh_KE_oak.psa32.v22.text
+hoMA.DoxologyVerse11a.text = ps_swh_KE_oak.psa118.v12.text
 hoMA.DoxologyVerse11b.text = ""
-hoMA.DoxologyVerse11d.text = ""
-hoMA.DoxologyVerse12.text = ""
-hoMA.DoxologyVerse13.text = ""
-hoMA.DoxologyVerse14.text = ""
-hoMA.DoxologyVerse15.text = ""
+hoMA.DoxologyVerse11c.text = ""
+hoMA.DoxologyVerse12a.text = ps_swh_KE_oak.psa89.v1.text
+hoMA.DoxologyVerse12b.text = ps_swh_KE_oak.psa40.v5.text
+hoMA.DoxologyVerse13.text = ps_swh_KE_oak.psa142.v10alt.text
+hoMA.DoxologyVerse14.text = ps_swh_KE_oak.psa35.v10.text
+hoMA.DoxologyVerse15.text = ps_swh_KE_oak.psa35.v11a.text
 hoMA.DoxologyVerse16.text = ""
 hoMA.DoxologyVerse17.text = ""
 hoMA.DoxologyVerse18.text = ""
-hoMA.DoxologyVerse19.text = "Usiyekufa mtakatifu, utuhurumie."
+hoMA.DoxologyVerse19.text = ""
 R22 = ""
 hoMA.DoxologyVerse20.text = ""
 R23 = ""
@@ -243,8 +244,8 @@ hoMA.DoxologySmallIntro.text = ""
 hoMA.DoxologySmallEnd.text = ""
 hoMA.SmallDoxology.title = ""
 hoMA.SmallDoxology1.text = ""
-hoMA.SmallDoxology1d = ""
-hoMA.SmallDoxology1e = ""
+hoMA.SmallDoxology1d = "" 
+hoMA.SmallDoxology1e = "" 
 hoMA.SmallDoxology2.text = ""
 hoMA.SmallDoxology2d = ""
 hoMA.SmallDoxology2e = ""
@@ -255,9 +256,9 @@ R24 = ""
 R25 = ""
 R26 = ""
 R27 = ""
-R28 = "" // [maybe unpack]
+R28 = "" //[maybe unpack]
 hoMA.Apolytikion = oc.m6.d5_swh_KE_oak.ocMA.Kathisma33.text
-R29 = "" // [maybe unpack]
+R29 = "" //[maybe unpack]
 R30 = ""
 R31 = ""
 R32 = ""
@@ -271,11 +272,11 @@ R37 = ""
 //Title ultimately link this to pe.d18.peMA.Kath12
 hoMA.SunTroparion2.mode = misc_swh_KE_oak.Mode8
 hoMA.SunTroparion2.text = ""
-R38 = "" // [maybe unpack]
+R38 = "" //[maybe unpack]
 R39 = ""
 
 //Order of Matins Gospel
-hoMA.Antiphon11.text = "" // for media
+hoMA.Antiphon11.text = "" //for media
 hoMA.PreGospelHymn.text = "" // for media
 
 hoMA.SunPostGospel.text = ""
@@ -298,7 +299,7 @@ hoMA.PostGospelHierarch.text = ""
 
 hoMA.SunPostGospelIdiomelon.text = ""
 
-hoMA.SunExapVerse1.text = "" // for media
+hoMA.SunExapVerse1.text = "" //for media
 
 //Triodion specific, not in Horologion
 hoMA.RtrSoS01 = ""

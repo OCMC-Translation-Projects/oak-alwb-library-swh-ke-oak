@@ -513,8 +513,6 @@ octrMA.Kathisma11.mode = misc_swh_KE_oak.Mode1
 octrMA.Kathisma11.melody = he.a.m1_swh_KE_oak.TonTafonSouSotir.name
 octrMA.Kathisma11.text = ""
 
-octrMA.Kathisma12Verse.text = ""
-
 octrMA.Kathisma12.mode = misc_swh_KE_oak.Mode1
 octrMA.Kathisma12.melody = he.a.m1_swh_KE_oak.TouLithouSfragisthentos.name
 octrMA.Kathisma12.text = oc.m1.d4_swh_KE_oak.ocMA.Kathisma21.text
