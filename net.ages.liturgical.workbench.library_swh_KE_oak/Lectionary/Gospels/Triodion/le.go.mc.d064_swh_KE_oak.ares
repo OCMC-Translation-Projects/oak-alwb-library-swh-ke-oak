@@ -1,0 +1,13 @@
+A_Resource_Whose_Name = le.go.mc.d064_swh_KE_oak
+
+lemcMA.Gospel.title = ""
+lemcMA.Gospel.version = ""
+lemcMA.Gospel.book = bible_swh_KE_oak.Matthew
+lemcMA.Gospel.chapverse = "(21:1-11, 15-17)"
+lemcMA.Gospel.text = ""
+
+lemcLI.Gospel.title = ""
+lemcLI.Gospel.version = ""
+lemcLI.Gospel.book = bible_swh_KE_oak.Luke
+lemcLI.Gospel.chapverse = ""
+lemcLI.Gospel.text = ""
