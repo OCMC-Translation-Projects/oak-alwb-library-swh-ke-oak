@@ -1,0 +1,116 @@
+A_Resource_Whose_Name = le.go.mc.d069_swh_KE_oak
+
+lemcLI.Gospel.title = ""
+lemcLI.Gospel.version = ""
+lemcLI.Gospel.book = bible_swh_KE_oak.Matthew
+lemcLI.Gospel.chapverse = ""
+lemcLI.Gospel.text = ""
+
+lemcHW.NiptirGospel1.title = "" // Εἰς τὴν τελετὴν τοῦ νιπτῆρος Εὐαγγέλιον πρῶτον
+lemcHW.NiptirGospel1.version = ""
+lemcHW.NiptirGospel1.book = bible_swh_KE_oak.John
+lemcHW.NiptirGospel1.chapverse = "(13:3-11)"
+lemcHW.NiptirGospel1.text = ""
+
+lemcHW.NiptirGospel2.title = "" // Εἰς τὴν τελετὴν τοῦ νιπτῆρος Εὐαγγέλιον δεύτερον
+lemcHW.NiptirGospel2.version = ""
+lemcHW.NiptirGospel2.book = bible_swh_KE_oak.John
+lemcHW.NiptirGospel2.chapverse = ""
+lemcHW.NiptirGospel2.text = ""
+
+lemcHW.PassionGospel01.title = ""
+lemcHW.PassionGospel01.version = ""
+lemcHW.PassionGospel01.book = bible_swh_KE_oak.John
+lemcHW.PassionGospel01.chapverse = ""
+lemcHW.PassionGospel01.text = ""
+
+lemcHW.PassionGospel02.title = ""
+lemcHW.PassionGospel02.version = ""
+lemcHW.PassionGospel02.book = bible_swh_KE_oak.John
+lemcHW.PassionGospel02.chapverse = ""
+lemcHW.PassionGospel02.text = ""
+
+lemcHW.PassionGospel03.title = ""
+lemcHW.PassionGospel03.version = ""
+lemcHW.PassionGospel03.book = bible_swh_KE_oak.Matthew
+lemcHW.PassionGospel03.chapverse = ""
+lemcHW.PassionGospel03.text = ""
+
+lemcHW.PassionGospel04.title = ""
+lemcHW.PassionGospel04.version = ""
+lemcHW.PassionGospel04.book = bible_swh_KE_oak.John
+lemcHW.PassionGospel04.chapverse = ""
+lemcHW.PassionGospel04.text = ""
+
+lemcHW.PassionGospel05.title = ""
+lemcHW.PassionGospel05.version = ""
+lemcHW.PassionGospel05.book = bible_swh_KE_oak.Matthew
+lemcHW.PassionGospel05.chapverse = ""
+lemcHW.PassionGospel05.text = ""
+
+lemcHW.PassionGospel06.title = ""
+lemcHW.PassionGospel06.version = ""
+lemcHW.PassionGospel06.book = bible_swh_KE_oak.Mark
+lemcHW.PassionGospel06.chapverse = ""
+lemcHW.PassionGospel06.text = ""
+
+lemcHW.PassionGospel07.title = ""
+lemcHW.PassionGospel07.version = ""
+lemcHW.PassionGospel07.book = bible_swh_KE_oak.Matthew
+lemcHW.PassionGospel07.chapverse = ""
+lemcHW.PassionGospel07.text = ""
+
+lemcHW.PassionGospel08.title = ""
+lemcHW.PassionGospel08.version = ""
+lemcHW.PassionGospel08.book = bible_swh_KE_oak.Luke
+lemcHW.PassionGospel08.chapverse = ""
+lemcHW.PassionGospel08.text = ""
+
+lemcHW.PassionGospel09.title = ""
+lemcHW.PassionGospel09.version = ""
+lemcHW.PassionGospel09.book = bible_swh_KE_oak.John
+lemcHW.PassionGospel09.chapverse = ""
+lemcHW.PassionGospel09.text = ""
+
+lemcHW.PassionGospel10.title = ""
+lemcHW.PassionGospel10.version = ""
+lemcHW.PassionGospel10.book = bible_swh_KE_oak.Mark
+lemcHW.PassionGospel10.chapverse = ""
+lemcHW.PassionGospel10.text = ""
+
+lemcHW.PassionGospel11.title = ""
+lemcHW.PassionGospel11.version = ""
+lemcHW.PassionGospel11.book = bible_swh_KE_oak.John
+lemcHW.PassionGospel11.chapverse = ""
+lemcHW.PassionGospel11.text = ""
+
+lemcHW.PassionGospel12.title = ""
+lemcHW.PassionGospel12.version = ""
+lemcHW.PassionGospel12.book = bible_swh_KE_oak.Matthew
+lemcHW.PassionGospel12.chapverse = ""
+lemcHW.PassionGospel12.text = ""
+
+lemcH1.Gospel.title = ""
+lemcH1.Gospel.version = ""
+lemcH1.Gospel.book = bible_swh_KE_oak.Matthew
+lemcH1.Gospel.chapverse = ""
+lemcH1.Gospel.text = ""
+
+lemcH3.Gospel.title = ""
+lemcH3.Gospel.version = ""
+lemcH3.Gospel.book = bible_swh_KE_oak.Mark
+lemcH3.Gospel.chapverse = ""
+lemcH3.Gospel.text = ""
+
+lemcH6.Gospel.title = ""
+lemcH6.Gospel.version = ""
+lemcH6.Gospel.book = bible_swh_KE_oak.Luke
+lemcH6.Gospel.chapverse = ""
+lemcH6.Gospel.text = ""
+
+lemcH9.Gospel.title = ""
+lemcH9.Gospel.version = ""
+lemcH9.Gospel.book = bible_swh_KE_oak.John
+lemcH9.Gospel.chapverse = ""
+lemcH9.Gospel.text = ""
+
