@@ -1,0 +1,19 @@
+A_Resource_Whose_Name = le.go.me.m10.d26_swh_KE_oak
+
+lemeMA.Gospel.title = ""
+lemeMA.Gospel.version = ""
+lemeMA.Gospel.book = bible_swh_KE_oak.Luke
+lemeMA.Gospel.chapverse = ""
+lemeMA.Gospel.text = ""
+
+lemeLI.Gospel.title = ""
+lemeLI.Gospel.version = ""
+lemeLI.Gospel.book = bible_swh_KE_oak.John
+lemeLI.Gospel.chapverse = "(15:17-27; 16:1-2)"
+lemeLI.Gospel.text = "\"Basi, amri yangu kwenu ndiyo hii: pendaneni. Kama ulimwengu ukiwachukia nyinyi, kumbukeni kwamba umenichukia mimi kabla ya kuwachukia nyinyi. Kama mngalikuwa watu wa ulimwengu, ulimwengu ungaliwapenda nyinyi kama watu wake. Lakini kwa vile nyinyi si wa ulimwengu, ila mimi nimewachagueni kutoka ulimwenguni, kwa sababu hiyo ulimwengu unawachukieni. Kumbukeni niliyowaambieni: mtumishi si mkuu kuliko bwana wake. Ikiwa wamenitesa mimi, watawatesa na nyinyi pia; kama wameshika neno langu, watalishika na lenu pia. Lakini hayo yote watawatendeeni nyinyi kwa sababu ya jina langu, kwani hawamjui yeye aliyenituma. Kama nisingalikuja na kusema nao wasingalikuwa na hatia; lakini sasa hawawezi kujitetea kwamba hawana dhambi. Anayenichukia mimi, anamchukia na Baba yangu pia. Kama nisingalifanya kwao mambo ambayo hakuna mtu mwingine amekwisha yafanya wasingalikuwa na hatia; lakini sasa wameona niliyoyafanya wakanichukia mimi, wakamchukia na Baba yangu pia. Ndiyo maana yale yaliyoandikwa katika sheria yao ni kweli: 'Wamenichukia bure!' Atakapokuja huyo Msaidize nitakayemtuma kwenu kutoka kwa Baba, huyo Roho wa ukweli, atokaye kwa Baba, yeye atanishuhudia mimi. Nanyi pia mtanishuhudia kwa kuwa mmekuwa nami tangu mwanzo. Nimewaambieni hayo kusudi msiiache imani yenu. Watu watawafukuza nyinyi katika masunagogi yao. Tena, wakati unakuja ambapo kila atakayewaua nyinyi atadhani anamhudumia Mungu.\""
+
+lemeLI.Gospel2.title = ""
+lemeLI.Gospel2.version = le.go.mc.d131_swh_KE_oak.lemcLI.Gospel.version
+lemeLI.Gospel2.book = le.go.mc.d131_swh_KE_oak.lemcLI.Gospel.book
+lemeLI.Gospel2.chapverse = le.go.mc.d131_swh_KE_oak.lemcLI.Gospel.chapverse
+lemeLI.Gospel2.text = le.go.mc.d131_swh_KE_oak.lemcLI.Gospel.text
