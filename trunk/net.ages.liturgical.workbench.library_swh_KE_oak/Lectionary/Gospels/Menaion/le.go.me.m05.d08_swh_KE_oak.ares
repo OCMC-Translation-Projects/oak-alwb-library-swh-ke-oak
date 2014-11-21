@@ -1,0 +1,19 @@
+A_Resource_Whose_Name = le.go.me.m05.d08_swh_KE_oak
+
+lemeMA.Gospel.title = ""
+lemeMA.Gospel.version = le.go.eo.w11_swh_KE_oak.leeoMA.Gospel.version
+lemeMA.Gospel.book = le.go.eo.w11_swh_KE_oak.leeoMA.Gospel.book
+lemeMA.Gospel.chapverse = le.go.eo.w11_swh_KE_oak.leeoMA.Gospel.chapverse
+lemeMA.Gospel.text = le.go.eo.w11_swh_KE_oak.leeoMA.Gospel.text
+
+lemeLI.Gospel.title = ""
+lemeLI.Gospel.version = ""
+lemeLI.Gospel.book = bible_swh_KE_oak.John
+lemeLI.Gospel.chapverse = "(19:25-28; 21:24-25)"
+lemeLI.Gospel.text = "Karibu na msalaba wake Yesu walikuwa wamesimama mama yake, na dada ya mama yake, Maria mke wa Kleopa, na Maria Magdalene. Yesu alipomwona mama yake, na karibu naye amesimama yule mwanafunzi aliyempenda, akamwambia mama yake, \"Mama! Tazama, huyo ndiye mwanao.\" Halafu akamwambia yule mwanafunzi, \"Tazama, huyo ndiye mama yako.\" Na tangu saa ile huyo mwanafunzi alimchukua akae nyumbani kwake.Kisha, Yesu aliona kwamba yote yalikuwa yametimia; na, ili Maandiko Matakatifu yapate kutimia, akasema, \"Naona kiu.\" Huyo ndiye yule aliyeshuhudia mambo haya na kuyaandika. Nasi twajua kwamba aliyoyasema ni kweli. Kuna mambo mengine mengi aliyofanya Yesu, ambayo kama yangeandikwa yote, moja baada ya lingine, nadhani hata ulimwengu wenyewe usingetosha kuviweka vitabu ambavyo vingeandikwa."
+
+lemeLI.Gospel2.title = ""
+lemeLI.Gospel2.version = ""
+lemeLI.Gospel2.book = bible_swh_KE_oak.Matthew
+lemeLI.Gospel2.chapverse = "(11:27-30)"
+lemeLI.Gospel2.text = "\"Baba yangu amenikabidhi vitu vyote. Hakuna amjuaye Mwana ila Baba, wala amjuaye Baba ila Mwana, na yeyote yule ambaye Mwana anapenda kumfunulia. Njoni kwangu nyinyi nyote msumbukao na kulemewa na mizigo, nami nitawapumzisha. Jifungeni nira yangu, mkajifunze kwangu, maana mimi ni mpole na mnyenyekevu wa moyo, nanyi mtatulizwa rohoni mwenu. Maana, nira niwapayo mimi ni laini, na mzigo wangu ni mwepesi.\""
