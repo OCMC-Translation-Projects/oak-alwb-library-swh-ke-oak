@@ -1,0 +1,19 @@
+A_Resource_Whose_Name = le.go.me.m01.d06_swh_KE_oak
+
+lemeVE.Gospel.title = ""
+lemeVE.Gospel.version = le.go.me.m01.d05_swh_KE_oak.lemeH9.Gospel.version
+lemeVE.Gospel.book = le.go.me.m01.d05_swh_KE_oak.lemeH9.Gospel.book
+lemeVE.Gospel.chapverse = le.go.me.m01.d05_swh_KE_oak.lemeH9.Gospel.chapverse
+lemeVE.Gospel.text = le.go.me.m01.d05_swh_KE_oak.lemeH9.Gospel.text
+
+lemeMA.Gospel.title = ""
+lemeMA.Gospel.version = ""
+lemeMA.Gospel.book = bible_swh_KE_oak.Mark
+lemeMA.Gospel.chapverse = "(1:9-11)"
+lemeMA.Gospel.text = "Siku hizo, Yesu alifika kutoka Nazareti, mji wa Galilaya, akabatizwa na Yohane katika mto Yordani. Mara tu alipotoka majini, aliona mbingu zimefunguliwa, na Roho akishuka juu yake kama njiwa. Sauti ikasikika kutoka mbinguni: \"Wewe ni Mwanangu mpendwa, nimependezwa nawe.\""
+
+lemeLI.Gospel.title = ""
+lemeLI.Gospel.version = ""
+lemeLI.Gospel.book = bible_swh_KE_oak.Matthew
+lemeLI.Gospel.chapverse = "(3:13-17)"
+lemeLI.Gospel.text = "Wakati huo Yesu alitoka Galilaya akafika katika mto Yordani, akamwendea Yohane ili abatizwe naye. Lakini Yohane alijaribu kumzuia akisema, \"Je, wewe unakuja kwangu? Mimi hasa ndiye ninayehitaji kubatizwa nawe.\" Lakini Yesu akamjibu, \"Acha tu iwe hivyo kwa sasa, maana ndivyo inavyofaa tuyatekeleze yale yote Mungu anayotaka.\" Hapo Yohane akakubali. Mara tu Yesu alipokwisha batizwa, alitoka majini; na kumbe mbingu zikafunguka, akaona Roho wa Mungu akishuka kama njiwa na kutua juu yake. Sauti kutoka mbinguni ikasema, \"Huyu ndiye Mwanangu mpendwa, nimependezwa naye.\""

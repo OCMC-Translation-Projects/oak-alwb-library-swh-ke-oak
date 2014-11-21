@@ -1,25 +1,25 @@
-A_Resource_Whose_Name = le.go.me.m01.d05_swh_KE_oak
+A_Resource_Whose_Name = le.go.me.m01.d05_swh_KE_oak 
 
 lemeH1.Gospel.title = ""
-lemeH1.Gospel.version = ""
+lemeH1.Gospel.version = 
 lemeH1.Gospel.book = bible_swh_KE_oak.Matthew
-lemeH1.Gospel.chapverse = "(3:1-6)"
-lemeH1.Gospel.text = "Siku zile Yohane Mbatizaji alitokea, akaanza kuhubiri katika jangwa la Yudea: \"Tubuni, maana ufalme wa mbinguni umekaribia.\" Huyu Yohane ndiye yule ambaye nabii Isaya alinena juu yake aliposema: \"Sauti ya mtu anaita jangwani: 'Mtayarishieni Bwana njia yake, nyosheni barabara zake.'\" Yohane alivaa vazi lililoshonwa kwa manyoya ya ngamia, na ukanda wa ngozi kiunoni mwake. Chakula chake kilikuwa nzige na asali ya mwituni. Basi, watu kutoka Yerusalemu, kutoka pande zote za Yudea na sehemu zote za kandokando ya mto Yordani, walimwendea, wakaziungama dhambi zao, naye akawabatiza katika mto Yordani."
+lemeH1.Gospel.chapverse = ""
+lemeH1.Gospel.text = ""
 
 lemeH3.Gospel.title = ""
-lemeH3.Gospel.version = ""
+lemeH3.Gospel.version = 
 lemeH3.Gospel.book = bible_swh_KE_oak.Mark
-lemeH3.Gospel.chapverse = "(1:1-8)"
-lemeH3.Gospel.text = "Habari Njema ya Yesu Kristo, Mwana wa Mungu. Ilianza kama ilivyoandikwa katika kitabu cha nabii Isaya: \"Mungu alisema, 'Namtuma mjumbe wangu akutangulie, ambaye atakutayarishia njia yako.' Sauti ya mtu anaita jangwani: 'Mtayarisheni Bwana njia yake, nyosheni barabara zake.'\" Yohane Mbatizaji alitokea jangwani, akahubiri kwamba watu watubu na kubatizwa ili Mungu awasamehe dhambi zao. Watu kutoka sehemu zote za Yudea na wenyeji wote wa Yerusalemu walimwendea, wakaziungama dhambi zao, naye akawabatiza katika mto Yordani. Yohane alikuwa amevaa vazi lililofumwa kwa manyoya ya ngamia, na ukanda wa ngozi kiunoni mwake. Chakula chake kilikuwa nzige na asali ya mwituni. Naye alihubiri akisema, \"Baada yangu anakuja mwenye nguvu zaidi kuliko mimi, ambaye mimi sistahili hata kuinama na kufungua kamba za viatu vyake. Mimi ninawabatiza kwa maji, lakini yeye atawabatiza kwa Roho Mtakatifu.\""
+lemeH3.Gospel.chapverse = ""
+lemeH3.Gospel.text = ""
 
 lemeH6.Gospel.title = ""
-lemeH6.Gospel.version = ""
+lemeH6.Gospel.version = 
 lemeH6.Gospel.book = bible_swh_KE_oak.Mark
-lemeH6.Gospel.chapverse = "(1:9-11)"
-lemeH6.Gospel.text = "Siku hizo, Yesu alifika kutoka Nazareti, mji wa Galilaya, akabatizwa na Yohane katika mto Yordani. Mara tu alipotoka majini, aliona mbingu zimefunguliwa, na Roho akishuka juu yake kama njiwa. Sauti ikasikika kutoka mbinguni: \"Wewe ni Mwanangu mpendwa, nimependezwa nawe.\""
+lemeH6.Gospel.chapverse = ""
+lemeH6.Gospel.text = ""
 
 lemeH9.Gospel.title = ""
-lemeH9.Gospel.version = ""
+lemeH9.Gospel.version = 
 lemeH9.Gospel.book = bible_swh_KE_oak.Luke
-lemeH9.Gospel.chapverse = "(3:1-18)"
+lemeH9.Gospel.chapverse = ""
 lemeH9.Gospel.text = ""
