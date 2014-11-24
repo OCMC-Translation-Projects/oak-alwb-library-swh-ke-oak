@@ -1,0 +1,13 @@
+A_Resource_Whose_Name = le.go.me.m09.d02_swh_KE_oak
+
+lemeLI.Gospel.title = ""
+lemeLI.Gospel.version = ""
+lemeLI.Gospel.book = bible_swh_KE_oak.John
+lemeLI.Gospel.chapverse = "(15:1-11)"
+lemeLI.Gospel.text = "\"Mimi ni mzabibu wa kweli, na Baba yangu ndiye mkulima. Kila tawi ndani yangu lisilozaa matunda yeye huliondoa, na kila tawi lizaalo hulisafisha lipate kuzaa zaidi. Nyinyi mmekwisha kuwa safi kwa sababu ya ule ujumbe niliowaambieni. Kaeni ndani yangu, nami nikae ndani yenu. Kama vile tawi haliwezi peke yake kuzaa matunda lisipobaki katika mzabibu, hali kadhalika nanyi hamwezi kuzaa matunda msipokaa ndani yangu. Mimi ni mzabibu, nanyi ni matawi. Akaaye ndani yangu, nami nikiwa ndani yae, huyo huzaa matunda mengi, maana bila mimi hamwezi kufanya chochote. Mtu yeyote asipokaa ndani yangu hutupwa nje kama tawi litupwalo nje hata likakauka. Watu huliokota tawi la namna hiyo na kulitupa motoni liungue. Mkikaa ndani yangu na maneno yangu yakikaa ndani yenu, basi, ombeni chochte mtakacho nanyi mtapewa. Baba yangu hutukuzwa kama mkizaa matunda mengi na kuwa wanafunzi wangu. Mimi nimewapenda nyinyi kama vile Baba alivyonipenda mimi. Kaeni katika pendo langu. Mkizishika amri zangu mtakaa katika pendo langu, kama vile nami nilivyozishika amri za Baba yangu na kukaa katika pendo lake. Nimewaambieni mambo haya ili furaha yangu ikae ndani yenu, na furaha yenu ikamilike.\""
+
+lemeLI.Gospel2.title = ""
+lemeLI.Gospel2.version = le.go.me.m11.d13_swh_KE_oak.lemeLI.Gospel.version
+lemeLI.Gospel2.book = le.go.me.m11.d13_swh_KE_oak.lemeLI.Gospel.book
+lemeLI.Gospel2.chapverse = le.go.me.m11.d13_swh_KE_oak.lemeLI.Gospel.chapverse
+lemeLI.Gospel2.text = le.go.me.m11.d13_swh_KE_oak.lemeLI.Gospel.text

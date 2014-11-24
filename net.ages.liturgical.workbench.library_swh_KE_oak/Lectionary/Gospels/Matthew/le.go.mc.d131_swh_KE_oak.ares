@@ -1,7 +1,7 @@
-A_Resource_Whose_Name = le.go.mc.d131_swh_KE_oak 
+A_Resource_Whose_Name = le.go.mc.d131_swh_KE_oak
 
 lemcLI.Gospel.title = ""
-lemcLI.Gospel.version = 
+lemcLI.Gospel.version = ""
 lemcLI.Gospel.book = bible_swh_KE_oak.Matthew
-lemcLI.Gospel.chapverse = ""
-lemcLI.Gospel.text = ""
+lemcLI.Gospel.chapverse = "(8:23-27)"
+lemcLI.Gospel.text = "Yesu alipanda mashua, na wanafunzi wake wakaenda pamoja naye. Mara, dhoruba kali ikatokea ziwani, hata mawimbi yakaanza kuifunika mashua. Yesu lakini alikuwa amelala usingizi. Wanafunzi wakamwendea, wakamwamsha wakisema, \"Bwana, tuokoe, tunaangamia!\" Yesu akawaambia, \"Enyi watu wenye imani haba; mbona mnaogopa?\" Basi, akainuka, akaukemea upepo na lile ziwa; kukawa shwari kabisa. Watu wakashangaa, wakasema, \"Ni mtu wa namna gani huyu? Hata pepo na bahari vinamtii!\""
