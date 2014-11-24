@@ -1,0 +1,19 @@
+A_Resource_Whose_Name = le.go.me.m09.d01_swh_KE_oak
+
+lemeMA.Gospel.title = ""
+lemeMA.Gospel.version = ""
+lemeMA.Gospel.book = le.go.me.m12.d05_swh_KE_oak.lemeLI.Gospel.book
+lemeMA.Gospel.chapverse = le.go.me.m12.d05_swh_KE_oak.lemeLI.Gospel.chapverse
+lemeMA.Gospel.text = le.go.me.m12.d05_swh_KE_oak.lemeLI.Gospel.text
+
+lemeLI.Gospel.title = ""
+lemeLI.Gospel.version = ""
+lemeLI.Gospel.book = bible_swh_KE_oak.Luke
+lemeLI.Gospel.chapverse = "(4:16-22)"
+lemeLI.Gospel.text = "Basi, Yesu alikwenda Nazareti, mahali alipolelewa, na siku ya Sabato, aliingia katika sunagogi kama ilivyokuwa desturi yake. Akasimama ili asome Maandiko Matakatifu kwa sauti. Akapokea kitabu cha nabii Isaya, akakifungua na akakuta mahali palipoandikwa: \"Roho wa Bwana yu juu yangu, kwani ameniweka wakfu niwaletee maskini Habari Njema. Amenituma niwatangazie mateka uhuru wao, na vipofu watapata kuona tena; amenituma niwakomboe wanaoonewa, na kutangaza mwaka wa neema ya Bwana.\" Baada ya kusoma, akafunga kile kitabu, akampa mtumishi, kisha akaketi; watu wote wakamkodolea macho. Naye akaanza kuwaambia, \"Andiko hili mlilosikia limetimia leo.\" Wote wakavutiwa sana naye, wakastaajabia maneno mazuri aliyosema."
+
+lemeLI.Gospel2.title = ""
+lemeLI.Gospel2.version = ""
+lemeLI.Gospel2.book = bible_swh_KE_oak.John
+lemeLI.Gospel2.chapverse = "(10:9-16)"
+lemeLI.Gospel2.text = "\"Mimi ni mlango. Anayeingia kwa kupitia kwangu ataokolewa; ataingia na kutoka, na kupata malisho. Mwizi huja kwa shabaha ya kuiba, kuua na kuharibu. Mimi nimekuja mpate kuwa na uhai--uhai kamili. Mimi ni mchungaji mwema. Mchungaji mwema huutoa uhai wake kwa ajili ya kondoo wake. Mtu wa kuajiriwa ambaye si mchungaji, na wala kondoo si mali yake, anapoona mbwamwitu anakuja, huwaacha kondoo na kukimbia, kisha mbwamwitu huwakamata na kuwatawanya. Yeye hajali kitu juu ya kondoo kwa sababu yeye ni mtu wa mshahara tu. Mimi ni mchungaji mwema. Nawajua walio wangu, nao walio wangu wananijua mimi, kama vile Baba anijuavyo, nami nimjuavyo Baba. Mimi nayatoa maisha yangu kwa ajili yao. Tena ninao kondoo wengine ambao hawamo zizini humu. Inanibidi kuwaleta hao pia, nao wataisikia sauti yangu, na kutakuwako kundi moja na mchungaji moja.\""
