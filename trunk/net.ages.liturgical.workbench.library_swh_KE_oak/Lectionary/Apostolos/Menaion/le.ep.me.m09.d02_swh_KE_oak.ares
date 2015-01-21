@@ -1,0 +1,14 @@
+A_Resource_Whose_Name = le.ep.me.m09.d02_swh_KE_oak
+
+lemeLI.Epistle.title = ""
+lemeLI.Epistle.version = ""
+lemeLI.Epistle.book = bible_swh_KE_oak.Romans
+lemeLI.Epistle.chapverse = "(8:28-39)"
+lemeLI.Epistle.text = ""
+lemeLI.Epistle.pagenumber = ""
+
+lemeLI.Epistle2.title = ""
+lemeLI.Epistle2.version = le.ep.me.m11.d13_swh_KE_oak.lemeLI.Epistle.version
+lemeLI.Epistle2.book = le.ep.me.m11.d13_swh_KE_oak.lemeLI.Epistle.book
+lemeLI.Epistle2.chapverse = le.ep.me.m11.d13_swh_KE_oak.lemeLI.Epistle.chapverse
+lemeLI.Epistle2.text = le.ep.me.m11.d13_swh_KE_oak.lemeLI.Epistle.text

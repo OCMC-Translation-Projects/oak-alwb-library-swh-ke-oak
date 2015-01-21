@@ -1,0 +1,20 @@
+A_Resource_Whose_Name = le.ep.me.m01.d06_swh_KE_oak
+
+lemeVE.Epistle.title = ""
+lemeVE.Epistle.version = ""
+lemeVE.Epistle.book = bible_swh_KE_oak.Corinthians1
+lemeVE.Epistle.chapverse = "(9:19-27)"
+lemeVE.Epistle.text = "Kwa hiyo, ingawa mimi si mtumwa wa mtu yeyote, nimejifanya mtumwa wa kila mtu ili nimpatie Kristo watu wengi iwezekanavyo. Kwa Wayahudi nimeishi kama Myahudi ili niwapate Wayahudi; yaani, ingawa mimi siko chini ya sheria, nimejiweka chini ya sheria kwao, ili niwapate hao walio chini ya sheria. Na kwa wale walio nje ya sheria, naishi kama wao, nje ya sheria, ili niwapate hao walio nje ya sheria. Hii haimaanishi kwamba mimi niko nje ya sheria ya Mungu, maana nabanwa na sheria ya Kristo. Kwao walio dhaifu nimejifanya dhaifu ili niwapate hao walio dhaifu. Nimejifanya kila kitu kwa wote ili nipate kuwaokoa baadhi yao kwa kila njia. Nafanya haya yote kwa ajili ya injili, nipate kushiriki baraka zake. Je, hamjui kwamba katika uwanja wa michezo, ingawa wapiga mbio wote hukimbia, ni mmoja tu anayejinyakulia zawadi? Wanariadha hujipa mazoezi na nidhamu kali; hufanya hivyo ili wajipatie taji iharibikayo! Lakini sisi twafanya hivyo tupate taji isiyoharibika. Ndivyo basi, ninavyopiga mbio nikiwa na nia ya kushinda; ndivyo ninavyopigana, na si kama bondia anayetupa ngumi zake hewani. Naupa mwili wangu mazoezi magumu na kuutia katika nidhamu kamili, nisije mimi mwenyewe nikakataliwa baada ya kuwahubiria wengine."
+
+lemeGW.Epistle.title = ""
+lemeGW.Epistle.version = ""
+lemeGW.Epistle.book = bible_swh_KE_oak.Corinthians1
+lemeGW.Epistle.chapverse = "(10:1-4)"
+lemeGW.Epistle.text = "Ndugu, nataka mjue kwamba babu zetu wote walikuwa chini ya ulinzi wa lile wingu, na kwamba wote walivuka salama ile bahari. Wote walibatizwa katika umoja na Mose katika lile wingu na katika ile bahari. Wote walikula chakula kilekile cha kiroho, wakanywa pia kinywaji kilekile cha kiroho, maana walikunywa kutoka ule mwamba wa kiroho uliowafuata; mwamba huo ulikuwa Kristo mwenyewe."
+
+lemeLI.Epistle.title = ""
+lemeLI.Epistle.version = le.ep.me.m01.d05_swh_KE_oak.lemeH9.Epistle.version
+lemeLI.Epistle.book = le.ep.me.m01.d05_swh_KE_oak.lemeH9.Epistle.book
+lemeLI.Epistle.chapverse = le.ep.me.m01.d05_swh_KE_oak.lemeH9.Epistle.chapverse
+lemeLI.Epistle.text = le.ep.me.m01.d05_swh_KE_oak.lemeH9.Epistle.text
+lemeLI.Epistle.pagenumber = ""
