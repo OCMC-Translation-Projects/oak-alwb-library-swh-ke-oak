@@ -1,8 +1,8 @@
-A_Resource_Whose_Name = le.ep.mc.d019_swh_KE_oak
+A_Resource_Whose_Name = le.ep.mc.d019_swh_KE_oak 
 
 lemcLI.Epistle.title = ""
-lemcLI.Epistle.version = ""
+lemcLI.Epistle.version = 
 lemcLI.Epistle.book = bible_swh_KE_oak.Jude
-lemcLI.Epistle.chapverse = "(1:11-25)"
-lemcLI.Epistle.text = "Ole wao! Watu hao wamefuata mwenendo uleule wa Kaini. Kwa ajili ya fedha, wamejiingiza katika mkosi uleule wa Balaamu. Wameasi kama Kora alivyoasi na wameangamizwa kama yeye alivyoangamizwa. Kwa makelele yao yasiyo na adabu, na kwa kujipendelea wao wenyewe, watu hao ni kama madoa machafu kwenye karamu mnazoshiriki kwa upendo. Wako kama mawingu yasiyo na mvua yanayopeperushwa na upepo. Wao ni kama miti iliyopukutika isiyozaa matunda, iliyokufa kabisa, iliyong'olewa. Watu hao ni kama mawimbi makali ya bahari, na matendo yao ya aibu yanatoka kama povu. Wao ni kama nyota zinazotangatanga ambazo zimewekewa milele mahali pa giza kuu. Naye Henoki, ambaye ni babu wa saba tangu Adamu, alibashiri hivi juu ya watu hao: \"Sikilizeni! Bwana anakuja pamoja na maelfu ya malaika wake watakatifu kuwahukumu watu wote, na kuwaadhibu wote wasiomcha Mungu kwa ajili ya matendo yao yote maovu waliyotenda bila kumjali Mungu, na kwa ajili ya maneno yote mabaya ambayo watu waovu walimkashifu nayo.\" Watu hawa hunung'unika daima, hulalamika, hufuata tamaa zao mbaya, hujigamba na kuwasifu watu wengine mno kwa faida yao wenyewe. Lakini nyinyi wapenzi wangu, kumbukeni yale mliyoambiwa hapo awali na mitume wa Bwana wetu Yesu Kristo. Waliwaambieni: \"Siku za mwisho, watatokea watu watakaowadhihaki nyinyi, watu wafuatao tamaa zao mbaya.\" Hao ndio wanaosababisha mafarakano, watu wa fikira za kidunia, wasio na Roho wa Mungu. Lakini nyinyi, wapenzi wangu, jijengeni wenyewe juu ya imani yenu takatifu kabisa. Salini kwa nguvu ya Roho Mtakatifu, na kudumu katika upendo wa Mungu, mkimngojea Bwana wetu Yesu Kristo ambaye, kwa huruma yake, atawajalieni uhai wa milele. Muwe na huruma kwa watu walio na mashaka; waokoeni kwa kuwanyakua kutoka motoni. Lakini kwa wengine muwe na huruma pamoja na tahadhari, mkichukia hata mavazi yao yenye madoa ya tamaa zao mbaya. Kwake yeye awezaye kuwalinda msije mkaanguka, na kuwaleta nyinyi bila hatia mpaka mbele ya utukufu wake, kwake yeye aliye peke yake Mungu, Mkombozi wetu, uwe utukufu, ukuu, nguvu na mamlaka kwa njia ya Kristo Bwana wetu, tangu zama zote, sasa na hata milele! Amina."
+lemcLI.Epistle.chapverse = ""
+lemcLI.Epistle.text = ""
 lemcLI.Epistle.pagenumber = ""

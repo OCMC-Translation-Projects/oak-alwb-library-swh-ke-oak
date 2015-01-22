@@ -1,0 +1,27 @@
+A_Resource_Whose_Name = le.ep.me.m06.d19_swh_KE_oak
+
+lemeVE.Reading1.title = ""
+lemeVE.Reading1.version = le.ep.mc.d017_swh_KE_oak.lemcLI.Epistle.version
+lemeVE.Reading1.book = ""
+lemeVE.Reading1.chapverse = ""
+lemeVE.Reading1.text = ""
+
+lemeVE.Reading2.title = ""
+lemeVE.Reading2.version = le.ep.mc.d017_swh_KE_oak.lemcLI.Epistle.version
+lemeVE.Reading2.book = ""
+lemeVE.Reading2.chapverse = ""
+lemeVE.Reading2.text = ""
+
+lemeVE.Reading3.title = ""
+lemeVE.Reading3.version = le.ep.mc.d017_swh_KE_oak.lemcLI.Epistle.version
+lemeVE.Reading3.book = ""
+lemeVE.Reading3.chapverse = ""
+lemeVE.Reading3.text = ""
+
+lemeLI.Epistle.title = ""
+lemeLI.Epistle.version = le.ep.mc.d017_swh_KE_oak.lemcLI.Epistle.version
+lemeLI.Epistle.book = le.ep.mc.d017_swh_KE_oak.lemcLI.Epistle.book
+lemeLI.Epistle.chapverse = "(1:1-25)"
+lemeLI.Epistle.text = le.ep.mc.d017_swh_KE_oak.lemcLI.Epistle.text
+lemeLI.Epistle.pagenumber = ""
+lemeLI.Epistle2.text = le.ep.mc.d019_swh_KE_oak.lemcLI.Epistle.text
