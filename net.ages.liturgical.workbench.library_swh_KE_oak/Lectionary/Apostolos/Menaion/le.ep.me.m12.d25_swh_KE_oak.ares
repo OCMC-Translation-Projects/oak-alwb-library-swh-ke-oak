@@ -1,0 +1,14 @@
+A_Resource_Whose_Name = le.ep.me.m12.d25_swh_KE_oak
+
+lemeVE.Epistle.title = ""
+lemeVE.Epistle.version = le.ep.mc.d028_swh_KE_oak.lemcLI.Epistle.version
+lemeVE.Epistle.book = le.ep.mc.d028_swh_KE_oak.lemcLI.Epistle.book
+lemeVE.Epistle.chapverse = le.ep.mc.d028_swh_KE_oak.lemcLI.Epistle.chapverse
+lemeVE.Epistle.text = le.ep.mc.d028_swh_KE_oak.lemcLI.Epistle.text
+
+lemeLI.Epistle.title = ""
+lemeLI.Epistle.version = ""
+lemeLI.Epistle.book = bible_swh_KE_oak.Galatians
+lemeLI.Epistle.chapverse = "(4:4-7)"
+lemeLI.Epistle.text = "Lakini wakati ule maalumu ulipotimia, Mungu alimtuma Mwanae aliyezaliwa na mwanamke, akaishi chini ya sheria, apate kuwakomboa wale waliokuwa chini ya sheria ili sisi tufanywe wana wa Mungu. Kwa vile sasa nyinyi ni wanawe, Mungu amemtuma Roho wa Mwanae mioyoni mwenu, Roho ambaye hulia \"Aba,\" yaani \"Baba.\" Basi, wewe si mtumwa tena, bali mwana. Na ikiwa ni mwana, basi, wewe utapokea yote Mungu aliyowawekea watoto wake."
+lemeLI.Epistle.pagenumber = ""
