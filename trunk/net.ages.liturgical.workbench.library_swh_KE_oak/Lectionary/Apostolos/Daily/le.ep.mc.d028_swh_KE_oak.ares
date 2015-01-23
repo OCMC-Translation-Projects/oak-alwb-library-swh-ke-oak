@@ -1,10 +1,10 @@
-A_Resource_Whose_Name = le.ep.mc.d028_swh_KE_oak
+A_Resource_Whose_Name = le.ep.mc.d028_swh_KE_oak 
 
 lemcLI.Epistle.title = ""
-lemcLI.Epistle.version = ""
+lemcLI.Epistle.version = 
 lemcLI.Epistle.book = bible_swh_KE_oak.Hebrews
-lemcLI.Epistle.chapverse = "(1:1-12)"
-lemcLI.Epistle.text = "Hapo zamani, Mungu alisema na babu zetu mara nyingi kwa namna nyingi kwa njia ya manabii, lakini siku hizi za mwisho, amesema nasi kwa njia ya Mwanae. Yeye ndiye ambaye kwa njia yake Mungu aliumba ulimwengu, akamteua avimiliki vitu vyote. Yeye ni mng'ao wa utukufu wa Mungu, na mfano kamili wa hali ya Mungu mwenyewe, akiutegemeza ulimwengu kwa neno lake lenye nguvu. Baada ya kuwatakasa binadamu dhambi zao, ameketi huko juu mbinguni, upande wa kulia wa Mungu Mkuu. Mwana ni mkuu kuliko malaika, kama vile jina alilopewa na Mungu ni kuu kuliko jina lao. Maana Mungu hakumwambia kamwe hata mmoja wa malaika wake: \"Wewe ni Mwanangu; mimi leo nimekuwa Baba yako.\" Wala hakusema juu ya malaika yeyote: \"Mimi nitakuwa Baba yake, naye atakuwa Mwanangu.\" Lakini Mungu alipokuwa anamtuma Mwanae, mzaliwa wa kwanza, ulimwenguni alisema: \"Malaika wote wa Mungu na wamwabudu.\" Lakini kuhusu malaika, alisema: \"Amewafanya malaika wake kuwa upepo, na wahudumu wake ndimi za moto.\" Lakini kuhusu Mwana, Mungu alisema: \"Kiti chako cha enzi, ee Mungu, chadumu milele na milele! Wewe wawatawala watu wako kwa haki. Wewe wapenda uadilifu na kuchukia uovu. Ndiyo maana Mungu, Mungu wako, amekuweka wakfu na kukumiminia furaha kubwa kuliko wenzako.\" Na tena: \"Bwana, wewe uliumba dunia hapo mwanzo, mbingu ni kazi ya mikono yako. Hizo zitatoweka, lakini wewe wabaki daima, zote zitachakaa kama vazi. Utazikunjakunja kama koti, nazo zitabadilishwa kama vazi. Lakini wewe ni yuleyule daima, na maisha yako hayatakoma.\""
+lemcLI.Epistle.chapverse = ""
+lemcLI.Epistle.text = ""
 lemcLI.Epistle.pagenumber = ""
 
 // Ἕτερος τοῦ Ἁγίου Θεοδώρου Τύρωνος. ζήτει 26ης Ὀκτωβρίου

@@ -1,8 +1,8 @@
-A_Resource_Whose_Name = le.ep.mc.d330_swh_KE_oak 
+A_Resource_Whose_Name = le.ep.mc.d330_swh_KE_oak
 
 lemcLI.Epistle.title = ""
-lemcLI.Epistle.version = 
+lemcLI.Epistle.version = ""
 lemcLI.Epistle.book = bible_swh_KE_oak.Colossians
-lemcLI.Epistle.chapverse = ""
-lemcLI.Epistle.text = ""
+lemcLI.Epistle.chapverse = "(3:12-16)"
+lemcLI.Epistle.text = "Nyinyi ni watu wake Mungu; yeye aliwapenda na kuwateua. Kwa hivyo, basi, vaeni moyo wa huruma, wema, unyenyekevu, upole na uvumilivu. Vumilianeni na kusameheana iwapo mmoja wenu analo jambo lolote dhidi ya mwenzake. Mnapaswa kusameheana kama Bwana alivyowasamehe nyinyi. Zaidi ya hayo yote, zingatieni upendo, kwani upendo huunganisha kila kitu katika umoja ulio kamili. Nayo amani ya Kristo itawale mioyoni mwenu; maana kwa ajili hiyo nyinyi mmeitwa katika mwili huo mmoja. Tena muwe na shukrani! Ujumbe wa Kristo na ukae ndani yenu pamoja na utajiri wake wote. Fundishaneni na kushauriana kwa hekima yote. Imbeni Zaburi, nyimbo na tenzi za kiroho; mwimbieni Mungu mioyoni mwenu kwa shukrani."
 lemcLI.Epistle.pagenumber = ""
