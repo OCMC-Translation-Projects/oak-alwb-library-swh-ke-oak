@@ -52,7 +52,7 @@ ocVE.ApolTheotokionVM.mode = misc_swh_KE_oak.Mode1
 ocVE.ApolTheotokionVM.melody = he.a.m1_swh_KE_oak.TouLithouSfragisthentos.name
 ocVE.ApolTheotokionVM.text = oc.m1.d1_swh_KE_oak.ocVE.ApolTheotokionVM.text
 
-ocMA.Alleluia.mode = "" // for mode-specific media e.g. Triodion
+ocMA.Alleluia.mode = misc_swh_KE_oak.Mode1
 ocMA.Alleluia.text = prayers_swh_KE_oak.Allilouia3.text
 
 ocMA.Kathisma11.mode = misc_swh_KE_oak.Mode1
@@ -358,42 +358,42 @@ ocMA.OdeW7C11.text = ""
 
 ocMA.OdeW7C12.mode = misc_swh_KE_oak.Mode1
 ocMA.OdeW7C12.ode = misc_swh_KE_oak.Ode7
-ocMA.OdeW7C12.melody = he.h.m1_swh_KE_oak.SeNoitin.text
+ocMA.OdeW7C12.melody = he.h.m1_swh_KE_oak.SeNoitin.name
 ocMA.OdeW7C12.text = ""
 
 ocMA.OdeW7C13.mode = misc_swh_KE_oak.Mode1
 ocMA.OdeW7C13.ode = misc_swh_KE_oak.Ode7
-ocMA.OdeW7C13.melody = he.h.m1_swh_KE_oak.SeNoitin.text
+ocMA.OdeW7C13.melody = he.h.m1_swh_KE_oak.SeNoitin.name
 ocMA.OdeW7C13.text = ""
 
 ocMA.OdeW7C14.mode = misc_swh_KE_oak.Mode1
 ocMA.OdeW7C14.ode = misc_swh_KE_oak.Ode7
-ocMA.OdeW7C14.melody = he.h.m1_swh_KE_oak.SeNoitin.text
+ocMA.OdeW7C14.melody = he.h.m1_swh_KE_oak.SeNoitin.name
 ocMA.OdeW7C14.text = ""
 
 ocMA.OdeW7C1T.mode = misc_swh_KE_oak.Mode1
 ocMA.OdeW7C1T.ode = misc_swh_KE_oak.Ode7
-ocMA.OdeW7C1T.melody = he.h.m1_swh_KE_oak.SeNoitin.text
+ocMA.OdeW7C1T.melody = he.h.m1_swh_KE_oak.SeNoitin.name
 ocMA.OdeW7C1T.text = ""
 
 ocMA.OdeW7C21.mode = misc_swh_KE_oak.Mode1
 ocMA.OdeW7C21.ode = misc_swh_KE_oak.Ode7
-ocMA.OdeW7C21.melody = he.h.m1_swh_KE_oak.SeNoitin.text
+ocMA.OdeW7C21.melody = he.h.m1_swh_KE_oak.SeNoitin.name
 ocMA.OdeW7C21.text = ""
 
 ocMA.OdeW7C22.mode = misc_swh_KE_oak.Mode1
 ocMA.OdeW7C22.ode = misc_swh_KE_oak.Ode7
-ocMA.OdeW7C22.melody = he.h.m1_swh_KE_oak.SeNoitin.text
+ocMA.OdeW7C22.melody = he.h.m1_swh_KE_oak.SeNoitin.name
 ocMA.OdeW7C22.text = ""
 
 ocMA.OdeW7C23.mode = misc_swh_KE_oak.Mode1
 ocMA.OdeW7C23.ode = misc_swh_KE_oak.Ode7
-ocMA.OdeW7C23.melody = he.h.m1_swh_KE_oak.SeNoitin.text
+ocMA.OdeW7C23.melody = he.h.m1_swh_KE_oak.SeNoitin.name
 ocMA.OdeW7C23.text = ""
 
 ocMA.OdeW7C2T.mode = misc_swh_KE_oak.Mode1
 ocMA.OdeW7C2T.ode = misc_swh_KE_oak.Ode7
-ocMA.OdeW7C2T.melody = he.h.m1_swh_KE_oak.SeNoitin.text
+ocMA.OdeW7C2T.melody = he.h.m1_swh_KE_oak.SeNoitin.name
 ocMA.OdeW7C2T.text = ""
 
 ocMA.OdeW8C1H.mode = misc_swh_KE_oak.Mode1

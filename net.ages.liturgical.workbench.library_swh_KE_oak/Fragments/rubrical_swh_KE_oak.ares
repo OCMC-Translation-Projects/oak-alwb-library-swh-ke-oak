@@ -12,6 +12,8 @@ Forty = ""
 
 HolidayAll = ""
 
+HolidayChristmas = ""
+
 HolidayFast = ""
 
 HolidayFish = ""
@@ -24,9 +26,13 @@ Inaudibly = ""
 
 Intoned = ""
 
+NoEntrance = ""
+
 OmitMagnificat = ""
 
 Or = ""
+
+OrAccordingToCommonPractice = ""
 
 Read = ""
 
@@ -38,13 +44,13 @@ ThenSingSlowly = ""
 
 ThreeDayHoliday = ""
 
-Thrice = "(x3)"
+Thrice = ""
 
 TriodionSynaxarion = ""
 
 Twelve = ""
 
-Twice = "(x2)"
+Twice = ""
 
 TwiceWithNoVerse = ""
 

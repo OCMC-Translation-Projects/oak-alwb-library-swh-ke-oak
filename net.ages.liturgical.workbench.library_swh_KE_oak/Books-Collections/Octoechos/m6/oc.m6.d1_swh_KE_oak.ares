@@ -187,7 +187,7 @@ ocMO.Ode53.text = ""
 
 ocMO.Ode5T.mode = misc_swh_KE_oak.Mode6
 ocMO.Ode5T.ode = misc_swh_KE_oak.Ode5
-ocMO.Ode5T.melody  = ""
+ocMO.Ode5T.melody  = he.h.m6_swh_KE_oak.ToTheioFengeiSou.name
 ocMO.Ode5T.text = ""
 
 ocMO.Ode61.mode = misc_swh_KE_oak.Mode6

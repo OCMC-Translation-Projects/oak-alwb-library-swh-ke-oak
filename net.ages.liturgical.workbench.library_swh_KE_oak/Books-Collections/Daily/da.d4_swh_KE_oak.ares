@@ -1,16 +1,16 @@
-A_Resource_Whose_Name = da.d4_swh_KE_oak 
+A_Resource_Whose_Name = da.d4_swh_KE_oak
 
-daDay.text = ""
+daDay.text = "Jumatano."
 daCommemoration.text = ""
 
 daVE.OnTheEveningBefore = template.titles_swh_KE_oak.d.onTuesdayEvening
 
 daVE.Apolytikion1.mode = misc_swh_KE_oak.Mode1
-daVE.Apolytikion1.melody  = ""
+daVE.Apolytikion1.melody = ""
 daVE.Apolytikion1.text = me.m09.d14_swh_KE_oak.meVE.Apolytikion1.text
 
 daVE.ApolTheotokion.mode = misc_swh_KE_oak.Mode1
-daVE.ApolTheotokion.melody  = ""
+daVE.ApolTheotokion.melody = ""
 daVE.ApolTheotokion.text = oc.m1.d4_swh_KE_oak.ocVE.ApolTheotokionVM.text
 
 daMA.Triadic1Ending.text = ""
@@ -33,4 +33,4 @@ daMA.ExapTheotokion.mode = misc_swh_KE_oak.Mode2
 daMA.ExapTheotokion.melody = he.a.m2_swh_KE_oak.GynaikesAkoutisthite.name
 daMA.ExapTheotokion.text = ""
 
-daLI.CommunionHymn.text = "" //for media
+daLI.CommunionHymn.text = "" // for media

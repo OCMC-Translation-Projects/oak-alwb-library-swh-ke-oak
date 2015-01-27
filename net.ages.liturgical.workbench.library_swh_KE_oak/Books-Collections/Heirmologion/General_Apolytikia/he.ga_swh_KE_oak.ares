@@ -59,7 +59,7 @@ TisErimouPolitis.melody = he.a.m1_swh_KE_oak.TisErimouPolitis.name
 TisErimouPolitis.text1 = ""
 TisErimouPolitis.text2 = ""
 
-// For one named ascetic man. Insert name and title with comma
+// For one named ascetic man. Insert name and title with comma: name Πατὴρ ἡμῶν ὅσιε,
 TaisTonDakryonSou.name = ""
 TaisTonDakryonSou.mode = misc_swh_KE_oak.Mode8
 TaisTonDakryonSou.melody  = ""

@@ -1,26 +1,26 @@
-A_Resource_Whose_Name = le.ep.me.m05.d08_swh_KE_oak 
+A_Resource_Whose_Name = le.ep.me.m05.d08_swh_KE_oak
 
 lemeVE.Reading1.title = ""
-lemeVE.Reading1.version = 
+lemeVE.Reading1.version = ""
 lemeVE.Reading1.book = bible_swh_KE_oak.John1
 lemeVE.Reading1.chapverse = ""
 lemeVE.Reading1.text = ""
 
 lemeVE.Reading2.title = ""
-lemeVE.Reading2.version = 
+lemeVE.Reading2.version = ""
 lemeVE.Reading2.book = bible_swh_KE_oak.John1
 lemeVE.Reading2.chapverse = ""
 lemeVE.Reading2.text = ""
 
 lemeVE.Reading3.title = ""
-lemeVE.Reading3.version = 
+lemeVE.Reading3.version = ""
 lemeVE.Reading3.book = bible_swh_KE_oak.John1
 lemeVE.Reading3.chapverse = ""
 lemeVE.Reading3.text = ""
 
 lemeLI.Epistle.title = ""
-lemeLI.Epistle.version = 
+lemeLI.Epistle.version = ""
 lemeLI.Epistle.book = bible_swh_KE_oak.John1
-lemeLI.Epistle.chapverse = ""
-lemeLI.Epistle.text = ""
+lemeLI.Epistle.chapverse = "(1:1-7)"
+lemeLI.Epistle.text = "Habari hii yahusu Neno la uhai lililokuwako tangu mwanzo. Sisi tumepata kulisikia na kuliona kwa macho yetu wenyewe; tulilitazama na kulishika kwa mikono yetu wenyewe. Uhai huo ulipotokea sisi tuliuona na sasa tunasema habari zake na kuwaambieni juu ya uhai huo wa milele uliokuwa kwa Baba na uliodhihirishwa kwetu. Tulichokiona na kukisikia ndicho tunachowatangazieni nyinyi pia, ili nanyi mpate kushirikiana nasi katika umoja tulio nao na Baba na Mwanae Yesu Kristo. Tunawaandikia nyinyi mambo haya kusudi furaha yetu ikamilike. Basi, habari tuliyoisikia kwake Yesu na tunayowahubirieni ndiyo hii: Mungu ni mwanga na hamna giza lolote ndani yake. Tukisema kwamba tuna umoja naye, na papo hapo twaishi gizani, tutakuwa tumesema uongo kwa maneno na matendo. Lakini tukiishi katika mwanga, kama naye alivyo katika mwanga, basi, tutakuwa na umoja sisi kwa sisi, na damu yake Yesu Kristo, Mwanae, inatutakasa dhambi zote."
 lemeLI.Epistle.pagenumber = ""

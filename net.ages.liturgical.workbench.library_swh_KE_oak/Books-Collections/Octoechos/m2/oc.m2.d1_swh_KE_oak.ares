@@ -573,7 +573,7 @@ ocMA.OdeS7C1T.text = ""
 
 ocMA.OdeS7C21.mode = misc_swh_KE_oak.Mode2
 ocMA.OdeS7C21.ode = misc_swh_KE_oak.Ode7
-ocMA.OdeS7C21.melody  = ""
+ocMA.OdeS7C21.melody  = he.h.m2_swh_KE_oak.AntitheonProstagma.name
 ocMA.OdeS7C21.text = ""
 
 ocMA.OdeS7C22.mode = misc_swh_KE_oak.Mode2
