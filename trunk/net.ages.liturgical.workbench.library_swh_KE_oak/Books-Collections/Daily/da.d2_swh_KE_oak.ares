@@ -1,0 +1,38 @@
+A_Resource_Whose_Name = da.d2_swh_KE_oak
+
+daDay.text = "Jumatatu."
+daCommemoration.text = ""
+
+daVE.OnTheEveningBefore = template.titles_swh_KE_oak.d.onSundayEvening
+
+daVE.Apolytikion1.mode = misc_swh_KE_oak.Mode4
+daVE.Apolytikion1.melody = he.a.m4_swh_KE_oak.OYpsotheisEnToStavro.name
+daVE.Apolytikion1.text = me.m11.d08_swh_KE_oak.meVE.Apolytikion1.text
+
+daVE.ApolTheotokion.mode = misc_swh_KE_oak.Mode4
+daVE.ApolTheotokion.melody = ""
+daVE.ApolTheotokion.text = oc.m4.d2_swh_KE_oak.ocMA.Kathisma33.text
+
+daMA.Triadic1Ending.text = ""
+daMA.Triadic2Ending.text = prayers_swh_KE_oak.trPresveiaisTonAgion
+daMA.Triadic3Ending.text = prayers_swh_KE_oak.trDiaTisTheotokou
+
+daMA.Photagogic1Ending.text = ""
+daMA.Photagogic2Ending.text = prayers_swh_KE_oak.fePresveiaisTonAgionKaiSosonMe
+daMA.Photagogic3Ending.text = prayers_swh_KE_oak.fePresveiaisTisTheotokou
+
+daMA.Photagogic1Beginning.text = ""
+daMA.Photagogic2Beginning.text = prayers_swh_KE_oak.fbPresveiaisKyrieTonAgion
+daMA.Photagogic3Beginning.text = prayers_swh_KE_oak.fbPresveiaisKyrieTisTheotokou
+
+daMA.Exaposteilarion1.mode = misc_swh_KE_oak.Mode2
+daMA.Exaposteilarion1.melody = he.a.m2_swh_KE_oak.GynaikesAkoutisthite.name
+daMA.Exaposteilarion1.text = ""
+
+daMA.ExapTheotokion.mode = misc_swh_KE_oak.Mode2
+daMA.ExapTheotokion.melody = he.a.m2_swh_KE_oak.GynaikesAkoutisthite.name
+daMA.ExapTheotokion.text = ""
+
+daLI.EpistleProkeimenon.title = ""
+
+daLI.CommunionHymn.text = "" // for media

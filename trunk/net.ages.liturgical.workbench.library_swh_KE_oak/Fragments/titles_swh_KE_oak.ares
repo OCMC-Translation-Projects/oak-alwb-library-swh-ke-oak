@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = titles_swh_KE_oak
 
-Allilouia = "Alleluia."
+Allilouia = ""
 
 Antifonon1 = ""
 
@@ -59,6 +59,8 @@ EisTonStichonTonAinon = ""
 EisTousAinous = ""
 
 Eita = ""
+
+EkTouEsperinou = ""
 
 EkTouMinaiou = ""
 
@@ -280,6 +282,8 @@ Stavrotheotokion = ""
 
 Stichira = ""
 
+Stichiron = ""
+
 StichiraAnastasima = ""
 
 StichiraAnastasimaTisOktoichou = ""
@@ -331,6 +335,8 @@ TisEortis = ""
 TisIndiktou = ""
 
 TisMesopentikostis = ""
+
+TisOktoichou = ""
 
 TisOsias = ""
 

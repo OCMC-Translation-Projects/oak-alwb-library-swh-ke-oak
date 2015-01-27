@@ -771,7 +771,7 @@ ocMA.Lauds1.melody = misc_swh_KE_oak.Automelon
 ocMA.Lauds1.text = he.a.m8_swh_KE_oak.KyrieEiKaiKritirio.text
 
 ocMA.Lauds2.mode = misc_swh_KE_oak.Mode8
-ocMA.Lauds1.text = he.a.m8_swh_KE_oak.KyrieEiKaiKritirio.name
+ocMA.Lauds2.melody = he.a.m8_swh_KE_oak.KyrieEiKaiKritirio.name
 ocMA.Lauds2.text = ""
 
 ocMA.Lauds3.mode = misc_swh_KE_oak.Mode8

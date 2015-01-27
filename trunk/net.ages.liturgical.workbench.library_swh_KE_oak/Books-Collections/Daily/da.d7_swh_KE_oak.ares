@@ -1,21 +1,21 @@
-A_Resource_Whose_Name = da.d7_swh_KE_oak 
+A_Resource_Whose_Name = da.d7_swh_KE_oak
 
-daDay.text = ""
+daDay.text = "Jumamosi."
 daCommemoration.text = ""
 
 daVE.OnTheAfternoonBefore = template.titles_swh_KE_oak.d.onFridayAfternoon
 daVE.OnTheEveningBefore = template.titles_swh_KE_oak.d.onFridayEvening
 
 daVE.Apolytikion1.mode = misc_swh_KE_oak.Mode2
-daVE.Apolytikion1.melody  = ""
+daVE.Apolytikion1.melody = ""
 daVE.Apolytikion1.text = oc.m2.d5_swh_KE_oak.ocMA.Kathisma32.text
 
 daVE.Apolytikion2.mode = misc_swh_KE_oak.Mode2
-daVE.Apolytikion2.melody  = ""
+daVE.Apolytikion2.melody = ""
 daVE.Apolytikion2.text = oc.m2.d7_swh_KE_oak.ocMA.Kathisma23.text
 
 daVE.ApolTheotokion.mode = misc_swh_KE_oak.Mode2
-daVE.ApolTheotokion.melody  = ""
+daVE.ApolTheotokion.melody = ""
 daVE.ApolTheotokion.text = oc.m2.d2_swh_KE_oak.ocMA.ApolTheotokion.text
 
 daMA.Photagogic1Ending.text = prayers_swh_KE_oak.fePresveiaisTonAgionKaiSosonMe
@@ -36,6 +36,6 @@ daMA.ExapTheotokion.mode = misc_swh_KE_oak.Mode3
 daMA.ExapTheotokion.melody = he.a.m3_swh_KE_oak.OOuranonToisAstrois.name
 daMA.ExapTheotokion.text = ""
 
-daLI.CommunionHymn.text = "" //for media
+daLI.CommunionHymn.text = "" // for media
 
 daLI.CommunionHymnAlt.text = ""

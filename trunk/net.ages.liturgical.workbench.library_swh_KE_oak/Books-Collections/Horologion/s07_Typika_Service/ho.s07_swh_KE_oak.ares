@@ -23,14 +23,14 @@ hoTY.Key0408.text = ""
 hoTY.Key0501.text = ""
 
 // Liturgy Antiphons
-hoLI.Antiphon1.text = "Kwa maombi ya Mzazi-Mungu, Ee Mwokozi, utuokoe."
+hoLI.Antiphon1.text = ""
 
-hoLI.Antiphon21.text = "Ee Mwana wa Mungu, uliyefufuka katika wafu, utuokoe sisi twakuimbiao, Alleluia."
+hoLI.Antiphon21.text = ""
 hoLI.Antiphon2s.text = ""
 hoLI.Antiphon2w.text = ""
 hoLI.Antiphon22.text = ""
 
-hoLI.EntranceHymn.text = "" // in the template add parts of Antiphon 2
+hoLI.EntranceHymn.text ="" //in the template add parts of Antiphon 2
 hoLI.EntranceHymn2s.text = hoLI.Antiphon2s.text
 hoLI.EntranceHymn2w.text = hoLI.Antiphon2w.text
 
@@ -48,7 +48,7 @@ hoLI.OsoiEisChriston2.text = ""
 hoLI.OsoiEisChriston3.text = ""
 hoLI.OsoiEisChriston4.text = ""
 
-hoLI.TonStavronSou.title = ""
+hoLI.TonStavronSou.title = "" 
 hoLI.TonStavronSou.text = ""
 hoLI.TonStavronSou1.text = ""
 hoLI.TonStavronSou2.text = ""
@@ -56,4 +56,28 @@ hoLI.TonStavronSou3.text = ""
 hoLI.TonStavronSou4.text = ""
 
 hoLI.GospelAlleluia.title = titles_swh_KE_oak.Allilouia
-hoLI.GospelAlleluia.text = prayers_swh_KE_oak.Allilouia3.text
+hoLI.GospelAlleluia.text = prayers_swh_KE_oak.Allilouia3.text 
+
+hoLI.GospelAlleluia1.title = titles_swh_KE_oak.Allilouia
+hoLI.GospelAlleluia1.text = prayers_swh_KE_oak.Allilouia3.text 
+
+hoLI.GospelAlleluia2.title = titles_swh_KE_oak.Allilouia
+hoLI.GospelAlleluia2.text = prayers_swh_KE_oak.Allilouia3.text 
+
+hoLI.GospelAlleluia3.title = titles_swh_KE_oak.Allilouia
+hoLI.GospelAlleluia3.text = prayers_swh_KE_oak.Allilouia3.text 
+
+hoLI.GospelAlleluia4.title = titles_swh_KE_oak.Allilouia
+hoLI.GospelAlleluia4.text = prayers_swh_KE_oak.Allilouia3.text 
+
+hoLI.GospelAlleluia5.title = titles_swh_KE_oak.Allilouia
+hoLI.GospelAlleluia5.text = prayers_swh_KE_oak.Allilouia3.text 
+
+hoLI.GospelAlleluia6.title = titles_swh_KE_oak.Allilouia
+hoLI.GospelAlleluia6.text = prayers_swh_KE_oak.Allilouia3.text 
+
+hoLI.GospelAlleluia7.title = titles_swh_KE_oak.Allilouia
+hoLI.GospelAlleluia7.text = prayers_swh_KE_oak.Allilouia3.text 
+
+hoLI.GospelAlleluia8.title = titles_swh_KE_oak.Allilouia
+hoLI.GospelAlleluia8.text = prayers_swh_KE_oak.Allilouia3.text 
