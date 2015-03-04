@@ -1,10 +1,10 @@
 A_Resource_Whose_Name = le.go.os_swh_KE_oak 
 
 leosVE.Prayer_NynApolyeis.title = ""
-leosVE.Prayer_NynApolyeis.version = 
+leosVE.Prayer_NynApolyeis.version = "(Habari Njema kwa Watu Wote)"
 leosVE.Prayer_NynApolyeis.book = bible_swh_KE_oak.Luke
-leosVE.Prayer_NynApolyeis.chapverse = ""
-leosVE.Prayer_NynApolyeis.text = ""
+leosVE.Prayer_NynApolyeis.chapverse = "Luka 2:29-32"
+leosVE.Prayer_NynApolyeis.text = "Sasa Bwana, umruhusu mtumishi wako aende kwa amani. Maana kwa macho yangu nimeuona wokovu ulioleta, ambao umeutayarisha uonekane na watu wote: Mwanga utakaowaangazia watu wa mataifa, na utukufu kwa watu wako Israeli."
 leosVE.Prayer_NynApolyeis1.text = ""
 leosVE.Prayer_NynApolyeis2.text = ""
 

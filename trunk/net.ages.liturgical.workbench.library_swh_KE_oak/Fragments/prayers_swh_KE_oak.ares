@@ -1,22 +1,22 @@
 A_Resource_Whose_Name = prayers_swh_KE_oak
 
-Doxa = ""
+Doxa = "Utukufu kwa Baba na Mwana na Roho Mtakatifu."
 
-DoxaKaiNyn = ""
+DoxaKaiNyn = "Utukufu kwa Baba na Mwana na Roho Mtakatifu, sasa na siku zote, hata milele na milele. Amina."
 
-KaiNyn = ""
+KaiNyn = "Sasa na siku zote, hata milele na milele. Amina."
 
 Allilouia1 = ""
 
-Allilouia3.text = ""
+Allilouia3.text = "Alleluya, Alleluya, Alleluya."
 
-Allilouia3Doxa.text = ""
+Allilouia3Doxa.text = "Alleluya, Alleluya, Alleluya, utukufu kwako Ee Mungu."
 
-DefteProskinisomen1 = ""
+DefteProskinisomen1 = "Njooni, tumwinamie na tumsujudu Mungu mfalme wetu."
 
-DefteProskinisomen2 = ""
+DefteProskinisomen2 = "Njooni, tumwinamie na tumsujudu yeye Kristo Mungu mfalme wetu."
 
-DefteProskinisomen3 = ""
+DefteProskinisomen3 = "Njooni, tumwinamie na tumsujudu yeye, Kristo aliye mfalme na Mungu wetu."
 
 DiEfchonDespotou.text = ""
 
@@ -28,11 +28,11 @@ DoxaSoiChriste1 = ""
 
 DoxaSoiChriste2 = ""
 
-DoxaSoiKyrie = ""
+DoxaSoiKyrie = "Utukufu kwako, Ee Bwana, utukufu kwako."
 
 DoxaSoiKyrieP = ""
 
-DoxaSoiOTheos1 = ""
+DoxaSoiOTheos1 = "Utukufu kwako, Ee Mungu."
 
 DoxaSoiOTheosImon.text = ""
 
@@ -46,11 +46,11 @@ DoxaToPatri.text = ""
 
 EisToOnoma = ""
 
-EvlogitosOTheosImon.text = ""
+EvlogitosOTheosImon.text = "Ahimidiwe Mungu wetu."
 
 EvlogoumenPatera.text = ""
 
-IElpisImonKyrie = ""
+IElpisImonKyrie = "Ee Bwana matumaini yetu, utukufu kwako."
 
 KaiNynKaiAei.text = "Sasa na siku zote, hata milele na milele. Amina."
 
@@ -84,7 +84,7 @@ EleisonMeOTheos.text = ""
 
 AxionEstin.text = ""
 
-AgiosOTheos.text = ""
+AgiosOTheos.text = "Mungu Mtakatifu, Mweza Mtakatifu, Usiyekufa Mtakatifu, utuhurumie."
 
 EpouranieVasilef.text = ""
 
@@ -100,7 +100,7 @@ OEnPantiKairo.text = ""
 
 OOnEvlogitos.text = ""
 
-PanagiaTrias.text = ""
+PanagiaTrias.text = "Ee Utatu mtakatifu kamili, utuhurumie. Bwana, utusamehe dhambi zetu. Rabi, utuondolee makosa yetu. Mtakatifu, utukaribie na kutuponya magonjwa yetu, kwa ajili ya jina lako."
 
 PaschaDialog1.text = ""
 PaschaDialog2.text = ""
@@ -109,7 +109,7 @@ PaschaDialog4.text = ""
 PaschaDialog5.text = ""
 PaschaDialog6.text = ""
 
-PaterImon.text = ""
+PaterImon.text = "Baba yetu uliye mbinguni, jina lako litukuzwe, ufalme wako uje, mapenzi yako yatimizwe hapa duniani kama huko mbinguni. Utupe leo mkate wetu wa kila siku. Na utusamehe deni zetu, kama sisi tuwasamehevyo wadeni wetu. Tena usitutie majaribuni, lakini utuokoe na yule mwovu."
 
 Pistevo.text = ""
 
@@ -121,7 +121,7 @@ Thymiama.text = ""
 
 TinTimioteran.text = he.h.m6_swh_KE_oak.TinTimioteran.text
 
-VasilefOuranie.text = ""
+VasilefOuranie.text = "Ee Mfalme wa mbinguni, Mfariji, Roho wa kweli; uliye mahali popote na kuvijaza vitu vyote; wewe ni hazina ya mambo mema na mpaji wa uhai: njoo ukae kwetu na kutusafisha na kila doa, hata uziokoe roho zetu, mwema we."
 
 trDiaTisTheotokou = ""
 
@@ -135,7 +135,7 @@ fePresveiaisTonAgionKaiSosonMe = ""
 
 fbPresveiaisKyrieTonAgion = ""
 
-enarxis01 = ""
+enarxis01 = "Ahimidiwe Mungu wetu, daima, sasa na siku zote, hata milele na milele."
 
 enarxis02 = ""
 
@@ -143,11 +143,11 @@ enarxis03 = ""
 
 pet00 = ""
 
-pet01 = "" // Great Litany
+pet01 = "Kwa amani tumwombe Bwana." // Great Litany
 
-pet02 = ""
+pet02 = "Kwa ajili ya amani kutoka juu na ya wokovu wa roho zetu, tumwombe Bwana."
 
-pet03 = ""
+pet03 = "Kwa ajili ya amani ya dunia yote na kusimama imara kwa Ekklesia takatifu ya Mungu na kwa umoja wa wote, tumwombe Bwana."
 
 pet04 = ""
 
@@ -477,13 +477,13 @@ sup15 = ""
 
 sup99 = ""
 
-res01 = ""
+res01 = "Bwana, hurumia."
 
 res02 = ""
 
 res03 = ""
 
-res04 = ""
+res04 = "Amina."
 
 res05 = ""
 
@@ -541,7 +541,7 @@ exc01 = ""
 
 exc01a = ""
 
-exc02 = ""
+exc02 = "Kwa kuwa ufalme na uwezo na utukufu ni wako, wa Baba na Mwana na Roho Mtakatifu, sasa na siku zote, hata milele na milele."
 
 exc03 = ""
 
