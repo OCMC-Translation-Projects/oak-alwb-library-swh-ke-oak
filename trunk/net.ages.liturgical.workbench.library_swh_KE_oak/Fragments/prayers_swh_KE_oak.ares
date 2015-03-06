@@ -141,7 +141,7 @@ enarxis02 = ""
 
 enarxis03 = ""
 
-pet00 = ""
+pet00 = "Tumwombe Bwana."
 
 pet01 = "Kwa amani tumwombe Bwana." // Great Litany
 
@@ -149,7 +149,7 @@ pet02 = "Kwa ajili ya amani kutoka juu na ya wokovu wa roho zetu, tumwombe Bwana
 
 pet03 = "Kwa ajili ya amani ya dunia yote na kusimama imara kwa Ekklesia takatifu ya Mungu na kwa umoja wa wote, tumwombe Bwana."
 
-pet04 = ""
+pet04 = "Kwa ajili ya nyumba hii takatifu na waingiamo kwa imani, heshima na kumcha Mungu, tumwombe Bwana."
 
 pet04alt1.title = ""
 pet04alt1 = ""
@@ -161,29 +161,29 @@ pet05 = ""
 
 pet06 = ""
 
-pet06a = "" // supplement with client specific rank and name
+pet06a = "Kwa ajili ya Papa na Patriarka wetu ..., Askofu wetu mkuu ...," // supplement with client specific rank and name
 
-pet06b = ""
+pet06b = "makasisi waaminifu, mashemasi katika Kristo, wateule na watu wote, tumwombe Bwana."
 
 pet07L = ""
 
-pet07S = ""
+pet07S = "Kwa ajili ya taifa letu linalomcha Mungu, raisi wetu, viongozi wetu na majeshi wapendao dini, tumwombe Bwana."
 
 pet07Sa = ""
 
 pet08 = ""
 
-pet08alt = ""
+pet08alt = "Kwa ajili ya mji huu, miji yote na nchi zote na waishimo kwa imani, tumwombe Bwana."
 
-pet09 = ""
+pet09 = "Kwa ajili ya kupata majira mema ya mwaka, na mvua ya kutosha, hewa safi na rutuba ya kutosha kwa ardhi, tumwombe Bwana."
 
-pet10 = ""
+pet10 = "Kwa ajili ya wasafiri angani, majini, baharini na nchi kavu, wagonjwa, wachoshwa, mateka na kwa ajili ya wokovu wao, tumwombe Bwana."
 
-pet11 = ""
+pet11 = "Kwa ajili ya kuokolewa kwa kila sikitiko, ghadhabu, hatari na uhitaji, tumwombe Bwana."
 
-pet12 = ""
+pet12 = "Utulinde, utuokoe, utuhurumie, utuhifadhi Ee Mungu kwa neema yako."
 
-pet13 = ""
+pet13 = "Tumkumbuke Maria mtakatifu kamili, asiye na doa, mbarikiwa zaidi kushinda wote, Bibi wetu mtukufu, Mzazi-Mungu na Bikira daima, pamoja na watakatifu wote, sisi wenyewe na wenzetu wote, hata maisha yetu, tujiweke mikononi mwa Kristo Mungu."
 
 pet14 = "" // Short Litany
 
@@ -481,7 +481,7 @@ res01 = "Bwana, hurumia."
 
 res02 = ""
 
-res03 = ""
+res03 = "Kwako, Ee Bwana."
 
 res04 = "Amina."
 
@@ -537,7 +537,7 @@ res15p = ""
 
 res16p = ""
 
-exc01 = ""
+exc01 = "Kwa kuwa wastahili utukufu wote, heshima na usujudu, Wewe, Baba na Mwana na Roho Mtakatifu, sasa na siku zote, hata milele na milele."
 
 exc01a = ""
 
