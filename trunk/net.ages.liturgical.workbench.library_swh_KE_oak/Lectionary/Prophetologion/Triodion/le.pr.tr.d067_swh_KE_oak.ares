@@ -1,0 +1,20 @@
+A_Resource_Whose_Name = le.pr.tr.d067_swh_KE_oak
+
+lemcVE.reading1.title = ""
+lemcVE.reading1.version = ""
+lemcVE.reading1.book = bible_swh_KE_oak.Exodus
+lemcVE.reading1.chapverse = "(2:5-10)"
+lemcVE.reading1.text = ""
+
+lemcVE.reading2.title = ""
+lemcVE.reading2.version = ""
+lemcVE.reading2.book = bible_swh_KE_oak.Job
+lemcVE.reading2.chapverse = "(1:13-22)"
+lemcVE.reading2.text = ""
+
+lemcTE.reading1.title = ""
+lemcTE.reading1.version = ""
+lemcTE.reading1.book = bible_swh_KE_oak.Ezekiel
+lemcTE.reading1.chapverse = "(2:3-10, 3:1-3)"
+lemcTE.reading1.text = ""
+
