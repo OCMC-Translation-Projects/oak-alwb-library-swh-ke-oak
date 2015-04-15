@@ -14,28 +14,28 @@ R08 = ""
 R09 = ""
 hoVE.FosIlaron.title = ""
 R10 = ""
-hoVE.FosIlaron.text = "Φῶς ἱλαρὸν ἁγίας δόξης, ἀθανάτου Πατρός, οὐρανίου, ἁγίου, μάκαρος, Ἰησοῦ Χριστέ, ἐλθόντες ἐπὶ τὴν ἡλίου δύσιν, ἰδόντες φῶς ἑσπερινόν, ὑμνοῦμεν Πατέρα, Υἱόν, καὶ ἅγιον Πνεῦμα Θεόν. Ἄξιόν σε ἐν πᾶσι καιροῖς, ὑμνεῖσθαι φωναῖς αἰσίαις, Υἱὲ Θεοῦ, ζωὴν ὁ διδούς· Διὸ ὁ κόσμος σὲ δοξάζει."
+hoVE.FosIlaron.text = "We nuru ya furaha ya utukufu mtakatifu, ya Baba asiyekufa, wa mbinguni, mtakatifu, mhimidiwa, Yesu Kristo. Tukiwa tumefika wakati wa kuchwa kwa jua na kuona mwanga wa jioni twamwimbia Baba, Mwana, na Roho Mtakatifu, Mungu. Ni wajibu wakati wote usifiwe kwa sauti safi, Ee Mwana wa Mungu, mpaji wa uhai: kwa hivyo dunia yakutukuza."
 R11 = ""
 
-hoVE.SundayEvening.title = "Τῇ Κυριακῇ, ἑσπέρας."
+hoVE.SundayEvening.title = "Jumapili."
 //hoVE.SundayProkeimenon.text = properties_gr_GR_cog.media.key
 
-hoVE.MondayEvening.title = "Τῇ Δευτέρᾳ, ἑσπέρας."
+hoVE.MondayEvening.title = "Jumatatu."
 //hoVE.MondayProkeimenon.text = properties_gr_GR_cog.media.key
 
-hoVE.TuesdayEvening.title = "Τῇ Τρίτῃ, ἑσπέρας."
+hoVE.TuesdayEvening.title = "Jumanne."
 //hoVE.TuesdayProkeimenon.text = properties_gr_GR_cog.media.key
 
-hoVE.WednesdayEvening.title = "Τῇ Τετάρτῃ, ἑσπέρας."
+hoVE.WednesdayEvening.title = "Jumatano."
 //hoVE.WednesdayProkeimenon.text = properties_gr_GR_cog.media.key
 
-hoVE.ThursdayEvening.title = "Τῇ Πέμπτῃ, ἑσπέρας."
+hoVE.ThursdayEvening.title = "Alhamisi."
 //hoVE.ThursdayProkeimenon.text = properties_gr_GR_cog.media.key
 
-hoVE.FridayEvening.title = "Τῇ Παρασκευῇ, ἑσπέρας."
+hoVE.FridayEvening.title = "Ijumaa."
 //hoVE.FridayProkeimenon.text = properties_gr_GR_cog.media.key
 
-hoVE.SaturdayEvening.title = "Τῷ Σαββάτῳ, ἑσπέρας."
+hoVE.SaturdayEvening.title = "Jumamosi."
 //hoVE.SaturdayProkeimenon.text = properties_gr_GR_cog.media.key
 
 //hoVE.GreatProkeimenonTisTheosMegas.text = properties_gr_GR_cog.media.key
@@ -61,12 +61,12 @@ hoVE.FridayAlleluia.text = "" //for possible media
 R15 = ""
 
 //Not in Horologion. Needed for Vespers readings
-hoVE.Reading_Intro.text1 = "" //This first part is needed to construct the English sentence.
-hoVE.Reading_Intro.text2 = "τὸ ἀνάγνωσμα."
+hoVE.Reading_Intro.text1 = "Somo kutoka" //This first part is needed to construct the English sentence.
+hoVE.Reading_Intro.text2 = ""
 
 R16 = ""
 //This Prayer is also in the Small Doxology, at Matins, Compline etc. with "day" and "night"
-hoVE.Prayer_Kataxioson.text = "Καταξίωσον, Κύριε, ἐν τῇ ἑσπέρᾳ ταύτῃ, ἀναμαρτήτους φυλαχθῆναι ἡμᾶς. Εὐλογητὸς εἶ, Κύριε, ὁ Θεὸς τῶν Πατέρων ἡμῶν, καὶ αἰνετὸν καὶ δεδοξασμένον τὸ ὄνομά σου εἰς τοὺς αἰῶνας. Ἀμήν. Γένοιτο, Κύριε, τὸ ἔλεός σου ἐφ' ἡμᾶς, καθάπερ ἠλπίσαμεν ἐπὶ σέ. Εὐλογητὸς εἶ, Κύριε, δίδαξόν με τὰ δικαιώματά σου. Εὐλογητὸς εἶ, Δέσποτα, συνέτισον μὲ τὰ δικαιώματά σου. Εὐλογητὸς εἶ, Ἅγιε, φώτισόν με τοῖς δικαιώμασί σου. Κύριε, τὸ ἔλεός σου εἰς τὸν αἰῶνα· τὰ ἔργα τῶν χειρῶν σου μὴ παρίδῃς. Σοὶ πρέπει αἶνος, σοὶ πρέπει ὕμνος, σοὶ δόξα πρέπει, τῷ Πατρὶ καὶ τῷ Υἱῷ καὶ τῷ Ἁγίῳ Πνεύματι, νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας των αἰώνων."
+hoVE.Prayer_Kataxioson.text = "Ee Bwana, utujalie jioni hii tusiwe na dhambi. Wahimidiwa, Ee Bwana, Mungu wa baba zetu, na jina lako limesifiwa na limetukuzwa milele. Amina. Ee Bwana, huruma yako iwe nasi, tunavyokutumaini wewe. Wahimidiwa, Ee Bwana, unifunishe zilizo haki zako. Wahimidiwa, Ee Rabi, unifahamishe zilizo haki zako. Wahimidiwa, Ee Mtakatifu, uniangaze kwa zilizo haki zako. Ee Bwana, huruma yako ni ya milele; usidharau viumbe vya mikono yako. Sifa ni zako, kuimbiwa ni kwako na utukufu ni wako, wa Baba na Mwana na Roho Mtakatifu, sasa na siku zote, hata milele na milele. Amina."
 R17 = ""
 R18 = ""
 R19 = ""
