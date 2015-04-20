@@ -29,8 +29,8 @@ euLI.Key0401.text = ""
 
 // Part 05 Small Entrance
 euLI.Key0501.text = ""
-euLI.Key0502.text = ""
-euLI.Key0503.text = ""
+euLI.Key0502.text = "Rabi bariki kuingia kutakatifu."
+euLI.Key0503.text = "Kubarikiwe kuingia kwa watakatifu wako, daima, sasa na siku zote, hata milele na milele."
  
 // Part 06 Trisagios Hymn 
 euLI.Key0601.text = ""
