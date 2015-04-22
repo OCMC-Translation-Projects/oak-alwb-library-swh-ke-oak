@@ -187,21 +187,21 @@ pet13 = "Tumkumbuke Maria mtakatifu kamili, asiye na doa, mbarikiwa zaidi kushin
 
 pet14 = "" // Short Litany
 
-pet15 = "" // Ektenia
+pet15 = "Tuseme sisi sote kwa roho zetu zote na kwa mawazo yetu yote, tuseme hivi." // Ektenia
 
-pet16 = ""
+pet16 = "Ee Bwana Mwenyezi-Mungu wa mababa zetu, tunakuomba utusikilize na kutuhurumia."
 
-pet17 = ""
+pet17 = "Utuhurumie Ee Mungu kadiri ya huruma yako kubwa, tunakuomba utusikilize na kutuhurumia."
 
 pet18 = ""
 
-pet19 = ""
+pet19 = "Tena tunakuomba kwa ajili ya Patriaka wetu (jina) na Askofu wetu mkuu (jina)."
 
 pet19a = ""
 
-pet20 = ""
+pet20 = "Tena tunakuomba kwa ajili ya ndugu zetu, makasisi, mashemasi, watawa na ndugu zetu wote katika Kristo."
 
-pet21 = ""
+pet21 = "Tena tunakuomba kwa ajili ya watumwa wa Mungu, wakristo wote wa Orthodoksi watawa, wanaokaa au kupita katika mji huu, na nchi hii, na parishi hii, washirika, wasimamizi, wanaowekwa wakfu kwatika nyumba hii takatifu; ili wapewe huruma, uzima, amani, afya, wokovu, msaada, msamaha na maondoleo ya dhambi."
 
 pet21a = ""
 
@@ -213,29 +213,29 @@ pet21d = "" // for unction
 
 pet21p = ""
 
-pet22 = ""
+pet22 = "Tena tunakuomba kwa ajili ya warehemiwa wajengaji wa kanisa hili takatifu, ambao ni kwa makumbusho ya daima ya baba na ndugu zetu wote wa Orthodoksi warehemiwa, ambao wamelala hapa na mahali popote."
 
-pet23 = ""
+pet23 = "Tena tunakuomba kwa ajili yao wanaozaa matunda na matendo mema katika hekalu hili takatifu na heshimiwa, kwa ajili yao wenye juhudi, wanaoimba hata ya watu wote wanaosimama hapa, wakingoja huruma yako kubwa na utajiri."
 
 pet24 = "" // Complementary
 
-pet24v = ""
+pet24v = "Tumalize maombi yetu ya jioni kwa Bwana."
 
 pet24m = ""
 
-pet25v = ""
+pet25v = "Jioni hii yote iwe kamili, takatifu, tulivu na bila dhambi, tuombe kwa Bwana."
 
 pet25m = ""
 
-pet26 = ""
+pet26 = "Malaika wa amani, kiongozi mwaminifu, mlinzi wa roho zetu na miili yetu, tuombe kwa Bwana."
 
-pet27 = ""
+pet27 = "Msamaha na maondoleo ya dhambi na makosa yetu, tuombe kwa Bwana."
 
-pet28 = ""
+pet28 = "Vitu vyema vifaavyo kwa roho zetu na amani ya dunia yote, tuombe kwa Bwana."
 
-pet29 = ""
+pet29 = "Kumaliza maisha yetu yanayobaki kwa amani na toba, tuombe kwa Bwana."
 
-pet30 = ""
+pet30 = "Tuombe ili mwisho wa maisha yetu uwe wa kikristo, bila maumivu, aibu, kwa amani tena utetezi mwema mbele ya kiti cha hukumu cha Kristo."
 
 pet31 = ""
 
@@ -479,7 +479,7 @@ sup99 = ""
 
 res01 = "Bwana, hurumia."
 
-res02 = ""
+res02 = "Kidhi, Ee Bwana."
 
 res03 = "Kwako, Ee Bwana."
 
@@ -569,7 +569,7 @@ exc09 = ""
 
 exc10 = ""
 
-exc11 = ""
+exc11 = "Kwa kuwa u Mungu mrahimu na mpenda-wanadamu na kwako tunatoa utukufu, kwa Baba na Mwana na Roho Mtakatifu, sasa na siku zote, hata milele na milele. Amina."
 
 exc11a = ""
 
