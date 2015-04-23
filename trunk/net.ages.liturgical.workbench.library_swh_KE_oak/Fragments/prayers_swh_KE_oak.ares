@@ -20,13 +20,13 @@ DefteProskinisomen3 = "Njooni, tumwinamie na tumsujudu yeye, Kristo aliye mfalme
 
 DiEfchonDespotou.text = ""
 
-DiEfchonPateron.text = ""
+DiEfchonPateron.text = "Kwa maombi ya mababu wetu watakatifu, Ee Bwana Yesu Kristo Mungu wetu, utuhurumie na utuokoe."
 
 DoxaPatri.text = "Utukufu kwa Baba na Mwana na Roho Mtakatifu."
 
 DoxaSoiChriste1 = ""
 
-DoxaSoiChriste2 = ""
+DoxaSoiChriste2 = "Utukufu kwako, Ee Mungu, matumaini yetu, utukufu kwako, Ee Bwana."
 
 DoxaSoiKyrie = "Utukufu kwako, Ee Bwana, utukufu kwako."
 
@@ -98,7 +98,7 @@ KyrieKaiDespota4.text = ""
 
 OEnPantiKairo.text = ""
 
-OOnEvlogitos.text = ""
+OOnEvlogitos.text = "Ahimidiwe Kristo Mungu wetu, daima, sasa na siku zote, hata milele na milele."
 
 PanagiaTrias.text = "Ee Utatu mtakatifu kamili, utuhurumie. Bwana, utusamehe dhambi zetu. Rabi, utuondolee makosa yetu. Mtakatifu, utukaribie na kutuponya magonjwa yetu, kwa ajili ya jina lako."
 
@@ -115,11 +115,11 @@ Pistevo.text = ""
 
 SoulSaturday.text = ""
 
-StereosaiKyrios.text = ""
+StereosaiKyrios.text = "Bwana Mungu aimarishe imani takatifu na isiyo na lawama ya wakristo watauwa wa Orthodoksi, pamoja na Ekklisia yake takatifu na mji huu, hata milele na milele. Amina."
 
 Thymiama.text = ""
 
-TinTimioteran.text = he.h.m6_swh_KE_oak.TinTimioteran.text
+TinTimioteran.text = "Uliye wa thamani kushinda waherubi, uliye na utukufu kupita bila kiasi waserafi, uliyemzaa Mungu Neno, umebaki bila kukuharibu, uliye Mzazi-Mungu kweli, tunakutukuza we."
 
 VasilefOuranie.text = "Ee Mfalme wa mbinguni, Mfariji, Roho wa kweli; uliye mahali popote na kuvijaza vitu vyote; wewe ni hazina ya mambo mema na mpaji wa uhai: njoo ukae kwetu na kutusafisha na kila doa, hata uziokoe roho zetu, mwema we."
 
@@ -237,9 +237,9 @@ pet29 = "Kumaliza maisha yetu yanayobaki kwa amani na toba, tuombe kwa Bwana."
 
 pet30 = "Tuombe ili mwisho wa maisha yetu uwe wa kikristo, bila maumivu, aibu, kwa amani tena utetezi mwema mbele ya kiti cha hukumu cha Kristo."
 
-pet31 = ""
+pet31 = "Amani kwa wote."
 
-pet32 = ""
+pet32 = "Tuinamishe vichwa vyetu mbele ya Bwana."
 
 pet33 = "" // Lity
 
@@ -485,7 +485,7 @@ res03 = "Kwako, Ee Bwana."
 
 res04 = "Amina."
 
-res05 = ""
+res05 = "Na iwe kwa roho yako."
 
 res06 = ""
 
@@ -497,7 +497,7 @@ res09 = ""
 
 res10 = ""
 
-res12 = ""
+res12 = "Ee padri mtakatifu, bariki."
 
 res13 = ""
 
@@ -577,7 +577,7 @@ exc12 = ""
 
 exc13 = ""
 
-exc14 = ""
+exc14 = "Ihimidiwe na itukuzwe himaya ya ufalme wako, wa Baba na Mwana na Roho Mtakatifu, sasa na siku zote, hata milele na milele. Amina."
 
 exc15 = ""
 
@@ -665,7 +665,7 @@ verse_SoulSaturday.text = ""
 
 verseP_SoulSaturday.text = ""
 
-verse_Theotokos.text = ""
+verse_Theotokos.text = "Mzazi-Mungu mtakatifu sana, utuokoe."
 
 verseP_Theotokos.text = ""
 
