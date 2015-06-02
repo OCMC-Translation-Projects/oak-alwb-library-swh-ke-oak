@@ -15,11 +15,11 @@ lemcVE.reading2.text = ""
 lemcVE.reading3.title = ""
 lemcVE.reading3.version = ""
 lemcVE.reading3.book = bible_swh_KE_oak.Isaiah
-lemcVE.reading3.chapverse = "(52:13-15, 54:1)"
+lemcVE.reading3.chapverse = "(52:13-15, 53:1-12, 54:1)"
 lemcVE.reading3.text = ""
 
 lemcTE.reading1.title = ""
 lemcTE.reading1.version = ""
 lemcTE.reading1.book = bible_swh_KE_oak.Ezekiel
 lemcTE.reading1.chapverse = "(37:1-14)"
-lemcTE.reading1.text = ""
+lemcTE.reading1.text = "Mimi Ezekieli nilikumbwa na uzito wa nguvu ya Mwenyezi-Mungu, naye akaninyanyua kwa roho yake na kuniweka katika bonde lililokuwa limejaa mifupa. Basi, akanitembeza kila mahali bondeni humo. Kulikuwa na mifupa mingi sana katika bonde lile, nayo ilikuwa mikavu kabisa. Mwenyezi-Mungu akaniuliza, \"Wewe mtu! Je, mifupa hii yaweza kuishi tena?\" Nami nikamjibu, \"Ee Bwana Mwenyezi-Mungu, wewe wajua!\" Naye akaniambia, \"Toa unabii juu ya mifupa hii. Iambie hivi: Enyi mifupa mikavu, sikilizeni neno la Mwenyezi-Mungu. Bwana Mwenyezi-Mungu awaambia hivi: Nitaifanya pumzi iwaingie, nanyi mtaishi. Nitawatia mishipa na nyama, nitawafunika ngozi na kutia pumzi ndani yenu, nanyi mtaishi. Hapo mtajua kuwa mimi ni Mwenyezi-Mungu.\" Basi, nikatoa unabii kama nilivyoamriwa. Nilipokuwa nikitoa unabii, kukatokea kelele kama ya mkwaruzo na ile mifupa ikaanza kusogeleana na kuungana. Nilitazama, nikaona ile mifupa imewekewa mishipa na nyama na kufunikiwa kwa ngozi. Lakini haikuwa na uhai. Hapo, Mwenyezi-Mungu akaniambia: \"Ewe mtu, kwa niaba yangu toa unabii kwa upepo, ukauambie kwamba Bwana Mwenyezi-Mungu anasema hivi: Ewe upepo njoo toka pande zote nne na kuipuliza miili hii iliyokufa ili ipate kuishi.\" Basi, mimi nikatoa unabii kama alivyoniamuru, nayo pumzi ikaingia ndani yao, nayo ikawa hai, ikasimama: kundi kubwa ajabu. Hapo Mwenyezi-Mungu akaniambia: \"Wewe mtu! Mifupa hiyo ni watu wote wa Israeli. Wao wanasema, 'Mifupa yetu imenyauka, matumaini yetu yamepotea nasi tumekwisha kabisa.' Kwa hiyo, toa unabii, uwaambie, mimi Bwana Mwenyezi-Mungu nasema hivi: Enyi watu wangu, nitayafunua makaburi yenu na kuwafufua kutoka makaburini mwenu. Nitawarudisha nyumbani kwenu katika nchi ya Israeli. Nanyi, enyi watu wangu, mtatambua kuwa mimi ni Mwenyezi-Mungu nitakapofunua makaburi yenu na kuwafufua kutoka makaburini mwenu. Nitatia roho yangu ndani yenu, nanyi mtaishi, nami nitawaweka katika nchi yenu wenyewe. Hapo mtatambua kuwa mimi Mwenyezi-Mungu nimesema, nami nitafanya hayo. Mimi Mwenyezi-Mungu nimesema.\""
