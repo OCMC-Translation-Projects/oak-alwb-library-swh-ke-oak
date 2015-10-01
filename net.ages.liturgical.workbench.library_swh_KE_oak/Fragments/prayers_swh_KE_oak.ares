@@ -20,7 +20,7 @@ DefteProskinisomen3 = "Njooni, tumwinamie na tumsujudu yeye, Kristo aliye mfalme
 
 DiEfchonDespotou.text = ""
 
-DiEfchonPateron.text = "Kwa maombi ya mababu wetu watakatifu, Ee Bwana Yesu Kristo Mungu wetu, utuhurumie na utuokoe."
+DiEfchonPateron.text = "Kwa maombi ya mababu wetu watakatifu, Ee Bwana Yesu Kristo Mungu wetu, utuhurumie na utuokoe. Amina."
 
 DoxaPatri.text = "Utukufu kwa Baba na Mwana na Roho Mtakatifu."
 
@@ -34,7 +34,7 @@ DoxaSoiKyrieP = ""
 
 DoxaSoiOTheos1 = "Utukufu kwako, Ee Mungu."
 
-DoxaSoiOTheosImon.text = ""
+DoxaSoiOTheosImon.text = "Utukufu kwako, Ee Mungu wetu, utukufu kwako."
 
 DoxaTiAgiaAnastasei.text = ""
 
@@ -137,7 +137,7 @@ fbPresveiaisKyrieTonAgion = ""
 
 enarxis01 = "Ahimidiwe Mungu wetu, daima, sasa na siku zote, hata milele na milele."
 
-enarxis02 = ""
+enarxis02 = "Mhimidiwa ni ufalme wa Baba na Mwana na Roho Mtakatifu, sasa na siku zote hata milele na milele."
 
 enarxis03 = ""
 
@@ -207,7 +207,7 @@ pet21a = ""
 
 pet21b = "" // for baptism
 
-pet21c = "" // for wedding
+pet21c = "Tena tunakuomba kwa ajili ya watumishi wa Mungu (Jina) na (Jina)- Ili wapate huruma, uzima, afya, amani,  ulinzi, wokovu, maisha na maondoleo ya dhambi." // for wedding
 
 pet21d = "" // for unction
 
@@ -413,33 +413,33 @@ petWater15 = ""
 
 petWater16 = ""
 
-petWed01 = ""
+petWed01 = "Kwa ajili ya watumishi wa Mungu (Bwana Harusi) na (Bibi Harusi), ambao wanaunganishwa kwa Ndoa na kwa ajili ya wokovu wao, tumombe Bwana."
 
 petWed02 = ""
 
-petWed03 = ""
+petWed03 = "Ili washukiwe na upendo wa amani timilifu, na msaada wa Mungu, tumuombe Bwana."
 
-petWed04 = ""
+petWed04 = "Ili watunzwe na wabarikiwe na umoja wa fikira na imani timilifu, tumwombe Bwana."
 
 petWed05 = ""
 
-petWed06 = ""
+petWed06 = "Ili wadumishwe kwa mwenendo bora na maisha yasiyo na lawama, tumuombe Bwana."
 
-petWed07 = ""
+petWed07 = "Ili Bwana Mungu wetu awape ndoa yenye heshima isiyo na lawama, tumuombe Bwana."
 
-petWed08 = ""
+petWed08 = "Kwa ajili ya watumishi wa Mungu (majina) ambao wanaunganishwa kwa ndoa na kwa ajili ya wokovu wao, tumuombe Bwana."
 
-petWed09 = ""
+petWed09 = "Ili hii ndoa ibarikiwe kama iliyokuwepo Kana ya Galilaya, tumuombe Bwana."
 
-petWed10 = ""
+petWed10 = "Ili wapewe hukumu ya utu na watoto kwa manufaa yao, tumuombe Bwana."
 
-petWed11 = ""
+petWed11 = "Ili wajazwe kwa furaha wakiwaona wavulana na wasichana, tumuombe Bwana."
 
-petWed12 = ""
+petWed12 = "Ili wambarikiwe na watoto wema na maisha ya haki, tumuombe Bwana."
 
-petWed13 = ""
+petWed13 = "Ili Mungu apokee maombi ya wokovu wetu, tumuombe Bwana."
 
-petWed14 = ""
+petWed14 = "Ili sisi tukombolewe toka katika sikitiko, ghadhabu, hatari na uhitaji, tumuombe Bwana."
 
 sup00 = ""
 
@@ -487,7 +487,7 @@ res04 = "Amina."
 
 res05 = "Na iwe kwa roho yako."
 
-res06 = ""
+res06 = "Bwana hurumia, Bwana hurumia, Bwana hurumia."
 
 res07 = ""
 
@@ -539,13 +539,13 @@ res16p = ""
 
 exc01 = "Kwa kuwa wastahili utukufu wote, heshima na usujudu, Wewe, Baba na Mwana na Roho Mtakatifu, sasa na siku zote, hata milele na milele."
 
-exc01a = ""
+exc01a = "Kwa kuwa utukufu, heshima na usujudu ni haki yako Baba na Mwana na Roho Mtakatifu, sasa na siku zote hata milele na milele."
 
 exc02 = "Kwa kuwa ufalme na uwezo na utukufu ni wako, wa Baba na Mwana na Roho Mtakatifu, sasa na siku zote, hata milele na milele."
 
 exc03 = ""
 
-exc04 = ""
+exc04 = "Kwa kuwa jina lako limehimidiwa na ufalme wako unatukuzwa, Baba na Mwana na Roho Mtakatifu, sasa na siku zote hata milele na milele."
 
 exc05 = ""
 
@@ -591,7 +591,7 @@ exc18 = "Simameni wima."
 
 exc19 = "Tusikilize."
 
-exc20 = ""
+exc20 = "Kwa kuwa ufalme na uweza na utukufu, ni wa Baba na Mwana na Roho Mtakatifu, sasa na siku zote, hata milele na milele."
 
 exc22 = ""
 
@@ -613,13 +613,13 @@ epi01a = "" // leave blank in Greek
 
 epi01b = ""
 
-epi02 = ""
+epi02 = "Amani kwako Ee Msomaji."
 
 gos01 = ""
 
-gos02 = ""
+gos02 = "Tusikilize Ijili takatifu."
 
-gos03a = ""
+gos03a = "Ijili Takatifu kama ilivyoandikwa na"
 
 gos03b = ""
 

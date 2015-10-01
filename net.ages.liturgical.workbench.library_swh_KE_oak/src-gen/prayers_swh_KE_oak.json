@@ -8,14 +8,14 @@
 {'id_' : 'prayers_swh_KE_oak|DefteProskinisomen2', 'text' : 'Njooni, tumwinamie na tumsujudu yeye Kristo Mungu mfalme wetu.'}
 {'id_' : 'prayers_swh_KE_oak|DefteProskinisomen3', 'text' : 'Njooni, tumwinamie na tumsujudu yeye, Kristo aliye mfalme na Mungu wetu.'}
 {'id_' : 'prayers_swh_KE_oak|DiEfchonDespotou|text', 'text' : ''}
-{'id_' : 'prayers_swh_KE_oak|DiEfchonPateron|text', 'text' : 'Kwa maombi ya mababu wetu watakatifu, Ee Bwana Yesu Kristo Mungu wetu, utuhurumie na utuokoe.'}
+{'id_' : 'prayers_swh_KE_oak|DiEfchonPateron|text', 'text' : 'Kwa maombi ya mababu wetu watakatifu, Ee Bwana Yesu Kristo Mungu wetu, utuhurumie na utuokoe. Amina.'}
 {'id_' : 'prayers_swh_KE_oak|DoxaPatri|text', 'text' : 'Utukufu kwa Baba na Mwana na Roho Mtakatifu.'}
 {'id_' : 'prayers_swh_KE_oak|DoxaSoiChriste1', 'text' : ''}
 {'id_' : 'prayers_swh_KE_oak|DoxaSoiChriste2', 'text' : 'Utukufu kwako, Ee Mungu, matumaini yetu, utukufu kwako, Ee Bwana.'}
 {'id_' : 'prayers_swh_KE_oak|DoxaSoiKyrie', 'text' : 'Utukufu kwako, Ee Bwana, utukufu kwako.'}
 {'id_' : 'prayers_swh_KE_oak|DoxaSoiKyrieP', 'text' : ''}
 {'id_' : 'prayers_swh_KE_oak|DoxaSoiOTheos1', 'text' : 'Utukufu kwako, Ee Mungu.'}
-{'id_' : 'prayers_swh_KE_oak|DoxaSoiOTheosImon|text', 'text' : ''}
+{'id_' : 'prayers_swh_KE_oak|DoxaSoiOTheosImon|text', 'text' : 'Utukufu kwako, Ee Mungu wetu, utukufu kwako.'}
 {'id_' : 'prayers_swh_KE_oak|DoxaTiAgiaAnastasei|text', 'text' : ''}
 {'id_' : 'prayers_swh_KE_oak|DoxaTiMakrothymia|text', 'text' : ''}
 {'id_' : 'prayers_swh_KE_oak|DoxaTiMakrothymiaP|text', 'text' : ''}
@@ -69,7 +69,7 @@
 {'id_' : 'prayers_swh_KE_oak|fePresveiaisTonAgionKaiSosonMe', 'text' : ''}
 {'id_' : 'prayers_swh_KE_oak|fbPresveiaisKyrieTonAgion', 'text' : ''}
 {'id_' : 'prayers_swh_KE_oak|enarxis01', 'text' : 'Ahimidiwe Mungu wetu, daima, sasa na siku zote, hata milele na milele.'}
-{'id_' : 'prayers_swh_KE_oak|enarxis02', 'text' : ''}
+{'id_' : 'prayers_swh_KE_oak|enarxis02', 'text' : 'Mhimidiwa ni ufalme wa Baba na Mwana na Roho Mtakatifu, sasa na siku zote hata milele na milele.'}
 {'id_' : 'prayers_swh_KE_oak|enarxis03', 'text' : ''}
 {'id_' : 'prayers_swh_KE_oak|pet00', 'text' : 'Tumwombe Bwana.'}
 {'id_' : 'prayers_swh_KE_oak|pet01', 'text' : 'Kwa amani tumwombe Bwana.'}
@@ -105,7 +105,7 @@
 {'id_' : 'prayers_swh_KE_oak|pet21', 'text' : 'Tena tunakuomba kwa ajili ya watumwa wa Mungu, wakristo wote wa Orthodoksi watawa, wanaokaa au kupita katika mji huu, na nchi hii, na parishi hii, washirika, wasimamizi, wanaowekwa wakfu kwatika nyumba hii takatifu; ili wapewe huruma, uzima, amani, afya, wokovu, msaada, msamaha na maondoleo ya dhambi.'}
 {'id_' : 'prayers_swh_KE_oak|pet21a', 'text' : ''}
 {'id_' : 'prayers_swh_KE_oak|pet21b', 'text' : ''}
-{'id_' : 'prayers_swh_KE_oak|pet21c', 'text' : ''}
+{'id_' : 'prayers_swh_KE_oak|pet21c', 'text' : 'Tena tunakuomba kwa ajili ya watumishi wa Mungu (Jina) na (Jina)- Ili wapate huruma, uzima, afya, amani,  ulinzi, wokovu, maisha na maondoleo ya dhambi.'}
 {'id_' : 'prayers_swh_KE_oak|pet21d', 'text' : ''}
 {'id_' : 'prayers_swh_KE_oak|pet21p', 'text' : ''}
 {'id_' : 'prayers_swh_KE_oak|pet22', 'text' : 'Tena tunakuomba kwa ajili ya warehemiwa wajengaji wa kanisa hili takatifu, ambao ni kwa makumbusho ya daima ya baba na ndugu zetu wote wa Orthodoksi warehemiwa, ambao wamelala hapa na mahali popote.'}
@@ -208,20 +208,20 @@
 {'id_' : 'prayers_swh_KE_oak|petWater14', 'text' : ''}
 {'id_' : 'prayers_swh_KE_oak|petWater15', 'text' : ''}
 {'id_' : 'prayers_swh_KE_oak|petWater16', 'text' : ''}
-{'id_' : 'prayers_swh_KE_oak|petWed01', 'text' : ''}
+{'id_' : 'prayers_swh_KE_oak|petWed01', 'text' : 'Kwa ajili ya watumishi wa Mungu (Bwana Harusi) na (Bibi Harusi), ambao wanaunganishwa kwa Ndoa na kwa ajili ya wokovu wao, tumombe Bwana.'}
 {'id_' : 'prayers_swh_KE_oak|petWed02', 'text' : ''}
-{'id_' : 'prayers_swh_KE_oak|petWed03', 'text' : ''}
-{'id_' : 'prayers_swh_KE_oak|petWed04', 'text' : ''}
+{'id_' : 'prayers_swh_KE_oak|petWed03', 'text' : 'Ili washukiwe na upendo wa amani timilifu, na msaada wa Mungu, tumuombe Bwana.'}
+{'id_' : 'prayers_swh_KE_oak|petWed04', 'text' : 'Ili watunzwe na wabarikiwe na umoja wa fikira na imani timilifu, tumwombe Bwana.'}
 {'id_' : 'prayers_swh_KE_oak|petWed05', 'text' : ''}
-{'id_' : 'prayers_swh_KE_oak|petWed06', 'text' : ''}
-{'id_' : 'prayers_swh_KE_oak|petWed07', 'text' : ''}
-{'id_' : 'prayers_swh_KE_oak|petWed08', 'text' : ''}
-{'id_' : 'prayers_swh_KE_oak|petWed09', 'text' : ''}
-{'id_' : 'prayers_swh_KE_oak|petWed10', 'text' : ''}
-{'id_' : 'prayers_swh_KE_oak|petWed11', 'text' : ''}
-{'id_' : 'prayers_swh_KE_oak|petWed12', 'text' : ''}
-{'id_' : 'prayers_swh_KE_oak|petWed13', 'text' : ''}
-{'id_' : 'prayers_swh_KE_oak|petWed14', 'text' : ''}
+{'id_' : 'prayers_swh_KE_oak|petWed06', 'text' : 'Ili wadumishwe kwa mwenendo bora na maisha yasiyo na lawama, tumuombe Bwana.'}
+{'id_' : 'prayers_swh_KE_oak|petWed07', 'text' : 'Ili Bwana Mungu wetu awape ndoa yenye heshima isiyo na lawama, tumuombe Bwana.'}
+{'id_' : 'prayers_swh_KE_oak|petWed08', 'text' : 'Kwa ajili ya watumishi wa Mungu (majina) ambao wanaunganishwa kwa ndoa na kwa ajili ya wokovu wao, tumuombe Bwana.'}
+{'id_' : 'prayers_swh_KE_oak|petWed09', 'text' : 'Ili hii ndoa ibarikiwe kama iliyokuwepo Kana ya Galilaya, tumuombe Bwana.'}
+{'id_' : 'prayers_swh_KE_oak|petWed10', 'text' : 'Ili wapewe hukumu ya utu na watoto kwa manufaa yao, tumuombe Bwana.'}
+{'id_' : 'prayers_swh_KE_oak|petWed11', 'text' : 'Ili wajazwe kwa furaha wakiwaona wavulana na wasichana, tumuombe Bwana.'}
+{'id_' : 'prayers_swh_KE_oak|petWed12', 'text' : 'Ili wambarikiwe na watoto wema na maisha ya haki, tumuombe Bwana.'}
+{'id_' : 'prayers_swh_KE_oak|petWed13', 'text' : 'Ili Mungu apokee maombi ya wokovu wetu, tumuombe Bwana.'}
+{'id_' : 'prayers_swh_KE_oak|petWed14', 'text' : 'Ili sisi tukombolewe toka katika sikitiko, ghadhabu, hatari na uhitaji, tumuombe Bwana.'}
 {'id_' : 'prayers_swh_KE_oak|sup00', 'text' : ''}
 {'id_' : 'prayers_swh_KE_oak|sup00a', 'text' : ''}
 {'id_' : 'prayers_swh_KE_oak|sup01', 'text' : ''}
@@ -245,7 +245,7 @@
 {'id_' : 'prayers_swh_KE_oak|res03', 'text' : 'Kwako, Ee Bwana.'}
 {'id_' : 'prayers_swh_KE_oak|res04', 'text' : 'Amina.'}
 {'id_' : 'prayers_swh_KE_oak|res05', 'text' : 'Na iwe kwa roho yako.'}
-{'id_' : 'prayers_swh_KE_oak|res06', 'text' : ''}
+{'id_' : 'prayers_swh_KE_oak|res06', 'text' : 'Bwana hurumia, Bwana hurumia, Bwana hurumia.'}
 {'id_' : 'prayers_swh_KE_oak|res07', 'text' : ''}
 {'id_' : 'prayers_swh_KE_oak|res08', 'text' : 'Ee padri, himidi.'}
 {'id_' : 'prayers_swh_KE_oak|res09', 'text' : ''}
@@ -271,10 +271,10 @@
 {'id_' : 'prayers_swh_KE_oak|res15p', 'text' : ''}
 {'id_' : 'prayers_swh_KE_oak|res16p', 'text' : ''}
 {'id_' : 'prayers_swh_KE_oak|exc01', 'text' : 'Kwa kuwa wastahili utukufu wote, heshima na usujudu, Wewe, Baba na Mwana na Roho Mtakatifu, sasa na siku zote, hata milele na milele.'}
-{'id_' : 'prayers_swh_KE_oak|exc01a', 'text' : ''}
+{'id_' : 'prayers_swh_KE_oak|exc01a', 'text' : 'Kwa kuwa utukufu, heshima na usujudu ni haki yako Baba na Mwana na Roho Mtakatifu, sasa na siku zote hata milele na milele.'}
 {'id_' : 'prayers_swh_KE_oak|exc02', 'text' : 'Kwa kuwa ufalme na uwezo na utukufu ni wako, wa Baba na Mwana na Roho Mtakatifu, sasa na siku zote, hata milele na milele.'}
 {'id_' : 'prayers_swh_KE_oak|exc03', 'text' : ''}
-{'id_' : 'prayers_swh_KE_oak|exc04', 'text' : ''}
+{'id_' : 'prayers_swh_KE_oak|exc04', 'text' : 'Kwa kuwa jina lako limehimidiwa na ufalme wako unatukuzwa, Baba na Mwana na Roho Mtakatifu, sasa na siku zote hata milele na milele.'}
 {'id_' : 'prayers_swh_KE_oak|exc05', 'text' : ''}
 {'id_' : 'prayers_swh_KE_oak|exc05a', 'text' : ''}
 {'id_' : 'prayers_swh_KE_oak|exc05b', 'text' : ''}
@@ -297,7 +297,7 @@
 {'id_' : 'prayers_swh_KE_oak|exc17', 'text' : 'Hekima.'}
 {'id_' : 'prayers_swh_KE_oak|exc18', 'text' : 'Simameni wima.'}
 {'id_' : 'prayers_swh_KE_oak|exc19', 'text' : 'Tusikilize.'}
-{'id_' : 'prayers_swh_KE_oak|exc20', 'text' : ''}
+{'id_' : 'prayers_swh_KE_oak|exc20', 'text' : 'Kwa kuwa ufalme na uweza na utukufu, ni wa Baba na Mwana na Roho Mtakatifu, sasa na siku zote, hata milele na milele.'}
 {'id_' : 'prayers_swh_KE_oak|exc22', 'text' : ''}
 {'id_' : 'prayers_swh_KE_oak|exc23', 'text' : ''}
 {'id_' : 'prayers_swh_KE_oak|exc24', 'text' : ''}
@@ -308,10 +308,10 @@
 {'id_' : 'prayers_swh_KE_oak|exc29', 'text' : ''}
 {'id_' : 'prayers_swh_KE_oak|epi01a', 'text' : ''}
 {'id_' : 'prayers_swh_KE_oak|epi01b', 'text' : ''}
-{'id_' : 'prayers_swh_KE_oak|epi02', 'text' : ''}
+{'id_' : 'prayers_swh_KE_oak|epi02', 'text' : 'Amani kwako Ee Msomaji.'}
 {'id_' : 'prayers_swh_KE_oak|gos01', 'text' : ''}
-{'id_' : 'prayers_swh_KE_oak|gos02', 'text' : ''}
-{'id_' : 'prayers_swh_KE_oak|gos03a', 'text' : ''}
+{'id_' : 'prayers_swh_KE_oak|gos02', 'text' : 'Tusikilize Ijili takatifu.'}
+{'id_' : 'prayers_swh_KE_oak|gos03a', 'text' : 'Ijili Takatifu kama ilivyoandikwa na'}
 {'id_' : 'prayers_swh_KE_oak|gos03b', 'text' : ''}
 {'id_' : 'prayers_swh_KE_oak|gos04', 'text' : ''}
 {'id_' : 'prayers_swh_KE_oak|verse_Angels|text', 'text' : ''}
