@@ -96,7 +96,7 @@ ocVE.Apolytikion.text = ""
 
 ocVE.ApolTheotokionVM.mode = misc_swh_KE_oak.Mode4
 ocVE.ApolTheotokionVM.melody  = ""
-ocVE.ApolTheotokionVM.text = ""
+ocVE.ApolTheotokionVM.text = "Siri ili iliyofichiwa toka milele, hata malaika hawakuijua, Ee Mzazi-Mungu, kupitia kwako ilijulikana kwa watu wote; maana Mungu alipata mwili kwako kwa umoja bila kuungamana, tena kwa hiari akakubali mateso ya msalaba kwa ajili yetu; na kwa ule msalaba akamfufuka Adamu, akaokoa roho zetu mautini."
 
 ocMO.Poet = poets_swh_KE_oak.MitrofanousSmirnis
 ocMO.Acrostic.text = ""

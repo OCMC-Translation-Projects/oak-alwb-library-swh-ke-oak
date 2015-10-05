@@ -96,7 +96,7 @@ ocVE.Apolytikion.text = he.a.m5_swh_KE_oak.TonSynanarchonLogon.text
 
 ocVE.ApolTheotokionVM.mode = misc_swh_KE_oak.Mode5
 ocVE.ApolTheotokionVM.melody = he.a.m5_swh_KE_oak.TonSynanarchonLogon.name
-ocVE.ApolTheotokionVM.text = ""
+ocVE.ApolTheotokionVM.text = "Salamu Wewe, lango la Bwana lisilopitiwa; Salamu Wewe, boma na kinga ya hawa wakukimiliao; Salamu Wewe, bandari tulivu, Wewe uliyejazwa na umungu usipo na kiasi, Wewe ndiwe uliyemzaa kwa mwili Yeye Mwumba na Mungu wako; usiache kuwaombea kwake hao wanaomheshimu na kumsujudu Yeye aliye uzao wako."
 
 ocMO.Poet  = ""
 ocMO.Acrostic.text = ""

@@ -97,7 +97,7 @@ ocVE.Apolytikion.text = ""
 
 ocVE.ApolTheotokionVM.mode = misc_swh_KE_oak.Mode6
 ocVE.ApolTheotokionVM.melody  = ""
-ocVE.ApolTheotokionVM.text = ""
+ocVE.ApolTheotokionVM.text = "Uliyemwita Mama wako yule mbarikiwa, kwa hiari yako ulikuja katika mateso ukitaka kumtafuta Adamu; ukamulika ukiwa msalabani; ukawaambia malaika: Furahini pamoja nami, kwa kuwa shilingi ile iliyopotea imeonekana. Wewe uliyetengeneza vyote na hekima, utukufu kwako."
 
 ocMO.Poet  = ""
 ocMO.Acrostic.text = ""

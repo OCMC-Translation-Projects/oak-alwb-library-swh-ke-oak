@@ -96,7 +96,7 @@ ocVE.Apolytikion.text = ""
 
 ocVE.ApolTheotokionVM.mode = misc_swh_KE_oak.Mode2
 ocVE.ApolTheotokionVM.melody  = ""
-ocVE.ApolTheotokionVM.text = ""
+ocVE.ApolTheotokionVM.text = "Ee Mzazi-Mungu, siri zako ni vigumu kuzifahamu zote, ni tukufu sana. Ulikuwa na muhuri wa usafi, na kulindwa na ubikira; na kwa hiyo umejulikana kuwa Mama bila uwongo, ukimzaa Mungu wa kweli. Utuombee kwake, ili aokoe roho zetu."
 
 ocMO.Poet = poets_swh_KE_oak.MitrofanousSmirnis
 ocMO.Acrostic.text = ""

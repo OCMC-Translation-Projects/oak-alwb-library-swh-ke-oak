@@ -96,7 +96,7 @@ ocVE.Apolytikion.text = ""
 
 ocVE.ApolTheotokionVM.mode = misc_swh_KE_oak.Mode7
 ocVE.ApolTheotokionVM.melody  = ""
-ocVE.ApolTheotokionVM.text = ""
+ocVE.ApolTheotokionVM.text = "Wewe ndiwe hazina ya ufufuo wetu, Ee msifiwa tele; kwa hiyo uwaondoe waliyo shimoni na kilindini mwa dhambi. Kwa kuwa Wewe ndiwe uliyewaokoa walio na hatia ya dhambi, ulipozaa wokovu ule, Wewe uliye Bikira mbele ya kuzaa, na Bikira katika kuzaa, hata baada ya kuzaa tena u Bikira."
 
 ocMO.Poet = poets_swh_KE_oak.MitrofanousSmirnis
 ocMO.Acrostic.text = ""

@@ -96,7 +96,7 @@ ocVE.Apolytikion.text = he.a.m1_swh_KE_oak.TouLithouSfragisthentos.text
 
 ocVE.ApolTheotokionVM.mode = misc_swh_KE_oak.Mode1
 ocVE.ApolTheotokionVM.melody = he.a.m1_swh_KE_oak.TouLithouSfragisthentos.name
-ocVE.ApolTheotokionVM.text = ""
+ocVE.ApolTheotokionVM.text = "Wakati malaika Ghavrieli akisema kwako, Ee Bikira, salamu, kwa neno hili Rabi wa vyote akapata mwili kwako, uliye sanduku takatifu, vivyo alivyosema Daudi, yule mwenye haki; umeonyeshwa na upana zaidi kuliko mbingu, ukimhimili Mwumba wako. Utukufu kwake aliyekaa ndani yako; utukufu kwake aliyetoka kwako; utukufu kwake aliyetukomboa kupitia kwa uzao wako."
 
 ocMO.Poet = poets_swh_KE_oak.MitrofanousSmirnis
 ocMO.Acrostic.text = ""
