@@ -302,8 +302,7 @@ ocMA.Kathisma23.text = ""
 
 ocMA.Hypakoe.mode = misc_swh_KE_oak.Mode6
 ocMA.Hypakoe.melody  = ""
-
-ocMA.Hypakoe.text = ""
+ocMA.Hypakoe.text = "Kwa kifo chako cha hiari na cha uhai, Ee Kristo, ulivunja lango la kuzimu, maana u Mungu, na ulifungua Paradiso ya kale; na ukifufuka katika wafu ulikomboa maisha yetu yaliyokuwa ya kuoza."
 
 ocMA.Antiphon11.mode = misc_swh_KE_oak.Mode6
 ocMA.Antiphon11.melody  = ""

@@ -77,23 +77,23 @@ Triadic3
 R12a = ""
 R12b = ""
 
-hoMA.ResEvlog.title1 = ""
+hoMA.ResEvlog.title1 = "MAHIMIDI YA UFUFUO"
 hoMA.ResEvlog.title2 = ""
 //Title Mode5
 R13 = ""
 hoMA.ResEvlogVerse.text = ""
 hoMA.ResEvlog1.mode = misc_swh_KE_oak.Mode5
-hoMA.ResEvlog1.text = ""
+hoMA.ResEvlog1.text = "Kusanyiko la malaika lilistajabu kukuona ukihesabiwa katika wafu na kuharibu nguvu ya kifo, Ee Mwokozi; ukafufua Adamu pamoja nawe, ukawapa uhuru mateka wote wa kuzimu."
 hoMA.ResEvlog2.mode = misc_swh_KE_oak.Mode5
-hoMA.ResEvlog2.text = ""
+hoMA.ResEvlog2.text = "Enyi binti wanafunzi, kwa nini mnachanganya machozi na manukato kwa huzuni? Malaika aliyemetameta kaburini aliwaambia wanawake walioleta manukato; tazameni kaburini na kufahamu Mwokozi amefufuka shimoni."
 hoMA.ResEvlog3.mode = misc_swh_KE_oak.Mode5
-hoMA.ResEvlog3.text = ""
+hoMA.ResEvlog3.text = "Alfajiri mapema wanawake walioleta manukato wakienda haraka kaburini pako, Ee Bwana, na kuomboleza. Lakini malaika akiwajia na kuwaambia: wakati wa maombolezo umekwisha msilie; ila wapashe mitume habari ya ufufuo."
 hoMA.ResEvlog4.mode = misc_swh_KE_oak.Mode5
-hoMA.ResEvlog4.text = ""
+hoMA.ResEvlog4.text = "Wanawake walioleta manukato wakijayo kaburini pako, Ee Mwokozi, walisikia malaika akiwaambia kwa sauit ya nguvu: Kwa nini mwadhani aliye hai katiaka wafu? Kwa kuwa ni Mungu amefufuka shimoni."
 hoMA.ResEvlog5.mode = misc_swh_KE_oak.Mode5
-hoMA.ResEvlog5.text = ""
+hoMA.ResEvlog5.text = "Tunamsujudu Baba na Mwana wake, na Roho Mtakatifu; Utatu Mtakatifu asili moja, tukipaza sauti pamoja na waserafi na kusema: Mtakatifu, Mtakatifu, Mtakatifu wewe, Ee Bwana."
 hoMA.ResEvlog6.mode = misc_swh_KE_oak.Mode5
-hoMA.ResEvlog6.text = ""
+hoMA.ResEvlog6.text = "Ee Bikira, ukimzaa Mpaji wa uhai, ulimkomboa Adamu na dhambi; na ulimpa Eva furaha badala ya huzuni; na aliyepata mwili nawe, ndiye Mungu na binadamu, amewarudisha katika uzima wale waliouanguka."
 hoMA.ResEvlog7.mode = misc_swh_KE_oak.Mode5
 hoMA.ResEvlog7.text = prayers_swh_KE_oak.Allilouia3Doxa.text 
 

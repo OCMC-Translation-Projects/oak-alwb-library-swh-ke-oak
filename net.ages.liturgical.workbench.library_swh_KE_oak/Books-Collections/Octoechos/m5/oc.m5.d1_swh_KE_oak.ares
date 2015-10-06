@@ -281,7 +281,7 @@ ocMA.Kathisma23.text = ""
 
 ocMA.Hypakoe.mode = misc_swh_KE_oak.Mode5
 ocMA.Hypakoe.melody  = ""
-ocMA.Hypakoe.text = ""
+ocMA.Hypakoe.text = "Wanawake walioleta marhamu walishangaa katika mawazo yao wakiona malaika, na waliangazwa katika mioyo yao kutoka kwa Ufufuo wa Mungo; hivyo waliwaletea mitume habari njema wakisema: Tangazeni kwa mataifa Ufufuo wa Bwana atakayetenda kazi pamoja nao kwa miujiza na kutugawia huruma kubwa."
 
 ocMA.Antiphon11.mode = misc_swh_KE_oak.Mode5
 ocMA.Antiphon11.melody  = ""

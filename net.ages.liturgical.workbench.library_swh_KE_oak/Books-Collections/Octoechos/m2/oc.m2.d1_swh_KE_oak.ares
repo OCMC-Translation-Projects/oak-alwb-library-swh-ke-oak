@@ -291,7 +291,7 @@ ocMA.Kathisma23.text = ""
 
 ocMA.Hypakoe.mode = misc_swh_KE_oak.Mode2
 ocMA.Hypakoe.melody  = ""
-ocMA.Hypakoe.text = ""
+ocMA.Hypakoe.text = "Baada ya mateso yako, Ee Kristo Mungu, wanawake wakienda kaburini kupaka mwili wako, waliona malaika kaburini na walishangaa; kwa kuwa walisikia sauti zao kwamba Bwana amefufuka akagawia ulimwengu huruma kubwa."
 
 ocMA.Antiphon11.mode = misc_swh_KE_oak.Mode2
 ocMA.Antiphon11.melody  = ""
