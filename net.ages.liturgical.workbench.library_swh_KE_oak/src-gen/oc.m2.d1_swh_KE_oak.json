@@ -225,13 +225,13 @@
 {'id_' : 'oc|m2|d1_swh_KE_oak|ocMA|Hypakoe|text', 'text' : 'Baada ya mateso yako, Ee Kristo Mungu, wanawake wakienda kaburini kupaka mwili wako, waliona malaika kaburini na walishangaa; kwa kuwa walisikia sauti zao kwamba Bwana amefufuka akagawia ulimwengu huruma kubwa.'}
 {'id_' : 'oc|m2|d1_swh_KE_oak|ocMA|Antiphon11|mode', 'text' : ''}
 {'id_' : 'oc|m2|d1_swh_KE_oak|ocMA|Antiphon11|melody', 'text' : ''}
-{'id_' : 'oc|m2|d1_swh_KE_oak|ocMA|Antiphon11|text', 'text' : ''}
+{'id_' : 'oc|m2|d1_swh_KE_oak|ocMA|Antiphon11|text', 'text' : 'Nakuinulia macho ya moyo wangu, Ee Mwokozi, mbinguni; nikomboe kwa mwanga yako.'}
 {'id_' : 'oc|m2|d1_swh_KE_oak|ocMA|Antiphon12|mode', 'text' : ''}
 {'id_' : 'oc|m2|d1_swh_KE_oak|ocMA|Antiphon12|melody', 'text' : ''}
-{'id_' : 'oc|m2|d1_swh_KE_oak|ocMA|Antiphon12|text', 'text' : ''}
+{'id_' : 'oc|m2|d1_swh_KE_oak|ocMA|Antiphon12|text', 'text' : 'Tuhurumie, Ee Kristo wangu, sisi tunaofanya dhambi sana kila saa kwako, na utupe njia ya kutubu kabla ya kufa.'}
 {'id_' : 'oc|m2|d1_swh_KE_oak|ocMA|Antiphon13|mode', 'text' : ''}
 {'id_' : 'oc|m2|d1_swh_KE_oak|ocMA|Antiphon13|melody', 'text' : ''}
-{'id_' : 'oc|m2|d1_swh_KE_oak|ocMA|Antiphon13|text', 'text' : ''}
+{'id_' : 'oc|m2|d1_swh_KE_oak|ocMA|Antiphon13|text', 'text' : 'Kutawala, kutakasa na kuna mwendo ni kazi ya Roho Mtakatifu; kwa kuwa ni Mungu kwa asili moja pamoja na Baba na Neno.'}
 {'id_' : 'oc|m2|d1_swh_KE_oak|ocMA|Antiphon21|mode', 'text' : ''}
 {'id_' : 'oc|m2|d1_swh_KE_oak|ocMA|Antiphon21|melody', 'text' : ''}
 {'id_' : 'oc|m2|d1_swh_KE_oak|ocMA|Antiphon21|text', 'text' : ''}
@@ -423,7 +423,7 @@
 {'id_' : 'oc|m2|d1_swh_KE_oak|ocMA|OdeS6C32|text', 'text' : ''}
 {'id_' : 'oc|m2|d1_swh_KE_oak|ocMA|Kontakion|mode', 'text' : ''}
 {'id_' : 'oc|m2|d1_swh_KE_oak|ocMA|Kontakion|melody', 'text' : ''}
-{'id_' : 'oc|m2|d1_swh_KE_oak|ocMA|Kontakion|text', 'text' : ''}
+{'id_' : 'oc|m2|d1_swh_KE_oak|ocMA|Kontakion|text', 'text' : 'Umefufuka, Ee Mwokozi, toka kaburini; na kuzimu kukiona ile miujiza kulishangaa; wafu wamefufuka na viumbe vyote vikiona hivyo vyafurahi pamoja na Wewe; Adamu ashangilia pia, na ulimwengu wakusifu daima, Ee Mwokozi wangu.'}
 {'id_' : 'oc|m2|d1_swh_KE_oak|ocMA|Oikos|mode', 'text' : ''}
 {'id_' : 'oc|m2|d1_swh_KE_oak|ocMA|Oikos|text', 'text' : ''}
 {'id_' : 'oc|m2|d1_swh_KE_oak|ocMA|OdeS7C1H|mode', 'text' : ''}

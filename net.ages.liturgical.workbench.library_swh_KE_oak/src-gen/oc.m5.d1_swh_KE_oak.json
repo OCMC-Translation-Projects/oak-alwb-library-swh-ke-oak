@@ -217,13 +217,13 @@
 {'id_' : 'oc|m5|d1_swh_KE_oak|ocMA|Hypakoe|text', 'text' : 'Wanawake walioleta marhamu walishangaa katika mawazo yao wakiona malaika, na waliangazwa katika mioyo yao kutoka kwa Ufufuo wa Mungo; hivyo waliwaletea mitume habari njema wakisema: Tangazeni kwa mataifa Ufufuo wa Bwana atakayetenda kazi pamoja nao kwa miujiza na kutugawia huruma kubwa.'}
 {'id_' : 'oc|m5|d1_swh_KE_oak|ocMA|Antiphon11|mode', 'text' : ''}
 {'id_' : 'oc|m5|d1_swh_KE_oak|ocMA|Antiphon11|melody', 'text' : ''}
-{'id_' : 'oc|m5|d1_swh_KE_oak|ocMA|Antiphon11|text', 'text' : ''}
+{'id_' : 'oc|m5|d1_swh_KE_oak|ocMA|Antiphon11|text', 'text' : 'Katika shida yangu, kama Daudi ninakuimbia Mwokozi wangu; uniponye nafsi yangu na ulimi wa hila.'}
 {'id_' : 'oc|m5|d1_swh_KE_oak|ocMA|Antiphon12|mode', 'text' : ''}
 {'id_' : 'oc|m5|d1_swh_KE_oak|ocMA|Antiphon12|melody', 'text' : ''}
-{'id_' : 'oc|m5|d1_swh_KE_oak|ocMA|Antiphon12|text', 'text' : ''}
+{'id_' : 'oc|m5|d1_swh_KE_oak|ocMA|Antiphon12|text', 'text' : 'Kwa watu pweke kuna maisha yenye baraka, wakiwa na mabawa, kwa sababu wana hamu sana ya Mungu.'}
 {'id_' : 'oc|m5|d1_swh_KE_oak|ocMA|Antiphon13|mode', 'text' : ''}
 {'id_' : 'oc|m5|d1_swh_KE_oak|ocMA|Antiphon13|melody', 'text' : ''}
-{'id_' : 'oc|m5|d1_swh_KE_oak|ocMA|Antiphon13|text', 'text' : ''}
+{'id_' : 'oc|m5|d1_swh_KE_oak|ocMA|Antiphon13|text', 'text' : 'Katika Roho Mtakatifu viumbe vyote vyoonekanavyo na visivyoonekana vyatawaliwa kwa uthabity; kwa kuwa akiwa mwenye enzi kwa uweza wake ndiye kweli Mmoja wa Utatu.'}
 {'id_' : 'oc|m5|d1_swh_KE_oak|ocMA|Antiphon21|mode', 'text' : ''}
 {'id_' : 'oc|m5|d1_swh_KE_oak|ocMA|Antiphon21|melody', 'text' : ''}
 {'id_' : 'oc|m5|d1_swh_KE_oak|ocMA|Antiphon21|text', 'text' : ''}
@@ -451,7 +451,7 @@
 {'id_' : 'oc|m5|d1_swh_KE_oak|ocMA|OdeS6C33|text', 'text' : ''}
 {'id_' : 'oc|m5|d1_swh_KE_oak|ocMA|Kontakion|mode', 'text' : ''}
 {'id_' : 'oc|m5|d1_swh_KE_oak|ocMA|Kontakion|melody', 'text' : ''}
-{'id_' : 'oc|m5|d1_swh_KE_oak|ocMA|Kontakion|text', 'text' : ''}
+{'id_' : 'oc|m5|d1_swh_KE_oak|ocMA|Kontakion|text', 'text' : 'Ulikubali kushuka katika kuzimu, Ee Mwokozi wangu, ukavunja lango, maana Wewe u Mwenye nguvu juu ya vyote; ukafufua wafu na Wewe, maana u Mwumba, ukavunja mwiba wa kifu, Ee Kristo, tena umekomboa Adamu katika laana, Ee mpenda-wanadamu; kwa hivyo sisi sote tunapaza sauti na kusema: Utuokoe, Wewe Ee Bwana.'}
 {'id_' : 'oc|m5|d1_swh_KE_oak|ocMA|Oikos|mode', 'text' : ''}
 {'id_' : 'oc|m5|d1_swh_KE_oak|ocMA|Oikos|text', 'text' : ''}
 {'id_' : 'oc|m5|d1_swh_KE_oak|ocMA|OdeS7C1H|mode', 'text' : ''}

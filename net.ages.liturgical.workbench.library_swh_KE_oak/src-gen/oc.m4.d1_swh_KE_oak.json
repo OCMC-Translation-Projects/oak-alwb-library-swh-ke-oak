@@ -225,13 +225,13 @@
 {'id_' : 'oc|m4|d1_swh_KE_oak|ocMA|Hypakoe|text', 'text' : 'Wanawake walioleta marhamu walitangulia na kuwajulisha mitume juu ya Ufufuo wako wa kushangaza, Ee Kristo; kwa kuwa umefufuka, maana u Mungu, ukagawia ulimwengu huruma kubwa.'}
 {'id_' : 'oc|m4|d1_swh_KE_oak|ocMA|Antiphon11|mode', 'text' : ''}
 {'id_' : 'oc|m4|d1_swh_KE_oak|ocMA|Antiphon11|melody', 'text' : ''}
-{'id_' : 'oc|m4|d1_swh_KE_oak|ocMA|Antiphon11|text', 'text' : ''}
+{'id_' : 'oc|m4|d1_swh_KE_oak|ocMA|Antiphon11|text', 'text' : 'Tangu ujana wangu tamaa mbaya zinanisumbua, lakini wewe unisaidie na uniokoe, Ee Mwokozi wangu.'}
 {'id_' : 'oc|m4|d1_swh_KE_oak|ocMA|Antiphon12|mode', 'text' : ''}
 {'id_' : 'oc|m4|d1_swh_KE_oak|ocMA|Antiphon12|melody', 'text' : ''}
-{'id_' : 'oc|m4|d1_swh_KE_oak|ocMA|Antiphon12|text', 'text' : ''}
+{'id_' : 'oc|m4|d1_swh_KE_oak|ocMA|Antiphon12|text', 'text' : 'Wachukiao Sayuni, mwaibishwe mbele ya Bwana, maana mtakuwa mmekauka kama majani motoni.'}
 {'id_' : 'oc|m4|d1_swh_KE_oak|ocMA|Antiphon13|mode', 'text' : ''}
 {'id_' : 'oc|m4|d1_swh_KE_oak|ocMA|Antiphon13|melody', 'text' : ''}
-{'id_' : 'oc|m4|d1_swh_KE_oak|ocMA|Antiphon13|text', 'text' : ''}
+{'id_' : 'oc|m4|d1_swh_KE_oak|ocMA|Antiphon13|text', 'text' : 'Katika Roho Mtakatifu kila nafsi yapata uzima na kwa utakaso yainuka, na yaangazwa, katika Utatu wa umoja na siri ya umungu.'}
 {'id_' : 'oc|m4|d1_swh_KE_oak|ocMA|Antiphon21|mode', 'text' : ''}
 {'id_' : 'oc|m4|d1_swh_KE_oak|ocMA|Antiphon21|melody', 'text' : ''}
 {'id_' : 'oc|m4|d1_swh_KE_oak|ocMA|Antiphon21|text', 'text' : ''}
@@ -465,7 +465,7 @@
 {'id_' : 'oc|m4|d1_swh_KE_oak|ocMA|OdeS6C32|text', 'text' : ''}
 {'id_' : 'oc|m4|d1_swh_KE_oak|ocMA|Kontakion|mode', 'text' : ''}
 {'id_' : 'oc|m4|d1_swh_KE_oak|ocMA|Kontakion|melody', 'text' : ''}
-{'id_' : 'oc|m4|d1_swh_KE_oak|ocMA|Kontakion|text', 'text' : ''}
+{'id_' : 'oc|m4|d1_swh_KE_oak|ocMA|Kontakion|text', 'text' : 'Mwokozi wangu na Mkombozi wangu, maana yu Mungu, ametoa watu toka mnyororoni mwa kifo; akavunja lango za kuzimu na amefufuka katika siku ya tatu, maana yu Bwana wa Mabwana.'}
 {'id_' : 'oc|m4|d1_swh_KE_oak|ocMA|Oikos|mode', 'text' : ''}
 {'id_' : 'oc|m4|d1_swh_KE_oak|ocMA|Oikos|text', 'text' : ''}
 {'id_' : 'oc|m4|d1_swh_KE_oak|ocMA|OdeS7C1H|mode', 'text' : ''}

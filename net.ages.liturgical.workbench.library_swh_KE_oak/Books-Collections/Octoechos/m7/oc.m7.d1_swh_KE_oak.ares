@@ -295,15 +295,15 @@ ocMA.Hypakoe.text = "Wewe, Ee Kristo Mungu, uliyepata maumbile yetu na kuvumilia
 
 ocMA.Antiphon11.mode = misc_swh_KE_oak.Mode7
 ocMA.Antiphon11.melody  = ""
-ocMA.Antiphon11.text = ""
+ocMA.Antiphon11.text = "Uliyewarejeza mateka wa Sayuni toka katika kutanga-tanga, na mimi, Ee Mwokozi, nipe uzima ukiniondoa katika kutekwa dhambi."
 
 ocMA.Antiphon12.mode = misc_swh_KE_oak.Mode7
 ocMA.Antiphon12.melody  = ""
-ocMA.Antiphon12.text = ""
+ocMA.Antiphon12.text = "Anayepanda kwa huzuni na kufunga wa machozi, yeye atavuna mavuno ya chakula kisichoisha."
 
 ocMA.Antiphon13.mode = misc_swh_KE_oak.Mode7
 ocMA.Antiphon13.melody  = ""
-ocMA.Antiphon13.text = ""
+ocMA.Antiphon13.text = "Katika Roho Mtakatifu ni chemchemi ya hazina ya umungu; toka Yeye huja hekima, ufahamu na hofu ya Bwana; utukufu, heshima na utawala viwe kwake."
 
 ocMA.Antiphon21.mode = misc_swh_KE_oak.Mode7
 ocMA.Antiphon21.melody  = ""
@@ -589,7 +589,7 @@ ocMA.OdeS6C33.text = ""
 
 ocMA.Kontakion.mode = misc_swh_KE_oak.Mode7
 ocMA.Kontakion.melody = he.a.m7_swh_KE_oak.OukEtiKolyometha.name
-ocMA.Kontakion.text = ""
+ocMA.Kontakion.text = "Utawala wa kifo hautaweza kuwashika watu tena kabisa; kwa kuwa Kristo alishuka kifoni na kuvunja na kuangamiza nguvu zake; Kuzimu kunafungwa na Manabii wanashangilia na kusema: Mwokozi amefika kwa walio gizani; tokeni nje, ninyi waaminifu, kwa kufufuka."
 
 ocMA.Oikos.mode = misc_swh_KE_oak.Mode7
 ocMA.Oikos.text = ""

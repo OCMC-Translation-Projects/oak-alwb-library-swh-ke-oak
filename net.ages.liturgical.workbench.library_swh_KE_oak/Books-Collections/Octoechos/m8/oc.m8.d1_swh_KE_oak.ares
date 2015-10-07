@@ -300,15 +300,15 @@ ocMA.Hypakoe.text = "Wanawake walioleta marhamu kwa Mpaji wa uhai walipofika kab
 
 ocMA.Antiphon11.mode = misc_swh_KE_oak.Mode8
 ocMA.Antiphon11.melody  = ""
-ocMA.Antiphon11.text = ""
+ocMA.Antiphon11.text = "Toka ujana wangu adui hunijaribu, hunichoma kwa tamaa; na mimi nikikutegemea, Ee Bwana, nitashinda adui."
 
 ocMA.Antiphon12.mode = misc_swh_KE_oak.Mode8
 ocMA.Antiphon12.melody  = ""
-ocMA.Antiphon12.text = ""
+ocMA.Antiphon12.text = "Wachukiao Sayuni, kabla ya kushambuliwa wawe kuwa kama majani; kwa kuwa Kristo akakata shingo yao akiwakata na mateso."
 
 ocMA.Antiphon13.mode = misc_swh_KE_oak.Mode8
 ocMA.Antiphon13.melody  = ""
-ocMA.Antiphon13.text = ""
+ocMA.Antiphon13.text = "Katika Roho Mtakatifu ni uzima wa wote; Yeye ni nuru toka nuru, Mungu mkuu sana; twamsifu Yeye, na Baba, na Neno."
 
 ocMA.Antiphon21.mode = misc_swh_KE_oak.Mode8
 ocMA.Antiphon21.melody  = ""
@@ -604,7 +604,7 @@ ocMA.OdeS6C33.text = ""
 
 ocMA.Kontakion.mode = misc_swh_KE_oak.Mode8
 ocMA.Kontakion.melody = ""
-ocMA.Kontakion.text = ""
+ocMA.Kontakion.text = "Ulipofufuka kutoka kaburini uliwamsha wafu na kumfufua Adamu; na Hawa anafurahi kwa sababu ya ufufuo wako, tena miisho yote ya dunia inashangilia kwa kuwa umefufuka katika wafu, Ee Mwenye rehema kubwa."
 
 ocMA.Oikos.mode = misc_swh_KE_oak.Mode8
 ocMA.Oikos.text = ""

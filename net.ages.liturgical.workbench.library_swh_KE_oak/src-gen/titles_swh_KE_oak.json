@@ -1,7 +1,7 @@
 {'id_' : 'titles_swh_KE_oak|Allilouia', 'text' : ''}
-{'id_' : 'titles_swh_KE_oak|Antifonon1', 'text' : ''}
-{'id_' : 'titles_swh_KE_oak|Antifonon2', 'text' : ''}
-{'id_' : 'titles_swh_KE_oak|Antifonon3', 'text' : ''}
+{'id_' : 'titles_swh_KE_oak|Antifonon1', 'text' : 'Antifon ya 1'}
+{'id_' : 'titles_swh_KE_oak|Antifonon2', 'text' : 'Antifon ya 2'}
+{'id_' : 'titles_swh_KE_oak|Antifonon3', 'text' : 'Antifon ya 3'}
 {'id_' : 'titles_swh_KE_oak|Antifonon4', 'text' : ''}
 {'id_' : 'titles_swh_KE_oak|AntiTouEidomenToFos', 'text' : ''}
 {'id_' : 'titles_swh_KE_oak|Apolysis', 'text' : ''}
@@ -76,7 +76,7 @@
 {'id_' : 'titles_swh_KE_oak|KanonTriadikos', 'text' : ''}
 {'id_' : 'titles_swh_KE_oak|Katanyktika', 'text' : ''}
 {'id_' : 'titles_swh_KE_oak|Katanyktikon', 'text' : ''}
-{'id_' : 'titles_swh_KE_oak|Katavasia', 'text' : ''}
+{'id_' : 'titles_swh_KE_oak|Katavasia', 'text' : 'Katavasia (Nyimbo za Heshima)'}
 {'id_' : 'titles_swh_KE_oak|Katavasia2', 'text' : ''}
 {'id_' : 'titles_swh_KE_oak|KatavasiaEtera', 'text' : ''}
 {'id_' : 'titles_swh_KE_oak|Kathisma', 'text' : ''}
@@ -175,8 +175,8 @@
 {'id_' : 'titles_swh_KE_oak|ToATheotokionTouIchou', 'text' : ''}
 {'id_' : 'titles_swh_KE_oak|ToEothinonDoxastikon', 'text' : ''}
 {'id_' : 'titles_swh_KE_oak|ToEothinonTisKyriakis', 'text' : ''}
-{'id_' : 'titles_swh_KE_oak|ToEvangelion', 'text' : ''}
-{'id_' : 'titles_swh_KE_oak|ToTheionEvangelion', 'text' : ''}
+{'id_' : 'titles_swh_KE_oak|ToEvangelion', 'text' : 'INJILI'}
+{'id_' : 'titles_swh_KE_oak|ToTheionEvangelion', 'text' : 'INJILI TAKATIFU'}
 {'id_' : 'titles_swh_KE_oak|TonAgion', 'text' : ''}
 {'id_' : 'titles_swh_KE_oak|TonAgionGynaikon', 'text' : ''}
 {'id_' : 'titles_swh_KE_oak|TonApostolon', 'text' : ''}

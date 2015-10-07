@@ -285,15 +285,15 @@ ocMA.Hypakoe.text = "Wanawake walioleta marhamu walishangaa katika mawazo yao wa
 
 ocMA.Antiphon11.mode = misc_swh_KE_oak.Mode5
 ocMA.Antiphon11.melody  = ""
-ocMA.Antiphon11.text = ""
+ocMA.Antiphon11.text = "Katika shida yangu, kama Daudi ninakuimbia Mwokozi wangu; uniponye nafsi yangu na ulimi wa hila."
 
 ocMA.Antiphon12.mode = misc_swh_KE_oak.Mode5
 ocMA.Antiphon12.melody  = ""
-ocMA.Antiphon12.text = ""
+ocMA.Antiphon12.text = "Kwa watu pweke kuna maisha yenye baraka, wakiwa na mabawa, kwa sababu wana hamu sana ya Mungu."
 
 ocMA.Antiphon13.mode = misc_swh_KE_oak.Mode5
 ocMA.Antiphon13.melody  = ""
-ocMA.Antiphon13.text = ""
+ocMA.Antiphon13.text = "Katika Roho Mtakatifu viumbe vyote vyoonekanavyo na visivyoonekana vyatawaliwa kwa uthabity; kwa kuwa akiwa mwenye enzi kwa uweza wake ndiye kweli Mmoja wa Utatu."
 
 ocMA.Antiphon21.mode = misc_swh_KE_oak.Mode5
 ocMA.Antiphon21.melody  = ""
@@ -582,7 +582,7 @@ ocMA.OdeS6C33.text = ""
 
 ocMA.Kontakion.mode = misc_swh_KE_oak.Mode5
 ocMA.Kontakion.melody = ""
-ocMA.Kontakion.text = ""
+ocMA.Kontakion.text = "Ulikubali kushuka katika kuzimu, Ee Mwokozi wangu, ukavunja lango, maana Wewe u Mwenye nguvu juu ya vyote; ukafufua wafu na Wewe, maana u Mwumba, ukavunja mwiba wa kifu, Ee Kristo, tena umekomboa Adamu katika laana, Ee mpenda-wanadamu; kwa hivyo sisi sote tunapaza sauti na kusema: Utuokoe, Wewe Ee Bwana."
 
 ocMA.Oikos.mode = misc_swh_KE_oak.Mode5
 ocMA.Oikos.text = ""

@@ -306,15 +306,15 @@ ocMA.Hypakoe.text = "Kwa kifo chako cha hiari na cha uhai, Ee Kristo, ulivunja l
 
 ocMA.Antiphon11.mode = misc_swh_KE_oak.Mode6
 ocMA.Antiphon11.melody  = ""
-ocMA.Antiphon11.text = ""
+ocMA.Antiphon11.text = "Nimekuinulia macho yangu Wewe uliye mbinguni; nirehemu, ili niishe katika Wewe."
 
 ocMA.Antiphon12.mode = misc_swh_KE_oak.Mode6
 ocMA.Antiphon12.melody  = ""
-ocMA.Antiphon12.text = ""
+ocMA.Antiphon12.text = "Utuhurumie sisi watupu, na kututayarisha kuwa vyungu vya kutumika."
 
 ocMA.Antiphon13.mode = misc_swh_KE_oak.Mode6
 ocMA.Antiphon13.melody  = ""
-ocMA.Antiphon13.text = ""
+ocMA.Antiphon13.text = "Katika Roho Mtakatifu ni kusudi na kuokowa vyote; akiwa anampulizia kadiri yake mtu, anamtoa katika vitu vya nchi, kumpa mabawa, kumkuza na kumweka juu."
 
 ocMA.Antiphon21.mode = misc_swh_KE_oak.Mode6
 ocMA.Antiphon21.melody  = ""
@@ -613,7 +613,7 @@ ocMA.OdeS6C33.text = ""
 
 ocMA.Kontakion.mode = misc_swh_KE_oak.Mode6
 ocMA.Kontakion.melody = he.a.m6_swh_KE_oak.TinYperImon.name
-ocMA.Kontakion.text = ""
+ocMA.Kontakion.text = "Kristo Mungu akiwafufua wote toka katika peusi pa giza kwa mkono wake mwenye hai, aliwagawia watu ufufuko; kwa kuwa yu Mwokozi wa wote, ufufuko na uhai wa wote, tena Mungu wa vyote."
 
 ocMA.Oikos.mode = misc_swh_KE_oak.Mode6
 ocMA.Oikos.text = ""

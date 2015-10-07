@@ -2,11 +2,11 @@ A_Resource_Whose_Name = titles_swh_KE_oak
 
 Allilouia = ""
 
-Antifonon1 = ""
+Antifonon1 = "Antifon ya 1"
 
-Antifonon2 = ""
+Antifonon2 = "Antifon ya 2"
 
-Antifonon3 = ""
+Antifonon3 = "Antifon ya 3"
 
 Antifonon4 = ""
 
@@ -156,7 +156,7 @@ Katanyktika = ""
 
 Katanyktikon = ""
 
-Katavasia = ""
+Katavasia = "Katavasia (Nyimbo za Heshima)"
 
 Katavasia2 = ""
 
@@ -354,9 +354,9 @@ ToEothinonDoxastikon = ""
 
 ToEothinonTisKyriakis = ""
 
-ToEvangelion = ""
+ToEvangelion = "INJILI"
 
-ToTheionEvangelion = ""
+ToTheionEvangelion = "INJILI TAKATIFU"
 
 TonAgion = ""
 

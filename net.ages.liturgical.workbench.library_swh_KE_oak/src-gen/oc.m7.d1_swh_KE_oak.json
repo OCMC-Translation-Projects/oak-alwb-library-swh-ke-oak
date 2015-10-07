@@ -225,13 +225,13 @@
 {'id_' : 'oc|m7|d1_swh_KE_oak|ocMA|Hypakoe|text', 'text' : 'Wewe, Ee Kristo Mungu, uliyepata maumbile yetu na kuvumilia matesto ya msalaba kwa mwili, uniokoe kwa Ufufuo wako, maana u mpenda-wanadamu.'}
 {'id_' : 'oc|m7|d1_swh_KE_oak|ocMA|Antiphon11|mode', 'text' : ''}
 {'id_' : 'oc|m7|d1_swh_KE_oak|ocMA|Antiphon11|melody', 'text' : ''}
-{'id_' : 'oc|m7|d1_swh_KE_oak|ocMA|Antiphon11|text', 'text' : ''}
+{'id_' : 'oc|m7|d1_swh_KE_oak|ocMA|Antiphon11|text', 'text' : 'Uliyewarejeza mateka wa Sayuni toka katika kutanga-tanga, na mimi, Ee Mwokozi, nipe uzima ukiniondoa katika kutekwa dhambi.'}
 {'id_' : 'oc|m7|d1_swh_KE_oak|ocMA|Antiphon12|mode', 'text' : ''}
 {'id_' : 'oc|m7|d1_swh_KE_oak|ocMA|Antiphon12|melody', 'text' : ''}
-{'id_' : 'oc|m7|d1_swh_KE_oak|ocMA|Antiphon12|text', 'text' : ''}
+{'id_' : 'oc|m7|d1_swh_KE_oak|ocMA|Antiphon12|text', 'text' : 'Anayepanda kwa huzuni na kufunga wa machozi, yeye atavuna mavuno ya chakula kisichoisha.'}
 {'id_' : 'oc|m7|d1_swh_KE_oak|ocMA|Antiphon13|mode', 'text' : ''}
 {'id_' : 'oc|m7|d1_swh_KE_oak|ocMA|Antiphon13|melody', 'text' : ''}
-{'id_' : 'oc|m7|d1_swh_KE_oak|ocMA|Antiphon13|text', 'text' : ''}
+{'id_' : 'oc|m7|d1_swh_KE_oak|ocMA|Antiphon13|text', 'text' : 'Katika Roho Mtakatifu ni chemchemi ya hazina ya umungu; toka Yeye huja hekima, ufahamu na hofu ya Bwana; utukufu, heshima na utawala viwe kwake.'}
 {'id_' : 'oc|m7|d1_swh_KE_oak|ocMA|Antiphon21|mode', 'text' : ''}
 {'id_' : 'oc|m7|d1_swh_KE_oak|ocMA|Antiphon21|melody', 'text' : ''}
 {'id_' : 'oc|m7|d1_swh_KE_oak|ocMA|Antiphon21|text', 'text' : ''}
@@ -456,7 +456,7 @@
 {'id_' : 'oc|m7|d1_swh_KE_oak|ocMA|OdeS6C33|text', 'text' : ''}
 {'id_' : 'oc|m7|d1_swh_KE_oak|ocMA|Kontakion|mode', 'text' : ''}
 {'id_' : 'oc|m7|d1_swh_KE_oak|ocMA|Kontakion|melody', 'text' : ''}
-{'id_' : 'oc|m7|d1_swh_KE_oak|ocMA|Kontakion|text', 'text' : ''}
+{'id_' : 'oc|m7|d1_swh_KE_oak|ocMA|Kontakion|text', 'text' : 'Utawala wa kifo hautaweza kuwashika watu tena kabisa; kwa kuwa Kristo alishuka kifoni na kuvunja na kuangamiza nguvu zake; Kuzimu kunafungwa na Manabii wanashangilia na kusema: Mwokozi amefika kwa walio gizani; tokeni nje, ninyi waaminifu, kwa kufufuka.'}
 {'id_' : 'oc|m7|d1_swh_KE_oak|ocMA|Oikos|mode', 'text' : ''}
 {'id_' : 'oc|m7|d1_swh_KE_oak|ocMA|Oikos|text', 'text' : ''}
 {'id_' : 'oc|m7|d1_swh_KE_oak|ocMA|OdeS7C1H|mode', 'text' : ''}

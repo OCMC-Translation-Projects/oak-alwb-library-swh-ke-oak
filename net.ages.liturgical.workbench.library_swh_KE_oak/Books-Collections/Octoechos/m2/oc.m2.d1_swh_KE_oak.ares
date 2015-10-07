@@ -295,15 +295,15 @@ ocMA.Hypakoe.text = "Baada ya mateso yako, Ee Kristo Mungu, wanawake wakienda ka
 
 ocMA.Antiphon11.mode = misc_swh_KE_oak.Mode2
 ocMA.Antiphon11.melody  = ""
-ocMA.Antiphon11.text = ""
+ocMA.Antiphon11.text = "Nakuinulia macho ya moyo wangu, Ee Mwokozi, mbinguni; nikomboe kwa mwanga yako."
 
 ocMA.Antiphon12.mode = misc_swh_KE_oak.Mode2
 ocMA.Antiphon12.melody  = ""
-ocMA.Antiphon12.text = ""
+ocMA.Antiphon12.text = "Tuhurumie, Ee Kristo wangu, sisi tunaofanya dhambi sana kila saa kwako, na utupe njia ya kutubu kabla ya kufa."
 
 ocMA.Antiphon13.mode = misc_swh_KE_oak.Mode2
 ocMA.Antiphon13.melody  = ""
-ocMA.Antiphon13.text = ""
+ocMA.Antiphon13.text = "Kutawala, kutakasa na kuna mwendo ni kazi ya Roho Mtakatifu; kwa kuwa ni Mungu kwa asili moja pamoja na Baba na Neno."
 
 ocMA.Antiphon21.mode = misc_swh_KE_oak.Mode2
 ocMA.Antiphon21.melody  = ""
@@ -546,7 +546,7 @@ ocMA.OdeS6C32.text = ""
 
 ocMA.Kontakion.mode = misc_swh_KE_oak.Mode2
 ocMA.Kontakion.melody = he.a.m2_swh_KE_oak.TaAnoZiton.name 
-ocMA.Kontakion.text = ""
+ocMA.Kontakion.text = "Umefufuka, Ee Mwokozi, toka kaburini; na kuzimu kukiona ile miujiza kulishangaa; wafu wamefufuka na viumbe vyote vikiona hivyo vyafurahi pamoja na Wewe; Adamu ashangilia pia, na ulimwengu wakusifu daima, Ee Mwokozi wangu."
 
 ocMA.Oikos.mode = misc_swh_KE_oak.Mode2
 ocMA.Oikos.text = ""

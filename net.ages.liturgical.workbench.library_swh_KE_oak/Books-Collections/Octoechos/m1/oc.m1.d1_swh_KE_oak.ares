@@ -290,15 +290,15 @@ ocMA.Hypakoe.text = "Kwa toba mnyang’anyi alipata Paradiso kama nyara; na maom
 
 ocMA.Antiphon11.mode = misc_swh_KE_oak.Mode1
 ocMA.Antiphon11.melody  = ""
-ocMA.Antiphon11.text = ""
+ocMA.Antiphon11.text = "Katika shida yangu usikie kilio cha taabu yangu, Ee Bwana, ninakuita."
 
 ocMA.Antiphon12.mode = misc_swh_KE_oak.Mode1
 ocMA.Antiphon12.melody  = ""
-ocMA.Antiphon12.text = ""
+ocMA.Antiphon12.text = "Watu pweke, wakiwa nje ya ulimwengu usiofaa, wana hamu isiyoisha."
 
 ocMA.Antiphon13.mode = misc_swh_KE_oak.Mode1
 ocMA.Antiphon13.melody  = ""
-ocMA.Antiphon13.text = ""
+ocMA.Antiphon13.text = "Heshima na utukufu ni haki ya Roho Mtakatifu, na Baba na tena Mwana; kwa hiyo tumwimbie Utatu mmoja mwenye nguvu."
 
 ocMA.Antiphon21.mode = misc_swh_KE_oak.Mode1
 ocMA.Antiphon21.melody  = ""
@@ -584,7 +584,7 @@ ocMA.OdeS6C33.text = ""
 
 ocMA.Kontakion.mode = misc_swh_KE_oak.Mode1
 ocMA.Kontakion.melody = ""
-ocMA.Kontakion.text = ""
+ocMA.Kontakion.text = "Kwa kuwa u Mungu, umefufuka toka kaburini kwa utukufu na umefufua ulimwengu pamoja na Wewe mwenyewe; maumbile ya watu yamekusifu istahilivyo Mungu; kifo kiliangamizwa, Adamu akacheza, Ee Bwana wa Mabwana; Hawa akiwa sasa amekombolewa kifungoni anafurahi akipaza sauti na kusema: Wewe ndiwe Kristo, unayewagawia wote ufufuko."
 
 ocMA.Oikos.mode = misc_swh_KE_oak.Mode1
 ocMA.Oikos.text = ""

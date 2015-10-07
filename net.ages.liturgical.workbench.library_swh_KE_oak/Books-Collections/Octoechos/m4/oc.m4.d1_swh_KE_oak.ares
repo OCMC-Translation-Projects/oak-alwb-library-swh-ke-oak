@@ -295,15 +295,15 @@ ocMA.Hypakoe.text = "Wanawake walioleta marhamu walitangulia na kuwajulisha mitu
 
 ocMA.Antiphon11.mode = misc_swh_KE_oak.Mode4
 ocMA.Antiphon11.melody  = ""
-ocMA.Antiphon11.text = ""
+ocMA.Antiphon11.text = "Tangu ujana wangu tamaa mbaya zinanisumbua, lakini wewe unisaidie na uniokoe, Ee Mwokozi wangu."
 
 ocMA.Antiphon12.mode = misc_swh_KE_oak.Mode4
 ocMA.Antiphon12.melody  = ""
-ocMA.Antiphon12.text = ""
+ocMA.Antiphon12.text = "Wachukiao Sayuni, mwaibishwe mbele ya Bwana, maana mtakuwa mmekauka kama majani motoni."
 
 ocMA.Antiphon13.mode = misc_swh_KE_oak.Mode4
 ocMA.Antiphon13.melody  = ""
-ocMA.Antiphon13.text = ""
+ocMA.Antiphon13.text = "Katika Roho Mtakatifu kila nafsi yapata uzima na kwa utakaso yainuka, na yaangazwa, katika Utatu wa umoja na siri ya umungu."
 
 ocMA.Antiphon21.mode = misc_swh_KE_oak.Mode4
 ocMA.Antiphon21.melody  = ""
@@ -601,7 +601,7 @@ ocMA.OdeS6C32.text = ""
 
 ocMA.Kontakion.mode = misc_swh_KE_oak.Mode4
 ocMA.Kontakion.melody = he.a.m4_swh_KE_oak.EpefanisSimeron.name 
-ocMA.Kontakion.text = ""
+ocMA.Kontakion.text = "Mwokozi wangu na Mkombozi wangu, maana yu Mungu, ametoa watu toka mnyororoni mwa kifo; akavunja lango za kuzimu na amefufuka katika siku ya tatu, maana yu Bwana wa Mabwana."
 
 ocMA.Oikos.mode = misc_swh_KE_oak.Mode4
 ocMA.Oikos.text = ""

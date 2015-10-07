@@ -30,7 +30,7 @@ AnaxAnakton5.text = ""
 AnoixoToStomaMou.name = ""
 AnoixoToStomaMou.mode = misc_swh_KE_oak.Mode4
 AnoixoToStomaMou.ode = misc_swh_KE_oak.Ode1
-AnoixoToStomaMou.text = ""
+AnoixoToStomaMou.text = "Nitafumbua kinywa changu na kitajazwa na roho na nitatoa maneno kwa malkia mama na kuonekana nikishangilia sana na kuimbia miujiza yake kwa mteremo."
 
 AnoixoToStomaMou_Eisodia.name = ""
 AnoixoToStomaMou_Eisodia.mode = misc_swh_KE_oak.Mode4
@@ -550,7 +550,7 @@ TousOuranousIAretiSou.text = ""
 TousSousYmnologous.name = ""
 TousSousYmnologous.mode = misc_swh_KE_oak.Mode4
 TousSousYmnologous.ode = misc_swh_KE_oak.Ode3
-TousSousYmnologous.text = ""
+TousSousYmnologous.text = "Mzazi-Mungu kama chemichemi hai tena tele uwaimarishe wanaokusifu, wakifanya mkutano wa roho na uwastahilishe kuwa na taji kwa utukufu wako wa umungu."
 
 TousSousYmnologous_Eisodia.name = ""
 TousSousYmnologous_Eisodia.mode = misc_swh_KE_oak.Mode4

@@ -233,13 +233,13 @@
 {'id_' : 'oc|m6|d1_swh_KE_oak|ocMA|Hypakoe|text', 'text' : 'Kwa kifo chako cha hiari na cha uhai, Ee Kristo, ulivunja lango la kuzimu, maana u Mungu, na ulifungua Paradiso ya kale; na ukifufuka katika wafu ulikomboa maisha yetu yaliyokuwa ya kuoza.'}
 {'id_' : 'oc|m6|d1_swh_KE_oak|ocMA|Antiphon11|mode', 'text' : ''}
 {'id_' : 'oc|m6|d1_swh_KE_oak|ocMA|Antiphon11|melody', 'text' : ''}
-{'id_' : 'oc|m6|d1_swh_KE_oak|ocMA|Antiphon11|text', 'text' : ''}
+{'id_' : 'oc|m6|d1_swh_KE_oak|ocMA|Antiphon11|text', 'text' : 'Nimekuinulia macho yangu Wewe uliye mbinguni; nirehemu, ili niishe katika Wewe.'}
 {'id_' : 'oc|m6|d1_swh_KE_oak|ocMA|Antiphon12|mode', 'text' : ''}
 {'id_' : 'oc|m6|d1_swh_KE_oak|ocMA|Antiphon12|melody', 'text' : ''}
-{'id_' : 'oc|m6|d1_swh_KE_oak|ocMA|Antiphon12|text', 'text' : ''}
+{'id_' : 'oc|m6|d1_swh_KE_oak|ocMA|Antiphon12|text', 'text' : 'Utuhurumie sisi watupu, na kututayarisha kuwa vyungu vya kutumika.'}
 {'id_' : 'oc|m6|d1_swh_KE_oak|ocMA|Antiphon13|mode', 'text' : ''}
 {'id_' : 'oc|m6|d1_swh_KE_oak|ocMA|Antiphon13|melody', 'text' : ''}
-{'id_' : 'oc|m6|d1_swh_KE_oak|ocMA|Antiphon13|text', 'text' : ''}
+{'id_' : 'oc|m6|d1_swh_KE_oak|ocMA|Antiphon13|text', 'text' : 'Katika Roho Mtakatifu ni kusudi na kuokowa vyote; akiwa anampulizia kadiri yake mtu, anamtoa katika vitu vya nchi, kumpa mabawa, kumkuza na kumweka juu.'}
 {'id_' : 'oc|m6|d1_swh_KE_oak|ocMA|Antiphon21|mode', 'text' : ''}
 {'id_' : 'oc|m6|d1_swh_KE_oak|ocMA|Antiphon21|melody', 'text' : ''}
 {'id_' : 'oc|m6|d1_swh_KE_oak|ocMA|Antiphon21|text', 'text' : ''}
@@ -475,7 +475,7 @@
 {'id_' : 'oc|m6|d1_swh_KE_oak|ocMA|OdeS6C33|text', 'text' : ''}
 {'id_' : 'oc|m6|d1_swh_KE_oak|ocMA|Kontakion|mode', 'text' : ''}
 {'id_' : 'oc|m6|d1_swh_KE_oak|ocMA|Kontakion|melody', 'text' : ''}
-{'id_' : 'oc|m6|d1_swh_KE_oak|ocMA|Kontakion|text', 'text' : ''}
+{'id_' : 'oc|m6|d1_swh_KE_oak|ocMA|Kontakion|text', 'text' : 'Kristo Mungu akiwafufua wote toka katika peusi pa giza kwa mkono wake mwenye hai, aliwagawia watu ufufuko; kwa kuwa yu Mwokozi wa wote, ufufuko na uhai wa wote, tena Mungu wa vyote.'}
 {'id_' : 'oc|m6|d1_swh_KE_oak|ocMA|Oikos|mode', 'text' : ''}
 {'id_' : 'oc|m6|d1_swh_KE_oak|ocMA|Oikos|text', 'text' : ''}
 {'id_' : 'oc|m6|d1_swh_KE_oak|ocMA|OdeS7C1H|mode', 'text' : ''}

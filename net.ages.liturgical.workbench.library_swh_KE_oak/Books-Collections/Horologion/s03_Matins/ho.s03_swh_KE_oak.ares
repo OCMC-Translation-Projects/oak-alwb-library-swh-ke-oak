@@ -283,7 +283,7 @@ hoMA.SunPostGospel.text = ""
 
 hoMA.PostGospelTrinity.text = ""
 hoMA.PostGospelApostle.text = ""
-hoMA.PostGospelApostles.text = ""
+hoMA.PostGospelApostles.text = "Kwa maombi ya mitume, Ee Mrahimu, ufute wingi wa dhambi zangu."
 hoMA.PostGospelMaleMartyr.text = ""
 hoMA.PostGospelMartyrs.text = ""
 hoMA.PostGospelWomanMartyr.text = ""
@@ -291,13 +291,13 @@ hoMA.PostGospelTeacher.text = ""
 hoMA.PostGospelTeachers.text = ""
 hoMA.PostGospelMonastic.text = ""
 hoMA.PostGospelForerunner.text = ""
-hoMA.PostGospelTheotokos.text = ""
+hoMA.PostGospelTheotokos.text = "Kwa maombi ya Mzazi-Mungu, Ee Mrahimu, ufute wingi wa dhambi zangu."
 hoMA.PostGospelAllPureLady.text = ""
 hoMA.PostGospelProphet.text = ""
 hoMA.PostGospelAngels.text = ""
 hoMA.PostGospelHierarch.text = ""
 
-hoMA.SunPostGospelIdiomelon.text = ""
+hoMA.SunPostGospelIdiomelon.text = "Kristo amefufuka toka kaburini kama alivyosema na ametugawia uzima wa milele na huruma kubwa."
 
 hoMA.SunExapVerse1.text = "" //for media
 
