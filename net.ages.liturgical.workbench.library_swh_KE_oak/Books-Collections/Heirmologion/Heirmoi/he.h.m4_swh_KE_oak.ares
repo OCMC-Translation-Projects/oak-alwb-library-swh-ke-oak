@@ -50,7 +50,7 @@ AnoixoToStomaMou_Syllipsis.text = ""
 ApasGigenis.name = ""
 ApasGigenis.mode = misc_swh_KE_oak.Mode4
 ApasGigenis.ode = misc_swh_KE_oak.Ode9
-ApasGigenis.text = ""
+ApasGigenis.text = "Kila mwananchi, akipaza taa arukaruke kwa furaha rohoni, na viumbe vyenye akili bila mwili visifu miujiza ya Mungu katika Mzazi-Mungu na kupaza sauti na kusema: Salamu, mbarikiwa sana, Mzazi-Mungu, bila doa na bikira daima."
 
 ApasGigenis_Eisodia.name = ""
 ApasGigenis_Eisodia.mode = misc_swh_KE_oak.Mode4
@@ -212,7 +212,7 @@ EvoiseProtypon.text = ""
 ExestiTaSympanta.name = ""
 ExestiTaSympanta.mode = misc_swh_KE_oak.Mode4
 ExestiTaSympanta.ode = misc_swh_KE_oak.Ode5
-ExestiTaSympanta.text = ""
+ExestiTaSympanta.text = "Ulimwengu wote ulistaajabia utukufu wako wa umungu kwa kuwa wee Bikira usiyeolewa; uliyekuwa na roho na ulimzaa Mwana asiye na mwanzo, anayegawia wokovu wote wanaokusifu."
 
 ExestiTaSympanta_Eisodia.name = ""
 ExestiTaSympanta_Eisodia.mode = misc_swh_KE_oak.Mode4
@@ -392,7 +392,7 @@ OtiSteiraEteken.text = ""
 OukElatrefsan.name = ""
 OukElatrefsan.mode = misc_swh_KE_oak.Mode4
 OukElatrefsan.ode = misc_swh_KE_oak.Ode7
-OukElatrefsan.text = ""
+OukElatrefsan.text = "Waliyofikiria umungu hawakuabudu viumbe badala ya Mungu, lakini wakishinda ogofyo la moto kwa uhodari walishangilia na kuimba; wahimidiwa Bwana na Mungu wa mababa wetu."
 
 OukEnSofia.name = ""
 OukEnSofia.mode = misc_swh_KE_oak.Mode4
@@ -410,7 +410,7 @@ OutosOTheosImon.text = ""
 PaidasEvageis.name = ""
 PaidasEvageis.mode = misc_swh_KE_oak.Mode4
 PaidasEvageis.ode = misc_swh_KE_oak.Ode8
-PaidasEvageis.text = ""
+PaidasEvageis.text = "Mzao wa Mzazi-Mungu aliwaokoa vijana wenye haki toka tanurini zamani zile kama alama na sasa ni utimilifu wa uzao; kwa kusanyiko ulimwengu wote ukiimba: Enyi viumbe vyote, msifuni Bwana milele na milele."
 
 PantaTaErgaTouTheou.name = ""
 PantaTaErgaTouTheou.mode = misc_swh_KE_oak.Mode4
@@ -482,7 +482,7 @@ TiEikoniTiChrysi.text = ""
 TinAnexichniaston.name = ""
 TinAnexichniaston.mode = misc_swh_KE_oak.Mode4
 TinAnexichniaston.ode = misc_swh_KE_oak.Ode4
-TinAnexichniaston.text = ""
+TinAnexichniaston.text = "Nabii Habakuki akielewa upendo wa umungu usiochunguzika ili upate mwili kwa Bikira alipaza sauti: Utukufu kwa uwezo wako, Ee Bwana."
 
 TinSionEpOrous.name = ""
 TinSionEpOrous.mode = misc_swh_KE_oak.Mode4
@@ -492,7 +492,7 @@ TinSionEpOrous.text = ""
 TinTheianTaftin.name = ""
 TinTheianTaftin.mode = misc_swh_KE_oak.Mode4
 TinTheianTaftin.ode = misc_swh_KE_oak.Ode6
-TinTheianTaftin.text = ""
+TinTheianTaftin.text = "Sisi tunaofikiria umungu tukiadhimisha siku kuu ya Mzazi-Mungu; ya umungu na dhamani tupige makofi tukimtukuza Mungu aliyezaliwa naye."
 
 TisSisEpiGis.name = ""
 TisSisEpiGis.mode = misc_swh_KE_oak.Mode4

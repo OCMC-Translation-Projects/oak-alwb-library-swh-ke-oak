@@ -3949,7 +3949,7 @@ psa98.v9a.number = "(98:9a)"
 psa98.v9a.text = "Mtukuzeni BWANA, Mungu wetu; sujuduni mkiukabili mlima wake mtakatifu;"
 psa98.v9b.number = "(98:9b)"
 psa98.v9b.text = "maana BWANA, Mungu wetu, ndiye mtakatifu."
-psa98.v9balt.text = "BWANA, Mungu wetu, ndiye mtakatifu."
+psa98.v9balt.text = "Mtakatifu ni BWANA Mungu wetu."
 
 psa99.title = "Zaburi ya 99 (100)."
 psa99.version = ""
