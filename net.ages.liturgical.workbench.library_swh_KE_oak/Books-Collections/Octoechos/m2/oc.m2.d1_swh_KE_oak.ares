@@ -287,7 +287,7 @@ ocMA.Kathisma22.text = ""
 
 ocMA.Kathisma23.melody  = ""
 ocMA.Kathisma23.mode = misc_swh_KE_oak.Mode2
-ocMA.Kathisma23.text = ""
+ocMA.Kathisma23.text = "Mbarikiwa kuliko wote u, Bikira Mzazi-Mungu; aliyepata mwili kutoka kwako nayo mauti imetekwa, Adamu ameitwa tena, laana imetenguwa, kuzimu kumekufa tele, na sisi tumepewa uzima. Kwa hivyo twaimba na kusema: mhimidiwa u Kristo Mungu wetu, uliyependa hivyo, utukufu kwako."
 
 ocMA.Hypakoe.mode = misc_swh_KE_oak.Mode2
 ocMA.Hypakoe.melody  = ""

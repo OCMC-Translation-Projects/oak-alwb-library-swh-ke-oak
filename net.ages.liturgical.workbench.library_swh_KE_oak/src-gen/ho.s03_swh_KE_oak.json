@@ -72,15 +72,15 @@
 {'id_' : 'ho|s03_swh_KE_oak|R19', 'text' : ''}
 {'id_' : 'ho|s03_swh_KE_oak|R20', 'text' : ''}
 {'id_' : 'ho|s03_swh_KE_oak|R21', 'text' : ''}
-{'id_' : 'ho|s03_swh_KE_oak|hoMA|LaudsSunTheotokion|text', 'text' : ''}
-{'id_' : 'ho|s03_swh_KE_oak|hoMA|DoxologyGreat|title', 'text' : ''}
-{'id_' : 'ho|s03_swh_KE_oak|hoMA|DoxologyGreatIntro|text', 'text' : ''}
+{'id_' : 'ho|s03_swh_KE_oak|hoMA|LaudsSunTheotokion|text', 'text' : 'Mbarikiwa kuliko wote u, Bikira Mzazi-Mungu; aliyepata mwili kutoka kwako nayo mauti imetekwa, Adamu ameitwa tena, laana imetenguwa, kuzimu kumekufa tele, na sisi tumepewa uzima. Kwa hivyo twaimba na kusema: mhimidiwa u Kristo Mungu wetu, uliyependa hivyo, utukufu kwako.'}
+{'id_' : 'ho|s03_swh_KE_oak|hoMA|DoxologyGreat|title', 'text' : 'DOKSOLOGIA KUBWA (Wimbo wa Kumtukuza Mungu)'}
+{'id_' : 'ho|s03_swh_KE_oak|hoMA|DoxologyGreatIntro|text', 'text' : 'Utukufu kwako ulionyesha nuru.'}
 {'id_' : 'ho|s03_swh_KE_oak|hoMA|DoxologyVerse01|text', 'text' : 'Utukufu kwa Mungu juu pia, na nchini amani, urathi kwa wanadamu.'}
-{'id_' : 'ho|s03_swh_KE_oak|hoMA|DoxologyVerse02|text', 'text' : ''}
-{'id_' : 'ho|s03_swh_KE_oak|hoMA|DoxologyVerse03|text', 'text' : ''}
-{'id_' : 'ho|s03_swh_KE_oak|hoMA|DoxologyVerse04|text', 'text' : ''}
-{'id_' : 'ho|s03_swh_KE_oak|hoMA|DoxologyVerse05|text', 'text' : ''}
-{'id_' : 'ho|s03_swh_KE_oak|hoMA|DoxologyVerse06|text', 'text' : ''}
+{'id_' : 'ho|s03_swh_KE_oak|hoMA|DoxologyVerse02|text', 'text' : 'Tukusifu, tukuhimidi, tukusujudu, tukutukuza, tukushukuru kwa utukufu wako mkubwa.'}
+{'id_' : 'ho|s03_swh_KE_oak|hoMA|DoxologyVerse03|text', 'text' : 'Ee Bwana, mfalme wa juu mbinguni Mungu, Baba mwenye enzi. Ee Bwana, Mwana wa pekee, Yesu Kristo, na Roho Mtakatifu.'}
+{'id_' : 'ho|s03_swh_KE_oak|hoMA|DoxologyVerse04|text', 'text' : 'Ee Bwana, Mungu we, mwanakondoo wa Mungu, Mwana wa Baba. Unayechukua dhambi za dunia, utuhurumie, unayechukua dhambi za dunia.'}
+{'id_' : 'ho|s03_swh_KE_oak|hoMA|DoxologyVerse05|text', 'text' : 'Uyapokee maombi yetu, unayeketi kuume kwa Baba, na kutuhurumia.'}
+{'id_' : 'ho|s03_swh_KE_oak|hoMA|DoxologyVerse06|text', 'text' : 'Kwa kuwa u mtakatifu wa pekee, u Bwana wa pekee, Yesu Kristo, kwa utukufu wa Baba. Amina.'}
 {'id_' : 'ho|s03_swh_KE_oak|hoMA|DoxologyVerse07|text', 'text' : 'Kila siku nitakuhimidi, nitalisifu jina lako milele na milele.'}
 {'id_' : 'ho|s03_swh_KE_oak|hoMA|DoxologyVerse07e|text', 'text' : ''}
 {'id_' : 'ho|s03_swh_KE_oak|hoMA|DoxologyVerse08|text', 'text' : ''}
