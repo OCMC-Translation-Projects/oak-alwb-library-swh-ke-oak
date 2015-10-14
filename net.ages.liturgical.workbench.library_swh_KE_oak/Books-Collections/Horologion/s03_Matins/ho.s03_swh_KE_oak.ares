@@ -236,7 +236,7 @@ hoMA.DoxologyVerse15.text = ps_swh_KE_oak.psa35.v11a.text
 hoMA.DoxologyVerse16.text = ""
 hoMA.DoxologyVerse17.text = ""
 hoMA.DoxologyVerse18.text = ""
-hoMA.DoxologyVerse19.text = ""
+hoMA.DoxologyVerse19.text = "Usiyekufa mtakatifu, utuhurumie."
 R22 = ""
 hoMA.DoxologyVerse20.text = ""
 R23 = ""
@@ -267,7 +267,7 @@ R34 = ""
 R35 = ""
 R36 = ""
 hoMA.SunTroparion1.mode = misc_swh_KE_oak.Mode4
-hoMA.SunTroparion1.text = ""
+hoMA.SunTroparion1.text = "Leo wokovu umefanyika duniani. Tumwimbie aliyefufuka kaburini na mwongozi wa uzima wetu, kwa kuwa akibomoa mauti kwa mauti, ametupa sisi kushinda na huruma kubwa."
 R37 = ""
 //Title ultimately link this to pe.d18.peMA.Kath12
 hoMA.SunTroparion2.mode = misc_swh_KE_oak.Mode8

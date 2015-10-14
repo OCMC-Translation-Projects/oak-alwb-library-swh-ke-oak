@@ -2,6 +2,8 @@
 {'id_' : 'orthros|typica_swh_KE_oak|o|t|book|title2', 'text' : 'Ibada hizi zinafanyika katika Kanisa la Kenya wakati Kasisi hayupo'}
 {'id_' : 'orthros|typica_swh_KE_oak|o|t|book|title3', 'text' : 'Pia zinafanyika wakati Kasisi yupo, lakini hawezi kufanya Liturgia Takatifu kwa sababu ya kukosa divai ama prosfora, ama kwa sababu nyingine yoyote'}
 {'id_' : 'orthros|typica_swh_KE_oak|magnificat|title', 'text' : 'Wimbo wa Maria Mzazi-Mungu (Luka 1:46-55)'}
+{'id_' : 'orthros|typica_swh_KE_oak|tropres|title', 'text' : 'Tropario (Wimbo) wa Ufufuo'}
+{'id_' : 'orthros|typica_swh_KE_oak|typica|title', 'text' : 'TYPIKA'}
 {'id_' : 'orthros|typica_swh_KE_oak|rubric|order', 'text' : ''}
 {'id_' : 'orthros|typica_swh_KE_oak|rubric|without', 'text' : ''}
 {'id_' : 'orthros|typica_swh_KE_oak|rubric|apolytikion', 'text' : 'Wimbo wa Ufufuo katika sauti ya wiki hii.'}
@@ -11,5 +13,7 @@
 {'id_' : 'orthros|typica_swh_KE_oak|rubric|orthrosgospel', 'text' : 'Msomaji anasoma (wala si kuimba) Injili ya Orthros.'}
 {'id_' : 'orthros|typica_swh_KE_oak|rubric|kontakion', 'text' : 'Msomaji anaimba kontakio katika sauti ya wiki hii.'}
 {'id_' : 'orthros|typica_swh_KE_oak|rubric|synaxarion', 'text' : 'Sinaksari (Makumbusho ya mtakatifu wa siku ya leo) inasomwa.'}
+{'id_' : 'orthros|typica_swh_KE_oak|rubric|begintypika', 'text' : 'Sasa ibada ya Typika inaanza.'}
+{'id_' : 'orthros|typica_swh_KE_oak|rubric|opencurtain', 'text' : 'Baada ya kumaliza Maombi ya Asubuhi (Orthros), pazia ya Mlango Mzuri inafunguliwa.'}
 {'id_' : 'orthros|typica_swh_KE_oak|awesomeintercession|text', 'text' : ''}
 {'id_' : 'orthros|typica_swh_KE_oak|exapostilarion|theotokion|text', 'text' : 'Ulifurahi na mitume, Ee Mzazi-Mungu bikira, ulipomwona Mwokozi. Akafufuka toka wafu, akajifunua kwa mitume katika siku ya tatu. Aliwaagiza mtime kufunua vilivyo vyema, kubatiza mataifa kwa jina la Baba na Mwana na Roho Mtakatifu. Twakutukuza, Ee Bikira.'}

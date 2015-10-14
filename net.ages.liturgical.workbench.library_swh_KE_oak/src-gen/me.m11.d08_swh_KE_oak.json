@@ -111,7 +111,7 @@
 {'id_' : 'me|m11|d08_swh_KE_oak|meMA|PostGospelGlory|text', 'text' : ''}
 {'id_' : 'me|m11|d08_swh_KE_oak|meMA|PostGospelBoth|mode', 'text' : ''}
 {'id_' : 'me|m11|d08_swh_KE_oak|meMA|PostGospelBoth|melody', 'text' : ''}
-{'id_' : 'me|m11|d08_swh_KE_oak|meMA|PostGospelBoth|text', 'text' : ''}
+{'id_' : 'me|m11|d08_swh_KE_oak|meMA|PostGospelBoth|text', 'text' : 'Kwa maombi ya Mzazi-Mungu, Ee Mrahimu, ufute wingi wa dhambi zangu.'}
 {'id_' : 'me|m11|d08_swh_KE_oak|meMA|PostGospelIdiomelon|mode', 'text' : ''}
 {'id_' : 'me|m11|d08_swh_KE_oak|meMA|PostGospelIdiomelon|melody', 'text' : ''}
 {'id_' : 'me|m11|d08_swh_KE_oak|meMA|PostGospelIdiomelon|text', 'text' : ''}
@@ -230,7 +230,7 @@
 {'id_' : 'me|m11|d08_swh_KE_oak|meMA|Ode4K|ode', 'text' : ''}
 {'id_' : 'me|m11|d08_swh_KE_oak|meMA|Ode4K|mode', 'text' : ''}
 {'id_' : 'me|m11|d08_swh_KE_oak|meMA|Ode4K|melody', 'text' : ''}
-{'id_' : 'me|m11|d08_swh_KE_oak|meMA|Ode4K|text', 'text' : ''}
+{'id_' : 'me|m11|d08_swh_KE_oak|meMA|Ode4K|text', 'text' : 'Nabii Habakuki akielewa upendo wa umungu usiochunguzika ili upate mwili kwa Bikira alipaza sauti: Utukufu kwa uwezo wako, Ee Bwana.'}
 {'id_' : 'me|m11|d08_swh_KE_oak|meMA|Ode5C11|ode', 'text' : ''}
 {'id_' : 'me|m11|d08_swh_KE_oak|meMA|Ode5C11|mode', 'text' : ''}
 {'id_' : 'me|m11|d08_swh_KE_oak|meMA|Ode5C11|melody', 'text' : ''}
@@ -302,7 +302,7 @@
 {'id_' : 'me|m11|d08_swh_KE_oak|meMA|Ode6K|ode', 'text' : ''}
 {'id_' : 'me|m11|d08_swh_KE_oak|meMA|Ode6K|mode', 'text' : ''}
 {'id_' : 'me|m11|d08_swh_KE_oak|meMA|Ode6K|melody', 'text' : ''}
-{'id_' : 'me|m11|d08_swh_KE_oak|meMA|Ode6K|text', 'text' : ''}
+{'id_' : 'me|m11|d08_swh_KE_oak|meMA|Ode6K|text', 'text' : 'Sisi tunaofikiria umungu tukiadhimisha siku kuu ya Mzazi-Mungu; ya umungu na dhamani tupige makofi tukimtukuza Mungu aliyezaliwa naye.'}
 {'id_' : 'me|m11|d08_swh_KE_oak|meMA|Kontakion1|mode', 'text' : ''}
 {'id_' : 'me|m11|d08_swh_KE_oak|meMA|Kontakion1|melody', 'text' : ''}
 {'id_' : 'me|m11|d08_swh_KE_oak|meMA|Kontakion1|text', 'text' : ''}
@@ -343,7 +343,7 @@
 {'id_' : 'me|m11|d08_swh_KE_oak|meMA|Ode7K|ode', 'text' : ''}
 {'id_' : 'me|m11|d08_swh_KE_oak|meMA|Ode7K|mode', 'text' : ''}
 {'id_' : 'me|m11|d08_swh_KE_oak|meMA|Ode7K|melody', 'text' : ''}
-{'id_' : 'me|m11|d08_swh_KE_oak|meMA|Ode7K|text', 'text' : ''}
+{'id_' : 'me|m11|d08_swh_KE_oak|meMA|Ode7K|text', 'text' : 'Waliyofikiria umungu hawakuabudu viumbe badala ya Mungu, lakini wakishinda ogofyo la moto kwa uhodari walishangilia na kuimba; wahimidiwa Bwana na Mungu wa mababa wetu.'}
 {'id_' : 'me|m11|d08_swh_KE_oak|meMA|Ode8C11|ode', 'text' : ''}
 {'id_' : 'me|m11|d08_swh_KE_oak|meMA|Ode8C11|mode', 'text' : ''}
 {'id_' : 'me|m11|d08_swh_KE_oak|meMA|Ode8C11|melody', 'text' : ''}
@@ -379,7 +379,7 @@
 {'id_' : 'me|m11|d08_swh_KE_oak|meMA|Ode8K|ode', 'text' : ''}
 {'id_' : 'me|m11|d08_swh_KE_oak|meMA|Ode8K|mode', 'text' : ''}
 {'id_' : 'me|m11|d08_swh_KE_oak|meMA|Ode8K|melody', 'text' : ''}
-{'id_' : 'me|m11|d08_swh_KE_oak|meMA|Ode8K|text', 'text' : ''}
+{'id_' : 'me|m11|d08_swh_KE_oak|meMA|Ode8K|text', 'text' : 'Mzao wa Mzazi-Mungu aliwaokoa vijana wenye haki toka tanurini zamani zile kama alama na sasa ni utimilifu wa uzao; kwa kusanyiko ulimwengu wote ukiimba: Enyi viumbe vyote, msifuni Bwana milele na milele.'}
 {'id_' : 'me|m11|d08_swh_KE_oak|meMA|Ode9C11|ode', 'text' : ''}
 {'id_' : 'me|m11|d08_swh_KE_oak|meMA|Ode9C11|mode', 'text' : ''}
 {'id_' : 'me|m11|d08_swh_KE_oak|meMA|Ode9C11|melody', 'text' : ''}
