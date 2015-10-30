@@ -25,21 +25,21 @@ hoTY.Key0501.text = ""
 // Liturgy Antiphons
 hoLI.Antiphon1.text = ""
 
-hoLI.Antiphon21.text = ""
+hoLI.Antiphon21.text = "Ee Mwana wa Mungu, uliyefufuka katika wafu, utuokoe sisi tukuimbiao Alleluia."
 hoLI.Antiphon2s.text = ""
 hoLI.Antiphon2w.text = ""
 hoLI.Antiphon22.text = ""
 
-hoLI.EntranceHymn.text ="" //in the template add parts of Antiphon 2
+hoLI.EntranceHymn.text = "Njoni, tumsujudie na kumwangukia Kristo." //in the template add parts of Antiphon 2
 hoLI.EntranceHymn2s.text = hoLI.Antiphon2s.text
 hoLI.EntranceHymn2w.text = hoLI.Antiphon2w.text
 
-hoLI.TrisagiosHymn.title = ""
+hoLI.TrisagiosHymn.title = "Wimbo wa Mtakatifu Tatu (Wimbo wa Trisagio)"
 hoLI.TrisagiosHymn.text = ""
 hoLI.TrisagiosHymn1.text = ""
 hoLI.TrisagiosHymn2.text = ""
-hoLI.TrisagiosHymn3.text = ""
-hoLI.TrisagiosHymn4.text = ""
+hoLI.TrisagiosHymn3.text = "Usiyekufa mtakatifu,"
+hoLI.TrisagiosHymn4.text = "utuhurumie."
  
 hoLI.OsoiEisChriston.title = ""
 hoLI.OsoiEisChriston.text = ""

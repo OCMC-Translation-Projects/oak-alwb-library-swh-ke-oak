@@ -75,7 +75,7 @@
 {'id_' : 'le|go|os_swh_KE_oak|leosTY|Beatitudes|version', 'text' : ''}
 {'id_' : 'le|go|os_swh_KE_oak|leosTY|Beatitudes|book', 'text' : 'Mtakatifu Mathayo'}
 {'id_' : 'le|go|os_swh_KE_oak|leosTY|Beatitudes|chapverse', 'text' : ''}
-{'id_' : 'le|go|os_swh_KE_oak|leosTY|Beatitudes_Intro|text', 'text' : ''}
+{'id_' : 'le|go|os_swh_KE_oak|leosTY|Beatitudes_Intro|text', 'text' : 'Katika ufalme wako utukumbuke, Ee Bwana, utakapoingia katika ufalme wako.'}
 {'id_' : 'le|go|os_swh_KE_oak|leosTY|Beatitudes_v01|text', 'text' : ''}
 {'id_' : 'le|go|os_swh_KE_oak|leosTY|Beatitudes_v02|text', 'text' : ''}
 {'id_' : 'le|go|os_swh_KE_oak|leosTY|Beatitudes_v03|text', 'text' : ''}
@@ -86,6 +86,6 @@
 {'id_' : 'le|go|os_swh_KE_oak|leosTY|Beatitudes_v08|text', 'text' : ''}
 {'id_' : 'le|go|os_swh_KE_oak|leosTY|Beatitudes_v09|text', 'text' : ''}
 {'id_' : 'le|go|os_swh_KE_oak|leosTY|Beatitudes_v10|text', 'text' : ''}
-{'id_' : 'le|go|os_swh_KE_oak|leosTY|Beatitudes_Refrain1|text', 'text' : ''}
-{'id_' : 'le|go|os_swh_KE_oak|leosTY|Beatitudes_Refrain2|text', 'text' : ''}
-{'id_' : 'le|go|os_swh_KE_oak|leosTY|Beatitudes_Refrain3|text', 'text' : ''}
+{'id_' : 'le|go|os_swh_KE_oak|leosTY|Beatitudes_Refrain1|text', 'text' : 'Ee Bwana, utukumbuke utakapoingia katika ufalme wako.'}
+{'id_' : 'le|go|os_swh_KE_oak|leosTY|Beatitudes_Refrain2|text', 'text' : 'Ee Rabi, utukumbuke utakapoingia katika ufalme wako.'}
+{'id_' : 'le|go|os_swh_KE_oak|leosTY|Beatitudes_Refrain3|text', 'text' : 'Ee Mtakatifu, utukumbuke utakapoingia katika ufalme wako.'}
