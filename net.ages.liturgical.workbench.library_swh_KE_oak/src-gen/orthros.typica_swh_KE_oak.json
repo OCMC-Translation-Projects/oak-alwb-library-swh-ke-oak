@@ -12,6 +12,7 @@
 {'id_' : 'orthros|typica_swh_KE_oak|rubric|anavathmi', 'text' : 'Nyimbo hizi zinaimbwa katika sauti ya wiki hii.'}
 {'id_' : 'orthros|typica_swh_KE_oak|rubric|orthrosgospel', 'text' : 'Msomaji anasoma (wala si kuimba) Injili ya Orthros.'}
 {'id_' : 'orthros|typica_swh_KE_oak|rubric|kontakion', 'text' : 'Msomaji anaimba kontakio katika sauti ya wiki hii.'}
+{'id_' : 'orthros|typica_swh_KE_oak|rubric|kontakion2', 'text' : 'Wanaimba kontakio katika sauti ya wiki hii.'}
 {'id_' : 'orthros|typica_swh_KE_oak|rubric|synaxarion', 'text' : 'Sinaksari (Makumbusho ya mtakatifu wa siku ya leo) inasomwa.'}
 {'id_' : 'orthros|typica_swh_KE_oak|rubric|begintypika', 'text' : 'Sasa ibada ya Typika inaanza.'}
 {'id_' : 'orthros|typica_swh_KE_oak|rubric|opencurtain', 'text' : 'Baada ya kumaliza Maombi ya Asubuhi (Orthros), pazia ya Mlango Mzuri inafunguliwa.'}
@@ -20,3 +21,4 @@
 {'id_' : 'orthros|typica_swh_KE_oak|exapostilarion|theotokion|text', 'text' : 'Ulifurahi na mitume, Ee Mzazi-Mungu bikira, ulipomwona Mwokozi. Akafufuka toka wafu, akajifunua kwa mitume katika siku ya tatu. Aliwaagiza mtime kufunua vilivyo vyema, kubatiza mataifa kwa jina la Baba na Mwana na Roho Mtakatifu. Twakutukuza, Ee Bikira.'}
 {'id_' : 'orthros|typica_swh_KE_oak|heavenlychoir|a', 'text' : 'Waimbaji wa mbinguni wakusifu na kukulilia wakisema:'}
 {'id_' : 'orthros|typica_swh_KE_oak|heavenlychoir|b', 'text' : 'Mtakatifu, Mtakatifu, Mtakatifu, Bwana Sabaoth; nchi na mbingu zimejazwa na utukufu wako.'}
+{'id_' : 'orthros|typica_swh_KE_oak|heavenlychoir|c', 'text' : 'Waimbaji wa Malaika na Malaika wakubwa watakatifu, pamoja na wenye nguvu za mbinguni wakusifu na kukulilia wakisema:'}
