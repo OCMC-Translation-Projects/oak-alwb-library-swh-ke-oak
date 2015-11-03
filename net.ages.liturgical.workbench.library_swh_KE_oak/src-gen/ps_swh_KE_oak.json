@@ -334,6 +334,7 @@
 {'id_' : 'ps_swh_KE_oak|psa11|v1|text', 'text' : ''}
 {'id_' : 'ps_swh_KE_oak|psa11|v2|number', 'text' : '(11:2)'}
 {'id_' : 'ps_swh_KE_oak|psa11|v2|text', 'text' : 'BWANA, uokoe, maana mcha Mungu amekoma, maana waaminifu wametoweka katika wanadamu.'}
+{'id_' : 'ps_swh_KE_oak|psa11|v2a|text', 'text' : 'BWANA, uokoe, maana mcha Mungu amekoma.'}
 {'id_' : 'ps_swh_KE_oak|psa11|v3|number', 'text' : '(11:3)'}
 {'id_' : 'ps_swh_KE_oak|psa11|v3|text', 'text' : 'Husemezana yasiyofaa kila mtu na mwenziwe, wenye midomo ya kujipendekeza; husemezana kwa mioyo ya unafiki;'}
 {'id_' : 'ps_swh_KE_oak|psa11|v4|number', 'text' : '(11:4)'}
@@ -575,6 +576,7 @@
 {'id_' : 'ps_swh_KE_oak|psa17|v50|text', 'text' : 'Basi, BWANA, nitakushukuru kati ya mataifa, nami nitaliimbia jina lako.'}
 {'id_' : 'ps_swh_KE_oak|psa17|v51|number', 'text' : '(17:51)'}
 {'id_' : 'ps_swh_KE_oak|psa17|v51|text', 'text' : 'Ampa mfalme wake wokovu mkuu, amfanyia fadhili masihi wake, Daudi na mzao wake hate milele.'}
+{'id_' : 'ps_swh_KE_oak|psa17|v51|text', 'text' : 'Ampa mfalme wake wokovu mkuu, amfanyia fadhili masihi wake.'}
 {'id_' : 'ps_swh_KE_oak|psa18|title', 'text' : 'Zaburi ya 18 (19).'}
 {'id_' : 'ps_swh_KE_oak|psa18|version', 'text' : ''}
 {'id_' : 'ps_swh_KE_oak|psa18|text', 'text' : 'Mbingu zauhubiri utukufu wa Mungu, na anga laitangaza kazi ya mikono yake. Mchana husemezana na mchana, usiku hutolea usiku maarifa. Hakuna lugha wala maneno, sauti yao haisikilikani. Sauti yao imeenea duniani mwote, na maneno yao hata miisho ya ulimwengu. Katika hizo ameliwekea jua hema, kama bwana arusi akitoka chumbani mwake, lafurahi kama mtu aliye hodari kwenda mbio katika njia yake. Kutoka kwake lautoka mwisho wa mbingu, na kuzunguka kwake hata miisho yake, wala kwa hari yake hakuna kitu kilichositirika. Sheria ya BWANA ni kamilifu, huiburudisha nafsi. Ushuhuda wa BWANA ni amini, humtia mjinga hekima. Maagizo ya BWANA ni ya adili, huufurahisha moyo. Amri ya BWANA ni safi, huyatia macho nuru. Kicho cha BWANA ni kitakatifu, kinadumu milele. Hukumu za BWANA ni kweli, zina haki kabisa. Ni za kutamanika kuliko dhahabu, kuliko wingi wa dhahabu safi. Nazo ni tamu kuliko asali, kuliko sega la asali. Tena mtumishi wako huonywa kwazo, katika kuzishika kuna thawabu nyingi. Ni nani awezaye kuyatambua makosa yake? Unitakase na mambo ya siri. Umzuie mtumishi wako asitende mambo ya kiburi, yasinitawale mimi. Ndipo nitakapokuwa kamili, nami nitakuwa safi, sina kosa lililo kubwa. Maneno ya kinywa changu, na mawazo ya moyo wangu, yapate kibali mbele zako, Ee BWANA, mwamba wangu, na mwokozi wangu.'}
@@ -901,6 +903,7 @@
 {'id_' : 'ps_swh_KE_oak|psa27|text', 'text' : 'Ee BWANA, nitakuita Wewe, mwamba wangu, usiwe kwangu kama kiziwi. Nisije nikafanana nao washukao shimoni, ikiwa umeninyamalia. Uisikie sauti ya dua yangu nikuombapo, nikpainulia patakatifu pako mikono yangu. Usinikokote pamoja na wasio haki, wala pamoja na watenda maovu. Wawaambiao jirani zao maneno ya amani, lakini mioyoni mwao mna madhara. Uwape sawasawa na vitendo vyao, na kwa kadiri ya ubaya wa kufanya kwao, uwape sawasawa na kazi ya mikono yao, uwalipe stahili yao. Maana hawazifahamu kazi za BWANA, wala matendo ya mikono yake. Atawavunja wala hatawajenga; na ahimidiwe BWANA. Maana ameisikia sauti ya dua yangu; BWANA ni nguvu zangu na ngao yangu. Moyo wangu umemtumaini, nami nimesaidiwa; basi, moyo wangu unashangilia, na kwa wimbo wangu nitamshukuru. BWANA ni nguvu za watu wake, naye ni ngome ya wokovu kwa masihi wake. Uwaokoe watu wako, uubariki urithi wako, uwachunge, uwachukue milele.'}
 {'id_' : 'ps_swh_KE_oak|psa27|v1|number', 'text' : '(27:1)'}
 {'id_' : 'ps_swh_KE_oak|psa27|v1|text', 'text' : 'Ee BWANA, nitakuita Wewe, mwamba wangu, usiwe kwangu kama kiziwi. Nisije nikafanana nao washukao shimoni, ikiwa umeninyamalia.'}
+{'id_' : 'ps_swh_KE_oak|psa27|v1a|text', 'text' : 'Ee BWANA, nitakuita Wewe, mwamba wangu.'}
 {'id_' : 'ps_swh_KE_oak|psa27|v2|number', 'text' : '(27:2)'}
 {'id_' : 'ps_swh_KE_oak|psa27|v2|text', 'text' : 'Uisikie sauti ya dua yangu nikuombapo, nikpainulia patakatifu pako mikono yangu.'}
 {'id_' : 'ps_swh_KE_oak|psa27|v3|number', 'text' : '(27:3)'}
@@ -918,6 +921,7 @@
 {'id_' : 'ps_swh_KE_oak|psa27|v9|number', 'text' : '(27:9)'}
 {'id_' : 'ps_swh_KE_oak|psa27|v9|text', 'text' : 'Uwaokoe watu wako, uubariki urithi wako, uwachunge, uwachukue milele.'}
 {'id_' : 'ps_swh_KE_oak|psa27|v9alt|text', 'text' : 'Ee Bwana, uwaokoe watu wako, uubariki urithi wako, uwachunge, uwachukue milele.'}
+{'id_' : 'ps_swh_KE_oak|psa27|v9aalt|text', 'text' : 'Ee Bwana, uwaokoe watu wako, uubariki urithi wako.'}
 {'id_' : 'ps_swh_KE_oak|psa28|title', 'text' : 'Zaburi ya 28 (29).'}
 {'id_' : 'ps_swh_KE_oak|psa28|version', 'text' : ''}
 {'id_' : 'ps_swh_KE_oak|psa28|text', 'text' : 'Mpeni BWANA, enyi wana wa Mungu, mpeni BWANA utukufu na nguvu; mpeni BWANA utukufu wa jina lake; mwabuduni BWANA kwa uzuri wa utakatifu. Sauti ya BWANA i juu ya maji; Mungu wa utukufu alipiga radi; BWANA yu juu ya maji mengi. Sauti ya BWANA ina nguvu; sauti ya BWANA ina adhama; sauti ya BWANA yaivunja mierezi; naam, BWANA aivunja-vunja mierezi ya Lebanoni; airusha-rusha kama ndama wa ng'ombe; Lebanoni na Sirioni kama mwana-nyati. Sauti ya BWANA yaipasua miali ya moto; sauti ya BWANA yalitetemesha jangwa; BWANA alitetemesha jangwa la Kadeshi. Sauti ya BWANA yawazalisha ayala, na kuifichua misitu; na ndani ya hekalu lake wanasema wote, Utukufu. BWANA aliketi juu ya Gharika; naam, BWANA ameketi hali ya mfalme milele. BWANA atawapa watu wake nguvu; BWANA atawabariki watu wake kwa amani.'}
@@ -985,6 +989,7 @@
 {'id_' : 'ps_swh_KE_oak|psa30|v3a|text', 'text' : 'unitegee sikio lako, uniokoe hima. '}
 {'id_' : 'ps_swh_KE_oak|psa30|v3b|number', 'text' : '(30:3b)'}
 {'id_' : 'ps_swh_KE_oak|psa30|v3b|text', 'text' : 'Uwe kwangu mwamba wa nguvu, nyumba yenye maboma ya kuniokoa.'}
+{'id_' : 'ps_swh_KE_oak|psa30|v3balt|text', 'text' : 'Uwe kwangu mwamba wa nguvu.'}
 {'id_' : 'ps_swh_KE_oak|psa30|v4|number', 'text' : '(30:4)'}
 {'id_' : 'ps_swh_KE_oak|psa30|v4|text', 'text' : 'Ndiwe genge langu na ngome yangu; kwa ajili ya jina lako uniongoze, unichunge.'}
 {'id_' : 'ps_swh_KE_oak|psa30|v5|number', 'text' : '(30:5)'}
@@ -1060,6 +1065,7 @@
 {'id_' : 'ps_swh_KE_oak|psa32|text', 'text' : 'Mpigieni BWANA vigelegele, enyi wenye haki, kusifu kunawapasa wanyofu wa moyo. Mshukuruni BWANA kwa kinubi, kwa kinanda cha nyuzi kumi mwimbieni sifa. Mwimbieni wimbo mpa, pigeni kwa ustadi kwa sauti ya shangwe. Kwa kuwa neno la BWANA lina adili, na kazi yake yote huitenda kwa uaminifu. Huzipenda haki na hukumu, nchi imejaa fadhili za BWANA. Kwa neno la BWANA mbingu zilifanyika, na jeshi lake lote kwa pumzi ya kinywa chake. Hukusanya maji ya bahari chungu chungu, huviweka vilindi katika ghala. Nchi yote na imwogope BWANA, wote wakaao duniani na wamche. Maana Yeye alisema, ikawa; na Yeye aliamuru, ikasimama. BWANA huyabatilisha mashauri ya mataifa, hutangua makusudi ya watu. Shauri la BWANA lasimama milele, makusudi ya moyo wake vizazi na vizazi. Heri taifa ambalo BWANA ni Mungu wao, watu aliowachagua kuwa urithi wake. Toka mbinguni BWANA huchungulia, huwatazama wanadamu wote pia. Toka mahali pake aketipo huwaangalia wote wakaao duniani. Yeye aiumbaye mioyo yao wote huzifikiri kazi zao zote. Hapana mfalme aokokaye kwa wingi wa uwezo, wala shujaa haokoki kwa wingi wa nguvu. Farasi haifai kitu kwa wokovu, wala hamponyi mtu kwa wingi wa nguvu zake. Tazama, jicho la BWANA li kwao wamchao, wazingojeao fadhili zake. Yeye huwaponya nafsi zao na mauti, na huwahuisha wakati wa njaa. Nafsi zetu zinamngoja BWANA; Yeye ndiye msaada wetu na ngao yetu. Maana mioyo yetu itamfurahia, kwa kuwa tumelitumainia jina lake takatifu. Ee BWANA, fadhili zako zikae nasi, kama vile tulivyokungoja Wewe.'}
 {'id_' : 'ps_swh_KE_oak|psa32|v1|number', 'text' : '(32:1)'}
 {'id_' : 'ps_swh_KE_oak|psa32|v1|text', 'text' : 'Mpigieni BWANA vigelegele, enyi wenye haki, kusifu kunawapasa wanyofu wa moyo.'}
+{'id_' : 'ps_swh_KE_oak|psa32|v1a|text', 'text' : 'Mpigieni BWANA vigelegele, enyi wenye haki.'}
 {'id_' : 'ps_swh_KE_oak|psa32|v2|number', 'text' : '(32:2)'}
 {'id_' : 'ps_swh_KE_oak|psa32|v2|text', 'text' : 'Mshukuruni BWANA kwa kinubi, kwa kinanda cha nyuzi kumi mwimbieni sifa.'}
 {'id_' : 'ps_swh_KE_oak|psa32|v3|number', 'text' : '(32:3)'}
@@ -1102,6 +1108,7 @@
 {'id_' : 'ps_swh_KE_oak|psa32|v21|text', 'text' : 'Maana mioyo yetu itamfurahia, kwa kuwa tumelitumainia jina lake takatifu.'}
 {'id_' : 'ps_swh_KE_oak|psa32|v22|number', 'text' : '(32:22)'}
 {'id_' : 'ps_swh_KE_oak|psa32|v22|text', 'text' : 'Ee BWANA, fadhili zako zikae nasi, kama vile tulivyokungoja Wewe.'}
+{'id_' : 'ps_swh_KE_oak|psa32|v22a|text', 'text' : 'Ee BWANA, fadhili zako zikae nasi.'}
 {'id_' : 'ps_swh_KE_oak|psa33|title', 'text' : 'Zaburi ya 33 (34).'}
 {'id_' : 'ps_swh_KE_oak|psa33|version', 'text' : ''}
 {'id_' : 'ps_swh_KE_oak|psa33|text', 'text' : 'Nitamhimidi BWANA kila wakati, sifa zake zi kinywani mwangu daima. Katika BWANA nafsi yangu itajisifu, wanyenyekevu wasikie wakafurahi. Mtukuzeni BWANA pamoja nami, na tuliadhimishe jina lake pamoja. Nalimtafuta BWANA akanijibu, akaniponya na hofu zangu zote. Wakamwelekea macho wakatiwa nuru, wala nyuso zao hazitaona haya. Maskini huyu aliita, BWANA akasikia, akamwokoa na taabu zake zote. Malaika wa BWANA hufanya kituo, akiwazungukia wamchao na kuwaokoa. Onjeni mwone ya kuwa BWANA yu mwema; heri mtu yule anayemtumaini. Mcheni BWANA, enyi watakatifu wake, yaani, wamchao hawahitaji kitu. Wana-simba hutindikiwa, huona njaa; bali wamtafutao BWANA hawahitaji kitu chochote kilicho chema. Njoni, enyi wana, mnisikilize, nami nitawafundisha kumcha BWANA. Ni nani mtu yule apendezwaye na uzima, apendaye siku nyingi apate kuona mema? Uuzuie ulimi wako na mabaya, na midomo yako na kusema hila. Uache mabaya ukatende mema, utafute amani ukaifuatie. Macho ya BWANA huwaelekea wenye haki, na masikio yake hukielekea kilio chao. Uso wa BWANA ni juu ya watenda mabaya, aliondoe kumbukumbu lao duniani. Walilia, naye BWANA akasikia, akawaponya na taabu zao zote. BWANA yu karibu nao waliovunjika moyo, na waliopondeka roho huwaokoa. Mateso ya mwenye haki ni mengi, lakini BWANA humponya nayo yote. Huihifadhi mifupa yake yote, haukuvunjika hata mmoja. Uovu utamwua asiye haki, nao wamchukiao mwenye haki watahukumiwa. BWANA huzikomboa nafsi za watumishi wake, wala hawatahukumiwa wote wamkimbiliao.'}
@@ -1234,6 +1241,7 @@
 {'id_' : 'ps_swh_KE_oak|psa35|v10alt|text', 'text' : ''}
 {'id_' : 'ps_swh_KE_oak|psa35|v11|number', 'text' : '(35:11)'}
 {'id_' : 'ps_swh_KE_oak|psa35|v11|text', 'text' : 'Uwadumishie wakujuao fadhili zako, na wanyofu wa moyo uaminifu wako.'}
+{'id_' : 'ps_swh_KE_oak|psa35|v11a|text', 'text' : 'Uwadumishie wakujuao fadhili zako,'}
 {'id_' : 'ps_swh_KE_oak|psa35|v12|number', 'text' : '(35:12)'}
 {'id_' : 'ps_swh_KE_oak|psa35|v12|text', 'text' : 'Mguu wa kiburi usinikaribie, wala mkono wa wasio haki usinifukuze.'}
 {'id_' : 'ps_swh_KE_oak|psa35|v13|number', 'text' : '(35:13)'}
@@ -1376,6 +1384,8 @@
 {'id_' : 'ps_swh_KE_oak|psa38|text', 'text' : 'Nalisema, Nitazitunza njia zangu nisije nikakosa kwa ulimi wangu; nitajitia lijamu kinywani, maadamu mtu mbaya yupo mbele yangu. Nalikuwa sisemi, nalinyamaa kimya, sina faraja, maumivu yangu yakazidi. Moyo wangu ukawa moto ndani yangu, na katika kuwaza kwangu moto ukawaka; nalisema kwa ulimi wangu, BWANA, unijulishe mwisho wangu, na kiasi cha siku zangu ni kiasi gani; nijue jinsi nilivyo dhaifu. Tazama, umefanya siku zangu kuwa mashubiri; maisha yangu ni kama si kitu mbele zako. Kila mwanadamu, ingawa amesitawi, ni ubatili. Binadamu huenda tu huko na huko kama kivuli; hufanya ghasia tu kwa ajili ya ubatili; huweka akiba wala hajui ni nani atakayeichukua. Na sasa ninangoja nini, Ee Bwana? Matumaini yako ni kwako. Uniokoe na maasi yangu yote, usinifanye laumu ya mpumbavu. Nimenyamaza, sitafumbua kinywa changu, maana Wewe ndiwe uliyeyafanya. Uniondolee pigo lako; kwa uadui wa mkono wako nimeangamia. Ukimrudi mtu kwa kumkemea kwa uovu wake, watowesha uzuri wake kama nondo. Kila mwanadamu ni ubatili. Ee BWANA, usikie maombi yangu, utege sikio lako niliapo, usiyanyamalie machozi yangu. Kwa maana mimi ni mgeni wako, msafiri kama baba zangu wote. Uniachilie nikunjuke uso, kabla sijaondoka nisewepo tena.'}
 {'id_' : 'ps_swh_KE_oak|psa38|v1|number', 'text' : '(38:1)'}
 {'id_' : 'ps_swh_KE_oak|psa38|v1|text', 'text' : ''}
+{'id_' : 'ps_swh_KE_oak|psa38|v2|number', 'text' : '(38:2)'}
+{'id_' : 'ps_swh_KE_oak|psa38|v2|text', 'text' : 'Nalisema, Nitazitunza njia zangu nisije nikakosa kwa ulimi wangu; nitajitia lijamu kinywani, maadamu mtu mbaya yupo mbele yangu.'}
 {'id_' : 'ps_swh_KE_oak|psa38|v3|number', 'text' : '(38:3)'}
 {'id_' : 'ps_swh_KE_oak|psa38|v3|text', 'text' : 'Nalikuwa sisemi, nalinyamaa kimya, sina faraja, maumivu yangu yakazidi.'}
 {'id_' : 'ps_swh_KE_oak|psa38|v4|number', 'text' : '(38:4)'}
@@ -1452,6 +1462,8 @@
 {'id_' : 'ps_swh_KE_oak|psa40|text', 'text' : 'Heri amkumbukaye mnyonge; BWANA atamwokoa siku ya taabu. BWANA atamlinda na kumhifadhi hai, naye atafanikiwa katika nchi; wala usimtie katika hali wamtakiayo adui zake. BWANA atamtegemeza alipo mgonjwa kitandani. Katika ugonjwa wake umemtandikia. Nami nalisema, BWANA, unifadhili, uniponye roho yangu maana nimekutendea dhambi. Adui zangu wananitaja kwa maneno mabaya, Atakufa lini, jina lake likapotea? Na mmoja wao akija kunitazama asema uongo, moyo wake hujikusanyia maovu, naya atokapo nje huyanena. Wote wanaonichukia wananinong'ona, wananiwazia mabaya. Neno la kisirani limemgandama, Na iwapo amelala hatasimama tena. Msiri wangu tena niliyemtumaini, aliyekula chakula changu, ameniinulia kisigino chake. Lakini Wewe, BWANA, unifadhili, uniinue nipate kuwalipa. Kwa neno hili nimejua ya kuwa wapendezwa nami, kwa kuwa adui yangu hasimangi kwa kunishinda. Nami katika ukamilifu wangu umenitegemeza, umeniweka mbele za uso wako milele. Na atukuzwe BWANA, Mungu wa Israeli, tangu milele hata milele. Amina na Amina.'}
 {'id_' : 'ps_swh_KE_oak|psa40|v1|number', 'text' : '(40:1)'}
 {'id_' : 'ps_swh_KE_oak|psa40|v1|text', 'text' : ''}
+{'id_' : 'ps_swh_KE_oak|psa40|v2|number', 'text' : '(40:2)'}
+{'id_' : 'ps_swh_KE_oak|psa40|v2|text', 'text' : 'Heri amkumbukaye mnyonge; BWANA atamwokoa siku ya taabu.'}
 {'id_' : 'ps_swh_KE_oak|psa40|v3|number', 'text' : '(40:3)'}
 {'id_' : 'ps_swh_KE_oak|psa40|v3|text', 'text' : 'BWANA atamlinda na kumhifadhi hai, naye atafanikiwa katika nchi; wala usimtie katika hali wamtakiayo adui zake.'}
 {'id_' : 'ps_swh_KE_oak|psa40|v4|number', 'text' : '(40:4)'}
@@ -1483,6 +1495,8 @@
 {'id_' : 'ps_swh_KE_oak|psa41|text', 'text' : 'Kama ayala aioneavyo shauku mito ya maji, vivyo hivyo nafsi yangu inakuonea shauku, Ee Mungu. Kama ayala aioneavyo shauku mito ya maji, vivyo hivyo nafsi yangu inakuonea shauku, Ee Mungu. Machozi yangu yamekuwa chakula changu mchana na usiku, pindi wanaponiambia mchana kutwa, Yuko wapi Mungu wako? Nayakumbuka yako nikiweka wazi nafsi yangu ndani yangu, jinsi nilivyokuwa nikienda na mkutano, na kuwaongoza nyumbani kwa Mungu, kwa sauti ya furaha na kusifu, mkutano wa sikukuu. Nafsi yangu, kwa nini kuinama, na kufadhaika ndani yangu? Umtumaini Mungu; kwa maana nitakuja kumsifu, aliye afya ya uso wangu, na Mungu wangu. Nafsi yangu imeinama ndani yangu, kwa hiyo nitakukumbuka, toka nchi ya Yordani, na Mahermoni, na toka kilima cha Mizari. Kilindi chapigia kelele kilindi kwa sauti ya maboromoko ya maji yako, gharika zako zote na mawimbi yako yote yamepita juu yangu. Mchana BWANA ataagiza fadhili zake, na usiku wimbo wake utakuwa nami, naam, maombi kwa Mungu aliye uhai wangu. Nitamwambia Mungu, mwamba wangu, Kwa nini umenisahau? Kwa nini ninakwenda nikihuzunika, adui wakinionea? Watesi wangu hunitukana mithili ya kuniponda mifupa yangu, pindi wanaponiambia mchana kutwa, Yuko wapi Mungu wako? Nafsi yangu, kwa nini kuinama, na kufadhaika ndani yangu? Umtumaini Mungu; kwa maana nitakuja kumsifu, aliye afya ya uso wangu, na Mungu wangu.'}
 {'id_' : 'ps_swh_KE_oak|psa41|v1|number', 'text' : '(41:1)'}
 {'id_' : 'ps_swh_KE_oak|psa41|v1|text', 'text' : ''}
+{'id_' : 'ps_swh_KE_oak|psa41|v2|number', 'text' : '(41:2)'}
+{'id_' : 'ps_swh_KE_oak|psa41|v2|text', 'text' : 'Kama ayala aioneavyo shauku mito ya maji, vivyo hivyo nafsi yangu inakuonea shauku, Ee Mungu.'}
 {'id_' : 'ps_swh_KE_oak|psa41|v3|number', 'text' : '(41:3)'}
 {'id_' : 'ps_swh_KE_oak|psa41|v3|text', 'text' : 'Nafsi yangu inamwonea kiu MUNGU, Mungu aliye hai, lini nitakapokuja nionekane mbele za Mungu?'}
 {'id_' : 'ps_swh_KE_oak|psa41|v4|number', 'text' : '(41:4)'}
@@ -1599,6 +1613,7 @@
 {'id_' : 'ps_swh_KE_oak|psa44|v4|text', 'text' : 'Jifungie upanga wako pajani, wewe uliye hodari, utukufu ni wako na fahari ni yako.'}
 {'id_' : 'ps_swh_KE_oak|psa44|v5|number', 'text' : '(44:5)'}
 {'id_' : 'ps_swh_KE_oak|psa44|v5|text', 'text' : 'Katika fahari yako usitawi uendelee kwa ajili ya kweli na upole na haki, na mkono wako wa kuume utakufundisha mambo ya kutisha.'}
+{'id_' : 'ps_swh_KE_oak|psa44|v5a|text', 'text' : 'Katika fahari yako usitawi uendelee kwa ajili ya kweli na upole na haki.'}
 {'id_' : 'ps_swh_KE_oak|psa44|v6|number', 'text' : '(44:6)'}
 {'id_' : 'ps_swh_KE_oak|psa44|v6|text', 'text' : 'Mishale yako ni mikali, watu huanguka chini yako; imo mioyoni mwa adui za mfalme.'}
 {'id_' : 'ps_swh_KE_oak|psa44|v7|number', 'text' : '(44:7)'}
@@ -1617,6 +1632,7 @@
 {'id_' : 'ps_swh_KE_oak|psa44|v9|text', 'text' : 'Mavazi yako yote hunukia manemane na udi na mdalasini. Katika majumba ya pembe vinubi vimekufurahisha.'}
 {'id_' : 'ps_swh_KE_oak|psa44|v10|number', 'text' : '(44:10)'}
 {'id_' : 'ps_swh_KE_oak|psa44|v10|text', 'text' : 'Binti za wafalme wamo miongoni mwa akina bibi wako wastahiki. Mkono wako wa kuume amesimama malkia, amevaa dhahabu ya Ofiri.'}
+{'id_' : 'ps_swh_KE_oak|psa44|v10b|text', 'text' : 'Mkono wako wa kuume amesimama malkia, amevaa dhahabu ya Ofiri.'}
 {'id_' : 'ps_swh_KE_oak|psa44|v11|number', 'text' : '(44:11)'}
 {'id_' : 'ps_swh_KE_oak|psa44|v11|text', 'text' : 'Sikia, binti, utazame, utege sikio lako, uwasahau watu wako na nyumba ya baba yako.'}
 {'id_' : 'ps_swh_KE_oak|psa44|v12|number', 'text' : '(44:12)'}
@@ -1895,6 +1911,9 @@
 {'id_' : 'ps_swh_KE_oak|psa51|text', 'text' : 'Kwa nini kujisifia uovu, Ewe jabari? Wema wa Mungu upo siku zote. Ulimi wako watunga madhara, kama wembe mkali, Ewe mwenye hila. Umependa mabaya kuliko mema, na uongo kuliko kusema kweli. Umependa maneno yote ya kupoteza watu, Ewe ulimi wenye hila. Lakini Mungu atakuharibu hata milele; atakuondolea mbali; atakunyakua hemani mwako; atakung'oa katika nchi ya walio hai. Nao wenye haki wataona; wataingiwa na hofu na kumcheka; Kumbe! Huyu ndiye mtu yule, asiyemfanya Mungu kuwa nguvu zake. Aliutumainia wingi wa mali zake, na kujifanya hodari kwa madhara yake. Bali mimi in kama mzeituni umeao katika nyumba ya Mungu. Nazitumainia fadhili za Mungu milele na milele. Nitakushukuru milele kwa maana umetenda; nitalingojea jina lako kwa kuwa ni jema; mbele ya wacha Mungu wako.'}
 {'id_' : 'ps_swh_KE_oak|psa51|v1|number', 'text' : '(51:1)'}
 {'id_' : 'ps_swh_KE_oak|psa51|v1|text', 'text' : ''}
+{'id_' : 'ps_swh_KE_oak|psa51|v2|number', 'text' : '(51:2)'}
+{'id_' : 'ps_swh_KE_oak|psa51|v3|number', 'text' : '(51:3)'}
+{'id_' : 'ps_swh_KE_oak|psa51|v3|text', 'text' : 'Kwa nini kujisifia uovu, Ewe jabari? Wema wa Mungu upo siku zote.'}
 {'id_' : 'ps_swh_KE_oak|psa51|v4|number', 'text' : '(51:4)'}
 {'id_' : 'ps_swh_KE_oak|psa51|v4|text', 'text' : 'Ulimi wako watunga madhara, kama wembe mkali, Ewe mwenye hila.'}
 {'id_' : 'ps_swh_KE_oak|psa51|v5|number', 'text' : '(51:5)'}
@@ -1916,6 +1935,8 @@
 {'id_' : 'ps_swh_KE_oak|psa52|text', 'text' : 'Mpumbavu amesema moyoni, Hakuna Mungu; wametenda uovu wa ufisadi na kuchukiza, hakuna atendaye mema. Toka mbinguni MUNGU aliwachungulia wanadamu, aone kama yuko mtu mwenye akili, amtafutaye Mungu. Kila mtu amepotoka, wameoza wote pamoja, hakuna atendaye mema, la! Hata mmoja. Je! Wafanyao maovu hawajui? Walao watu wangu kama walavyo mkate, hawakumwita MUNGU. Hapo waliingiwa na hofu pasipokuwapo hofu, maana Mungu ameitawanya mifupa yake aliyekuhusuru. Umewatia aibu, kwa sababu MUNGU amewadharau. Laiti wokovu wa Israeli utoke katika Sayuni! MUNGU awarudishapo wafungwa wa watu wake; Yakobo atashangilia, Israeli atafurahi.'}
 {'id_' : 'ps_swh_KE_oak|psa52|v1|number', 'text' : '(52:1)'}
 {'id_' : 'ps_swh_KE_oak|psa52|v1|text', 'text' : ''}
+{'id_' : 'ps_swh_KE_oak|psa52|v2|number', 'text' : '(52:2)'}
+{'id_' : 'ps_swh_KE_oak|psa52|v2|text', 'text' : 'Mpumbavu amesema moyoni, Hakuna Mungu; wametenda uovu wa ufisadi na kuchukiza, hakuna atendaye mema.'}
 {'id_' : 'ps_swh_KE_oak|psa52|v3|number', 'text' : '(52:3)'}
 {'id_' : 'ps_swh_KE_oak|psa52|v3|text', 'text' : 'Toka mbinguni MUNGU aliwachungulia wanadamu, aone kama yuko mtu mwenye akili, amtafutaye Mungu.'}
 {'id_' : 'ps_swh_KE_oak|psa52|v4|number', 'text' : '(52:4)'}
@@ -1939,6 +1960,8 @@
 {'id_' : 'ps_swh_KE_oak|psa53|v4|text', 'text' : 'Ee Mungu, uyasikie maombi yangu, uyasikilize maneno ya kinywa changu.'}
 {'id_' : 'ps_swh_KE_oak|psa53|v5|number', 'text' : '(53:5)'}
 {'id_' : 'ps_swh_KE_oak|psa53|v5|text', 'text' : 'Kwa maana wageni wamenishambulia; watu watishao wananitafuta nafsi yangu; hawkumweka Mungu mbele yao.'}
+{'id_' : 'ps_swh_KE_oak|psa53|v6|number', 'text' : '(53:6)'}
+{'id_' : 'ps_swh_KE_oak|psa53|v6|text', 'text' : 'Tazama, Mungu ndiye anayenisaidia; Bwana ndiye anayenitegemeza nafsi yangu.'}
 {'id_' : 'ps_swh_KE_oak|psa53|v7|number', 'text' : '(53:7)'}
 {'id_' : 'ps_swh_KE_oak|psa53|v7|text', 'text' : 'Atawarudishia adui zangu ubaya wao; uwaangamize kwa uaminifu wako.'}
 {'id_' : 'ps_swh_KE_oak|psa53|v8|number', 'text' : '(53:8)'}
@@ -2006,6 +2029,8 @@
 {'id_' : 'ps_swh_KE_oak|psa55|text', 'text' : 'Mungu, unirehemu, maana yuko atakaye kunimeza, mchana kutwa ananionea akileta vita. Adui zangu wanataka kunimeza mchana kutwa, maana waletao vita juu yangu kwa kiburi ni wengi. Siku ya hofu yangu nitakutumaini Wewe; kwa msaada wa MUNGU nitalisifu neno lake. Nimemtumaini Mungu, sitaogopa; mwenye mwili atanitenda nini? Mchana kutwa wanapotosha maneno yangu, mawazo yao yote ni juu yangu kunitakia mabaya. Hukutanika, hujificha, huziangalia nyayo zangu, kwa kuwa wameniotea nafsi yangu. Je! Wataokoka kwa uovu wao? Ee Mungu, uwaangamize kwa hasira yako. Umehesabu kutanga-tanga kwangu; uyatie machozi yangu katika chupa yako; (je! Hayamo katika kitabu chako?) Ndipo adui zangu watarudi nyuma siku ile niitapo. Neno hili najua kuwa MUNGU yu upande wangu; kwa msaada wa MUNGU nitalisifu neno lake. Kwa msaada wa BWANA nitalisifu neno lake. Nimemtumaini Mungu, sitaogopa; mwanadamu atanitenda nini? Ee Mungu, nadhiri zako zi juu yangu; nitakutolea dhabihu za kushukuru. Maana umeniponya nafsi yangu na mauti; je! Hukuizuia miguu yangu isianguke? Ili niende mbele za Mungu katika nuru ya walio hai.'}
 {'id_' : 'ps_swh_KE_oak|psa55|v1|number', 'text' : '(55:1)'}
 {'id_' : 'ps_swh_KE_oak|psa55|v1|text', 'text' : ''}
+{'id_' : 'ps_swh_KE_oak|psa55|v2|number', 'text' : '(55:2)'}
+{'id_' : 'ps_swh_KE_oak|psa55|v2|text', 'text' : 'Mungu, unirehemu, maana yuko atakaye kunimeza, mchana kutwa ananionea akileta vita.'}
 {'id_' : 'ps_swh_KE_oak|psa55|v3|number', 'text' : '(55:3)'}
 {'id_' : 'ps_swh_KE_oak|psa55|v3|text', 'text' : 'Adui zangu wanataka kunimeza mchana kutwa, maana waletao vita juu yangu kwa kiburi ni wengi.'}
 {'id_' : 'ps_swh_KE_oak|psa55|v4|number', 'text' : '(55:4)'}
@@ -2037,6 +2062,8 @@
 {'id_' : 'ps_swh_KE_oak|psa56|text', 'text' : 'Unirehemu, Ee Mungu, unirehemu mimi, maana nafsi yangu imekukimbilia Wewe. Nitaukimbilia uvuli wa mbawa zako, hata misiba hii itakapopita. Nitamwita MUNGU Aliye juu, Mungu anitimiziaye mambo yangu. Atapeleka toka mbinguni na kuniokoa, atukanapo yule atakaye kunimeza. Mungu atazipeleka fadhili zake na kweli yake. Nafsi yangu i kati ya simba, nitastarehe kati yao waliowaka moto. Wanadamu meno yao ni mikuki na mishale, na ndimi zao ni upanga mkali. Ee Mungu, utukuzwe juu ya mbingu, na juu ya nchi yote uwe utukufu wako. Wameweka wavu ili kuninasa miguu; nafsi yangu imeinama; wamechimba shimo mbele yangu; wametumbukia ndani yake. Ee Mungu, moyo wangu u thabiti, moyo wangu u thabiti, nitaimba, nitamba zaburi. Amka, utukufu wangu. Amka, kinanda na kinubi, nitaamka alfajiri. Ee Bwana, nitakushukuru kati ya watu, nitakuimbia zaburi yaki ya mataifa. Maana fadhili zako ni kubwa hata mbinguni, na uaminifu wako hata mawinguni. Ee Mungu, utukuzwe juu ya mbingu, na juu ya nchi yote uwe utukufu wako.'}
 {'id_' : 'ps_swh_KE_oak|psa56|v1|number', 'text' : '(56:1)'}
 {'id_' : 'ps_swh_KE_oak|psa56|v1|text', 'text' : ''}
+{'id_' : 'ps_swh_KE_oak|psa56|v2|number', 'text' : '(56:2)'}
+{'id_' : 'ps_swh_KE_oak|psa56|v2|text', 'text' : 'Unirehemu, Ee Mungu, unirehemu mimi, maana nafsi yangu imekukimbilia Wewe. Nitaukimbilia uvuli wa mbawa zako, hata misiba hii itakapopita.'}
 {'id_' : 'ps_swh_KE_oak|psa56|v3|number', 'text' : '(56:3)'}
 {'id_' : 'ps_swh_KE_oak|psa56|v3|text', 'text' : 'Nitamwita MUNGU Aliye juu, Mungu anitimiziaye mambo yangu.'}
 {'id_' : 'ps_swh_KE_oak|psa56|v4|number', 'text' : '(56:4)'}
@@ -2062,6 +2089,8 @@
 {'id_' : 'ps_swh_KE_oak|psa57|text', 'text' : 'Ni kweli, enyi wakuu, mnanena haki? Enyi wanadamu, mnahukumu kwa adili? Sivyo! Mioyoni mwenu mnatenda maovu; katika nchi mnapima udhalimu wa mikono yenu. Wasio haki wamejitenga tangu kuzaliwa kwao; tangu tumboni wamepotea, wakisema uongo. Sumu yao, mfano wake ni sumu ya nyoka; mfano wao ni fira kiziwi azibaye sikio lake. Asiyeisikiliza sauti ya waganga, ijapo wanafanya uganga kwa ustadi. Ee Mungu, uyavunje meno yao vinywani mwao; Ee BWANA, uyavunje magego ya wana-simba. Na watoweke kama maji yapitayo kama kasi; akiielekeza mishale yake, iwe imetiwa ubutu. Kama konokono ayeyukaye na kutoweka, kama mimba iliyoharibika, isiyoliona jua, kabla ya masufuria yenu kupata moto wa miiba, ataipeperusha kama chamchela, iliyo mibichi na iliyo moto. Mwenye haki atafurahi akionapo kisasi; ataiosha miguu yake katika damu ya wasio haki. Na mwanadamu atasema, Hakika iko thawabu yake mwenye haki. Hakika yuko Mungu anayehukumu katika dunia.'}
 {'id_' : 'ps_swh_KE_oak|psa57|v1|number', 'text' : '(57:1)'}
 {'id_' : 'ps_swh_KE_oak|psa57|v1|text', 'text' : ''}
+{'id_' : 'ps_swh_KE_oak|psa57|v2|number', 'text' : '(57:2)'}
+{'id_' : 'ps_swh_KE_oak|psa57|v2|text', 'text' : 'Ni kweli, enyi wakuu, mnanena haki? Enyi wanadamu, mnahukumu kwa adili?'}
 {'id_' : 'ps_swh_KE_oak|psa57|v3|number', 'text' : '(57:3)'}
 {'id_' : 'ps_swh_KE_oak|psa57|v3|text', 'text' : 'Sivyo! Mioyoni mwenu mnatenda maovu; katika nchi mnapima udhalimu wa mikono yenu.'}
 {'id_' : 'ps_swh_KE_oak|psa57|v4|number', 'text' : '(57:4)'}
@@ -2128,6 +2157,9 @@
 {'id_' : 'ps_swh_KE_oak|psa59|text', 'text' : 'Ee Mungu, umetutupa na kututawanya, umekuwa na hasira, uturudishe tena. Umeitetemesha nchi na kuipasua, upaponye palipobomoka, maana inatikisika. Umewaonyesha watu wako mazito, na kutunywesha mvyinyo ya kutuyumbisha. Umewapa wakuogopao bendera, ili itweke kwa ajili ya kweli. Ili wapenzi wako waopolewe, uokoe kwa mkono wako wa kuume, utuitikie. Mungu amenena kwa utakatifu wake, Nami nitashangilia. Nitaigawanya Shekemu, nitalipima bonde la Sukothi. Gileadi ni yangu, na Manase ni yangu, na Efraimu ni nguvu ya kichwa changu. Yuda ni fimbo yangu ya kifalme. Moabu ni bakuli langu la kunawia. Nitamtupia Edomu kiatu changu, na kumpigia Filisti kelele za vita. Ni nani atakayenipeleka hata mji wenye boma? Ni nani atakayeniongoza hata Edomu? Ee Mungu, si Wewe uliyetutupa? Wala, Ee Mungu, hutoki kwa majeshi yetu? Utuletee msaada juu ya mtesi, maana wokovu wa binadamu haufai. Kwa msaada wa Mungu tutatenda makuu, maana Yeye atawakanyaga watesi wetu.'}
 {'id_' : 'ps_swh_KE_oak|psa59|v1|number', 'text' : '(59:1)'}
 {'id_' : 'ps_swh_KE_oak|psa59|v1|text', 'text' : ''}
+{'id_' : 'ps_swh_KE_oak|psa59|v2|number', 'text' : '(59:2)'}
+{'id_' : 'ps_swh_KE_oak|psa59|v3|number', 'text' : '(59:3)'}
+{'id_' : 'ps_swh_KE_oak|psa59|v3|text', 'text' : 'Ee Mungu, umetutupa na kututawanya, umekuwa na hasira, uturudishe tena.'}
 {'id_' : 'ps_swh_KE_oak|psa59|v4|number', 'text' : '(59:4)'}
 {'id_' : 'ps_swh_KE_oak|psa59|v4|text', 'text' : 'Umeitetemesha nchi na kuipasua, upaponye palipobomoka, maana inatikisika.'}
 {'id_' : 'ps_swh_KE_oak|psa59|v5|number', 'text' : '(59:5)'}
@@ -2155,6 +2187,8 @@
 {'id_' : 'ps_swh_KE_oak|psa60|text', 'text' : 'Ee Mungu, ukisikie kilio changu, uyasikilize maombi yangu. Toka mwisho wa nchi nitakulilia nikizimia moyo, uniongoze juu ya mwamba nisioweza kuupanda. Kwa maana ulikuwa kimbilio langu, ngome yenye nguvu adui asinipate. Nitakaa katika hema yako milele, nitaikimbilia sitara ya mbawa zako. Maana Wewe, Mungu, umezisikia nadhiri zangu. Umewapa urithi wao waliogopao jina lako. Utaziongeza siku za mfalme, miaka yake itakuwa kama vizazi vingi. Atakaa mbele za Mungu milele, ziagize fadhili na kweli zimhifadhi. Ndivyo nitakavyoliimbia jina lako daima, ili niondoe nadhiri zangu kila siku.'}
 {'id_' : 'ps_swh_KE_oak|psa60|v1|number', 'text' : '(60:1)'}
 {'id_' : 'ps_swh_KE_oak|psa60|v1|text', 'text' : ''}
+{'id_' : 'ps_swh_KE_oak|psa60|v2|number', 'text' : '(60:2)'}
+{'id_' : 'ps_swh_KE_oak|psa60|v2|text', 'text' : 'Ee Mungu, ukisikie kilio changu, uyasikilize maombi yangu.'}
 {'id_' : 'ps_swh_KE_oak|psa60|v3|number', 'text' : '(60:3)'}
 {'id_' : 'ps_swh_KE_oak|psa60|v3|text', 'text' : 'Toka mwisho wa nchi nitakulilia nikizimia moyo, uniongoze juu ya mwamba nisioweza kuupanda.'}
 {'id_' : 'ps_swh_KE_oak|psa60|v4|number', 'text' : '(60:4)'}
@@ -2183,6 +2217,8 @@
 {'id_' : 'ps_swh_KE_oak|psa61|text', 'text' : 'Nafsi yangu yamngoja Mungu peke yake kwa kimya, wokovu wangu hutoka kwake. Yeye tu ndiye mwamba wangu na wokovu wangu, ngome yangu, sitatikisika sana. Hata lini mtamshambulia mtu, mpate kumwua ninyi nyote pamoja? Kama ukuta unaoinama, kama kitalu kilicho tayari kuanguka, hufanya shauri kumwangusha tu katika cheo chake; huufurahia uongo. Kwa kinywa chao hubariki; kwa moyo wao hulaani. Nafsi yangu, umngoje Mungu peke yake kwa kimya. Tumaini langu hutoka kwake. Yeye tu ndiye mwamba wangu na wokovu wangu, ngome yangu, sitatikisika sana. Kwa Mungu wokovu wangu, na utukufu wangu; mwamba wa nguvu zangu, na kimbilio langu ni kwa Mungu. Enyi watu, mtumainini siku zote, ifunueni mioyo yenu mbele zake; Mungu ndiye kimbilio letu. Hakika binadamu ni ubatili, na wenye cheo ni uongo, katika mizani huinuka; wote pamoja ni hafifu kuliko ubatili. Msiitumainie dhuluma, wala msijivune kwa unyang'anyi; mali izidipo msiiangalie sana moyoni. Mara moja amenena Mungu; mara mbili nimeyasikia haya, ya kuwa nguvu zina Mungu, na fadhili ziko kwako, Ee Bwana; maana ndiwe umlipaye kila mtu sawasawa na haki yake.'}
 {'id_' : 'ps_swh_KE_oak|psa61|v1|number', 'text' : '(61:1)'}
 {'id_' : 'ps_swh_KE_oak|psa61|v1|text', 'text' : ''}
+{'id_' : 'ps_swh_KE_oak|psa61|v2|number', 'text' : '(61:2)'}
+{'id_' : 'ps_swh_KE_oak|psa61|v2|text', 'text' : 'Nafsi yangu yamngoja Mungu peke yake kwa kimya, wokovu wangu hutoka kwake.'}
 {'id_' : 'ps_swh_KE_oak|psa61|v3|number', 'text' : '(61:3)'}
 {'id_' : 'ps_swh_KE_oak|psa61|v3|text', 'text' : 'Yeye tu ndiye mwamba wangu na wokovu wangu, ngome yangu, sitatikisika sana.'}
 {'id_' : 'ps_swh_KE_oak|psa61|v4|number', 'text' : '(61:4)'}
@@ -2564,6 +2600,8 @@
 {'id_' : 'ps_swh_KE_oak|psa69|text', 'text' : 'Ee Mungu, uniokea, Ee BWANA, unisaidie hima. Waaibike, wafedheheke, wanaonitafuta nafsi yangu. Warudishwe nyuma, watahayarishwe, wapendezwao na shari yangu. Warudi nyuma, na iwe aibu yao, wanaosema, Ewe! Ewe! Washangilie, wakufurahie, wote wakutafutao. Waupendao wokovu wako waseme daima, Atukuzwe Mungu. Nami ni maskini na mhitaji, Ee Mungu, unijilie kwa haraka. Ndiwe msaada wangu na mwokozi wangu, Ee BWANA, usikawie.'}
 {'id_' : 'ps_swh_KE_oak|psa69|v1|number', 'text' : '(69:1)'}
 {'id_' : 'ps_swh_KE_oak|psa69|v1|text', 'text' : ''}
+{'id_' : 'ps_swh_KE_oak|psa69|v2|number', 'text' : '(69:2)'}
+{'id_' : 'ps_swh_KE_oak|psa69|v2|text', 'text' : 'Ee Mungu, uniokea, Ee BWANA, unisaidie hima.'}
 {'id_' : 'ps_swh_KE_oak|psa69|v3|number', 'text' : '(69:3)'}
 {'id_' : 'ps_swh_KE_oak|psa69|v3|text', 'text' : 'Waaibike, wafedheheke, wanaonitafuta nafsi yangu. Warudishwe nyuma, watahayarishwe, wapendezwao na shari yangu.'}
 {'id_' : 'ps_swh_KE_oak|psa69|v4|number', 'text' : '(69:4)'}
@@ -2785,6 +2823,8 @@
 {'id_' : 'ps_swh_KE_oak|psa74|text', 'text' : 'Ee Mungu, twakushukuru. Twakushukuru kwa kuwa Jina lako li karibu; watu huyasimulia matendo yako ya ajabu. Nitakapoufikia wakati ulioamriwa, mimi nitahukumu hukumu za haki. Ingawa dunia na wote wakaao humo wataharuki, mimi mwenyewe nimezisimamisha nguzo zake. Naliwaambia waliojivuna, Msijivune; na wasio haki, Msiinue pembe. Msiinue pembe yenu juu, wala msinene kwa shingo ya kiburi. Maana siko mashariki wala magharibi, wala nyikani itokako heshima. Bali Mungu ndiye ahukumuye; humdhili huyu na kumwinua huyu. Maana mkononi mwa BWANA mna kikombe, na mvinyo yake inatoka povu; kumejaa machanganyiko; naye huyamimina. Na sira zake wasio haki wa dunia watazifyonza na kunzinywa. Bali mimi nitatangaza matendo yako milele, nitamwimbia Mungu wa Yakobo. Pembe zote za wasio haki nitazikata, na pembe za mwenye haki zitainuka.'}
 {'id_' : 'ps_swh_KE_oak|psa74|v1|number', 'text' : '(74:1)'}
 {'id_' : 'ps_swh_KE_oak|psa74|v1|text', 'text' : ''}
+{'id_' : 'ps_swh_KE_oak|psa74|v2|number', 'text' : '(74:2)'}
+{'id_' : 'ps_swh_KE_oak|psa74|v2|text', 'text' : 'Ee Mungu, twakushukuru. Twakushukuru kwa kuwa Jina lako li karibu;'}
 {'id_' : 'ps_swh_KE_oak|psa74|v3|number', 'text' : '(74:3)'}
 {'id_' : 'ps_swh_KE_oak|psa74|v3|text', 'text' : 'watu huyasimulia matendo yako ya ajabu. Nitakapoufikia wakati ulioamriwa, mimi nitahukumu hukumu za haki.'}
 {'id_' : 'ps_swh_KE_oak|psa74|v4|number', 'text' : '(74:4)'}
@@ -2801,6 +2841,8 @@
 {'id_' : 'ps_swh_KE_oak|psa74|v9|text', 'text' : 'Maana mkononi mwa BWANA mna kikombe, na mvinyo yake inatoka povu; kumejaa machanganyiko; naye huyamimina. Na sira zake wasio haki wa dunia watazifyonza na kunzinywa.'}
 {'id_' : 'ps_swh_KE_oak|psa74|v10|number', 'text' : '(74:10)'}
 {'id_' : 'ps_swh_KE_oak|psa74|v10|text', 'text' : 'Bali mimi nitatangaza matendo yako milele, nitamwimbia Mungu wa Yakobo.'}
+{'id_' : 'ps_swh_KE_oak|psa74|v11|number', 'text' : '(74:11)'}
+{'id_' : 'ps_swh_KE_oak|psa74|v11|text', 'text' : 'Pembe zote za wasio haki nitazikata, na pembe za mwenye haki zitainuka.'}
 {'id_' : 'ps_swh_KE_oak|psa75|title', 'text' : 'Zaburi ya 75 (76).'}
 {'id_' : 'ps_swh_KE_oak|psa75|version', 'text' : ''}
 {'id_' : 'ps_swh_KE_oak|psa75|text', 'text' : 'Katika Yuda Mungu amejulikana, katika Israeli jina lake ni kuu. Kibanda chake pia kiko Salemu, na maskani yake iko Sayuni. Huko ndiko alikoivunja mishale ya uta, ngao, na upanga, na zana za vita. Wewe U mwenye fahari na adhama, toka milima ya mateka. Wametekwa wenye moyo thabiti; wamelala usingizi; wala hawakuiona mikono yao watu wote walio hodari. Kwa kukemea kwako, Ee Mungu wa Yakobo, gari na farasi wameshikwa na usingizi mzito. Wewe ndiwe utishaye, naam, Wewe; naye ni nani awezaye kusimama ufanyapo hasira? Toka mbinguni ulitangaza hukumu; nchi iliogopa, ikakaa kimya. Mungu aliposimama ili kuhukumu na kuwaokoa wapole wa dunia wote pia. Maana hasira ya binadamu itakusifu, masalio ya hasira utajifunga kama mshipi. Wekeni nadhiri, mkaziondoe kwa BWANA, Mungu wenu. Wote wanaomzunguka wamletee hedaya, Yeye astahiliye kuogopwa. Yeye huzikata roho za wakuu; na kuwatisha wafalme wa dunia.'}
@@ -2827,7 +2869,8 @@
 {'id_' : 'ps_swh_KE_oak|psa75|v11|number', 'text' : '(75:11)'}
 {'id_' : 'ps_swh_KE_oak|psa75|v11|text', 'text' : 'Maana hasira ya binadamu itakusifu, masalio ya hasira utajifunga kama mshipi.'}
 {'id_' : 'ps_swh_KE_oak|psa75|v12|number', 'text' : '(75:12)'}
-{'id_' : 'ps_swh_KE_oak|psa75|v12|text', 'text' : 'Wekeni nadhiri, mkaziondoe kwa BWANA, Mungu wenu. Wote wanaomzunguka wamletee hedaya, '}
+{'id_' : 'ps_swh_KE_oak|psa75|v12|text', 'text' : 'Wekeni nadhiri, mkaziondoe kwa BWANA, Mungu wenu. Wote wanaomzunguka wamletee hedaya,'}
+{'id_' : 'ps_swh_KE_oak|psa75|v12a|text', 'text' : 'Wekeni nadhiri, mkaziondoe kwa BWANA, Mungu wenu.'}
 {'id_' : 'ps_swh_KE_oak|psa75|v13|number', 'text' : '(75:13)'}
 {'id_' : 'ps_swh_KE_oak|psa75|v13|text', 'text' : 'Yeye astahiliye kuogopwa. Yeye huzikata roho za wakuu; na kuwatisha wafalme wa dunia.'}
 {'id_' : 'ps_swh_KE_oak|psa76|title', 'text' : 'Psalm 76 (77).'}
@@ -3119,6 +3162,8 @@
 {'id_' : 'ps_swh_KE_oak|psa80|text', 'text' : 'Mwimbieni Mungu, nguvu zetu, nyimbo za furaha, mshangilieni Mungu wa Yakobo. Pazeni zaburi, pigeni matari, kinubi chenye sauti nzuri, na kinanda. Pigeni panda mwandamo wa mwezi, wakati wa mbalamwezi, sikukuu yetu. Kwa maana ni sheria kwa Israeli; ni hukumu ya Mungu wa Yakobo. Aliamuru iwe ushuhuda katika Yusufu, alipoondoka juu ya nchi ya Misri; maneno yake nisiyemjua naliyasikia. Nimelitenga bega lake na mzigo, mikono yake ikaachana na kikapu. Katika shida uliniita nikakuokoa; nalikuitikia katika sitara ya radi; nalikujaribu penye maji ya Meriba. Enyi watu wangu, sikieni, nami nitawaonya, Ee Israeli, kama ukitaka kunisikiliza; usiwe na mungu mgeni ndani yako; wala usimsujudie mungu mwingine. Mimi ndimi BWANA, Mungu wako, niliyekupandisha toka nchi ya Misri; fumbua sana kinywa chako nami nitakijaza. Lakini watu wangu hawakuisikiliza sauti yangu, wala Israeli hawakunitaka. Nikawaacha wakaenda kwa ukaidi wa mioyo yao, waenende katika mashauri yao. Laiti watu wangu wangenisikiliza, na Israeli angeenenda katika njia zangu; ningewadhili adui zao kwa upesi; na juu ya watesi wao ningegeuza mkono wangu; wamchukiao BWANA wangenyenyekea mbele zake, bali wakati wao ungedumu milele. Naam, ningewalisha kwa unono wa ngano, ningewashibisha kwa asali itokayo mwambani.'}
 {'id_' : 'ps_swh_KE_oak|psa80|v1|number', 'text' : '(80:1)'}
 {'id_' : 'ps_swh_KE_oak|psa80|v1|text', 'text' : ''}
+{'id_' : 'ps_swh_KE_oak|psa80|v2|number', 'text' : '(80:2)'}
+{'id_' : 'ps_swh_KE_oak|psa80|v2|text', 'text' : 'Mwimbieni Mungu, nguvu zetu, nyimbo za furaha, mshangilieni Mungu wa Yakobo.'}
 {'id_' : 'ps_swh_KE_oak|psa80|v3|number', 'text' : '(80:3)'}
 {'id_' : 'ps_swh_KE_oak|psa80|v3|text', 'text' : 'Pazeni zaburi, pigeni matari, kinubi chenye sauti nzuri, na kinanda.'}
 {'id_' : 'ps_swh_KE_oak|psa80|v4|number', 'text' : '(80:4)'}
@@ -3173,6 +3218,8 @@
 {'id_' : 'ps_swh_KE_oak|psa82|text', 'text' : 'Ee Mungu, usistarehe, Ee Mungu, usinyamae, wala usitulie. Maana adui zako wanafanya ghasia, nao wakuchukiao wameviinua vichwa vyao. Juu ya watu wako wanafanya hila, na kushauriana juu yao uliowaficha. Wamesema, Njoni, tuwakatilie mbali wasiwe taifa, na jina la Israeli halitakumbukwa tena. Maana washauriana kwa moyo mmoja, juu yako wanafanyana agano. Hema za Edomu, na Waishmaeli, na Moabu, na Wahagari, Gebali, na Amoni, na Amaleki, na Filisti, nao wanaokaa Tiro, Ashuri naye amepatana nao, wamewasaidia wana wa Lutu. Uwatende kama Midiani, kama Sisera, kama Yabini, penye kijito Kishoni. Ambao waliangamizwa Endori; wakawa samadi juu ya nchi. Uwafanye wakuu wao kama Orebu na Zeebu, na masheki yao wote kama Zeba na Zalmuna. Ambao walisema, Na tutamalaki makao ya Mungu. Ee Mungu, uwafanye kama mavumbi ya kisulisuli, mithili ya makapi mbele ya upepo, kama moto uteketezao msitu, kama miali ya moto iiwashayo milima, ndivyo utakavyowafuatia kwa tufani yako, na kuwafadhaisha kwa dhoruba yako. Uwajaze nyuso zao fedheha; wakalitafute jina lako, BWANA. Waaibike, wafadhaike milele, naam, watahayarike na kupotea. Wajue ya kuwa Wewe, uitwaye jina lako YEHOVA, ndiwe peke yako Uliye juu, juu ya nchi yote.'}
 {'id_' : 'ps_swh_KE_oak|psa82|v1|number', 'text' : '(82:1)'}
 {'id_' : 'ps_swh_KE_oak|psa82|v1|text', 'text' : ''}
+{'id_' : 'ps_swh_KE_oak|psa82|v2|number', 'text' : '(82:2)'}
+{'id_' : 'ps_swh_KE_oak|psa82|v2|text', 'text' : 'Ee Mungu, usistarehe, Ee Mungu, usinyamae, wala usitulie.'}
 {'id_' : 'ps_swh_KE_oak|psa82|v3|number', 'text' : '(82:3)'}
 {'id_' : 'ps_swh_KE_oak|psa82|v3|text', 'text' : 'Maana adui zako wanafanya ghasia, nao wakuchukiao wameviinua vichwa vyao.'}
 {'id_' : 'ps_swh_KE_oak|psa82|v4|number', 'text' : '(82:4)'}
@@ -3212,6 +3259,8 @@
 {'id_' : 'ps_swh_KE_oak|psa83|text', 'text' : 'Maskani zako zapendeza kama nini, Ee BWANA wa majeshi! Nafsi yangu imezionea shauku nyua za BWANA, naam, na kuzikondea. Moyo wangu na mwili wangu vinamlilia Mungu aliye hai. Shomoro naye ameona nyumba, na mbayuwayu amejipatia kioto, alipoweka makinda yake, kwenye madhabahu zako, Ee BWANA wa majeshi, mfalme wangu na Mungu wangu. Heri wakaao nyumbani mwako, wanakuhimidi daima. Heri ambaye nguvu zake zakota kwako, na njia ziendazo Sayuni zimo moyoni mwake. Wakipita kati ya bonde la Vilio, hulifanya kuwa chemchemi, naam, mvua ya vuli hulivika baraka. Huendelea toka nguvu hata nguvu, huonekana Sayuni kila mmoja mbele za Mungu. BWANA, Mungu wa majeshi, uyasikie maombi yangu, Ee Mungu wa Yakobo, usikilize, Ee Mungu, ngao yetu, uangalie, umtazame uso masihi wako. Hakika siku moja katika nyua zako ni bora kuliko siku elfu. Ningependa kuwa bawabu nyumbani mwa Mungu wangu, kuliko kukaa katika hema za uovu. Kwa kuwa BWANA, Mungu, ni jua na ngao, BWANA atatoa neema na utukufu. Hatawanyima kitu chema hao waendao kwa ukamilifu. Ee BWANA wa majeshi, heri mwanadamu anayekutumaini Wewe.'}
 {'id_' : 'ps_swh_KE_oak|psa83|v1|number', 'text' : '(83:1)'}
 {'id_' : 'ps_swh_KE_oak|psa83|v1|text', 'text' : ''}
+{'id_' : 'ps_swh_KE_oak|psa83|v2|number', 'text' : '(83:2)'}
+{'id_' : 'ps_swh_KE_oak|psa83|v2|text', 'text' : 'Maskani zako zapendeza kama nini, Ee BWANA wa majeshi!'}
 {'id_' : 'ps_swh_KE_oak|psa83|v3|number', 'text' : '(83:3)'}
 {'id_' : 'ps_swh_KE_oak|psa83|v3|text', 'text' : 'Nafsi yangu imezionea shauku nyua za BWANA, naam, na kuzikondea. Moyo wangu na mwili wangu vinamlilia Mungu aliye hai.'}
 {'id_' : 'ps_swh_KE_oak|psa83|v4|number', 'text' : '(83:4)'}
@@ -3376,6 +3425,7 @@
 {'id_' : 'ps_swh_KE_oak|psa88|v2|text', 'text' : 'Fadhili za BWANA nitaziimba milele; kwa kinywa changu nitavijulisha vizazi vyote uaminifu wako.'}
 {'id_' : 'ps_swh_KE_oak|psa88|v3|number', 'text' : '(88:3)'}
 {'id_' : 'ps_swh_KE_oak|psa88|v3|text', 'text' : 'Maana nimesema, Fadhili zitajengwa milele, katika mbingu utauthibitisha uaminifu wako.'}
+{'id_' : 'ps_swh_KE_oak|psa88|v3a|text', 'text' : 'Maana nimesema, Fadhili zitajengwa milele.'}
 {'id_' : 'ps_swh_KE_oak|psa88|v4|number', 'text' : '(88:4)'}
 {'id_' : 'ps_swh_KE_oak|psa88|v4|text', 'text' : 'Nimefanya agano na mteule wangu, nimemuapia Daudi, mtumishi wangu.'}
 {'id_' : 'ps_swh_KE_oak|psa88|v5|number', 'text' : '(88:5)'}
@@ -3992,6 +4042,7 @@
 {'id_' : 'ps_swh_KE_oak|psa103|v1|text', 'text' : 'Ee nafsi yangu, umhimidi BWANA. Wewe, BWANA, Mungu wangu, umejifanya mkuu sana; umejivika heshima na adhama.'}
 {'id_' : 'ps_swh_KE_oak|psa103|v1a|number', 'text' : '(103:1a)'}
 {'id_' : 'ps_swh_KE_oak|psa103|v1a|text', 'text' : 'Ee nafsi yangu, umhimidi BWANA. Wewe, BWANA, Mungu wangu, umejifanya mkuu sana;'}
+{'id_' : 'ps_swh_KE_oak|psa103|v1aalt|text', 'text' : 'Ee nafsi yangu, umhimidi BWANA.'}
 {'id_' : 'ps_swh_KE_oak|psa103|v1b|number', 'text' : '(103:1b)'}
 {'id_' : 'ps_swh_KE_oak|psa103|v1b|text', 'text' : 'umejivika heshima na adhama.'}
 {'id_' : 'ps_swh_KE_oak|psa103|v2|number', 'text' : '(103:2)'}
@@ -4578,7 +4629,7 @@
 {'id_' : 'ps_swh_KE_oak|psa112|v1|text', 'text' : 'Haleluya. Enyi watumishi wa BWANA, sifuni, lisifuni jina la BWANA.'}
 {'id_' : 'ps_swh_KE_oak|psa112|v2|number', 'text' : '(112:2)'}
 {'id_' : 'ps_swh_KE_oak|psa112|v2|text', 'text' : 'Jina la BWANA lihimidiwe tangu leo na hata milele.'}
-{'id_' : 'ps_swh_KE_oak|psa112|v2alt1|text', 'text' : 'Jina la BWANA lihimidiwe tangu leo na hata milele.'}
+{'id_' : 'ps_swh_KE_oak|psa112|v2alt1|text', 'text' : 'Jina la BWANA lihimidiwe tangu sasa hata milele.'}
 {'id_' : 'ps_swh_KE_oak|psa112|v3|number', 'text' : '(112:3)'}
 {'id_' : 'ps_swh_KE_oak|psa112|v3|text', 'text' : 'Toka maawio ya jua hata machweo yake jina la BWANA husifiwa.'}
 {'id_' : 'ps_swh_KE_oak|psa112|v4|number', 'text' : '(112:4)'}
@@ -5614,6 +5665,8 @@
 {'id_' : 'ps_swh_KE_oak|psa139|text', 'text' : 'Ee BWANA, uniokoe na mtu mbaya, unihifadhi na mtu wa jeuri. Waliowaza mabaya mioyoni mwao, kila siku huondokesha vita. Wamenoa ndimi zao kama nyoka, sumu ya fira i chini ya midomo yao. Ee BWANA, unilinde na mikono ya mtu asiye haki; unihifadhi na mtu wa jeuri; waliowaza kuzipotosha hatua zangu. Wenye kiburi wamenifichia mtego na kamba; wametandika wavu kando ya njia; wameniwekea matanzi. Nimemwambia BWANA, Ndiwe Mungu wangu; Ee BWANA, uisikie sauti ya dua zangu. Ee MUNGU Bwana, nguvu za wokovu wangu, umenifunika kichwa changu siku ya vita. Ee BWANA, usimpe asiye haki tamaa zake, usiifanikishe hila yake, wasije wakajiinua. Nao wainuapo vichwa watu wanaonizunguka, madhara ya midomo yao yawafunike. Makaa ya moto yawaangukie, watupwe motoni, na katika mashimo, wasipate kusimama tena. Msingiziaji hatawekwa imara katika nchi, mtu wa jeuri, uovu humwinda kumwangamiza. Najua ya kuwa BWANA atamfanyia mnyonge hukumu, na wahitaji haki yao. Hakika wenye haki watalishukuru jina lako, wenye adili watakaa mahali ulipo Wewe.'}
 {'id_' : 'ps_swh_KE_oak|psa139|v1|number', 'text' : '(139:1)'}
 {'id_' : 'ps_swh_KE_oak|psa139|v1|text', 'text' : ''}
+{'id_' : 'ps_swh_KE_oak|psa139|v2|number', 'text' : '(139:2)'}
+{'id_' : 'ps_swh_KE_oak|psa139|v2|text', 'text' : 'Ee BWANA, uniokoe na mtu mbaya, unihifadhi na mtu wa jeuri.'}
 {'id_' : 'ps_swh_KE_oak|psa139|v3|number', 'text' : '(139:3)'}
 {'id_' : 'ps_swh_KE_oak|psa139|v3|text', 'text' : 'Waliowaza mabaya mioyoni mwao, kila siku huondokesha vita.'}
 {'id_' : 'ps_swh_KE_oak|psa139|v4|number', 'text' : '(139:4)'}
@@ -5748,6 +5801,7 @@
 {'id_' : 'ps_swh_KE_oak|psa142|v10a|text', 'text' : 'Unifundishe kuyatenda mapenzi yako, kwa maana ndiwe Mungu wangu;'}
 {'id_' : 'ps_swh_KE_oak|psa142|v10b|number', 'text' : '(142:10b)'}
 {'id_' : 'ps_swh_KE_oak|psa142|v10b|text', 'text' : 'Roho yako mwema aniongoze kwenye nchi sawa,'}
+{'id_' : 'ps_swh_KE_oak|psa142|v10alt|text', 'text' : 'Ee BWANA, nimekukimbilia Wewe, unifiche. Unifundishe kuyatenda mapenzi yako, kwa maana ndiwe Mungu wangu;'}
 {'id_' : 'ps_swh_KE_oak|psa142|v11|number', 'text' : '(142:11)'}
 {'id_' : 'ps_swh_KE_oak|psa142|v11|text', 'text' : 'Ee BWANA, unihuishe kwa ajili ya jina lako, kwa haki yako unitoe roho yangu taabuni;'}
 {'id_' : 'ps_swh_KE_oak|psa142|v12|number', 'text' : '(142:12)'}
@@ -5987,7 +6041,7 @@
 {'id_' : 'ps_swh_KE_oak|psa150|v6|text', 'text' : 'Kila mwenye pumzi na amsifu BWANA. Haleluya.'}
 {'id_' : 'ps_swh_KE_oak|psa150|v6a|number', 'text' : '(150:6a)'}
 {'id_' : 'ps_swh_KE_oak|psa150|v6a|text', 'text' : 'Kila mwenye pumzi na amsifu BWANA.'}
-{'id_' : 'ps_swh_KE_oak|pas150|v6aalt|text', 'text' : ''}
+{'id_' : 'ps_swh_KE_oak|pas150|v6aalt|text', 'text' : 'Kila mwenye pumzi na amsifu BWANA.'}
 {'id_' : 'ps_swh_KE_oak|psa150|v6b|number', 'text' : '(150:6b)'}
 {'id_' : 'ps_swh_KE_oak|psa150|v6b|text', 'text' : 'Haleluya.'}
 {'id_' : 'ps_swh_KE_oak|psa151|title', 'text' : ''}
@@ -6007,45 +6061,3 @@
 {'id_' : 'ps_swh_KE_oak|psa151|v6|text', 'text' : ''}
 {'id_' : 'ps_swh_KE_oak|psa151|v7|number', 'text' : ''}
 {'id_' : 'ps_swh_KE_oak|psa151|v7|text', 'text' : ''}
-{'id_' : 'ps_swh_KE_oak|psa53|v6|number', 'text' : '(53:6)'}
-{'id_' : 'ps_swh_KE_oak|psa53|v6|text', 'text' : 'Tazama, Mungu ndiye anayenisaidia; Bwana ndiye anayenitegemeza nafsi yangu.'}
-{'id_' : 'ps_swh_KE_oak|psa38|v2|text', 'text' : 'Nalisema, Nitazitunza njia zangu nisije nikakosa kwa ulimi wangu; nitajitia lijamu kinywani, maadamu mtu mbaya yupo mbele yangu.'}
-{'id_' : 'ps_swh_KE_oak|psa40|v2|text', 'text' : 'Heri amkumbukaye mnyonge; BWANA atamwokoa siku ya taabu.'}
-{'id_' : 'ps_swh_KE_oak|psa41|v2|text', 'text' : 'Kama ayala aioneavyo shauku mito ya maji, vivyo hivyo nafsi yangu inakuonea shauku, Ee Mungu.'}
-{'id_' : 'ps_swh_KE_oak|psa41|v2|number', 'text' : '(41:2)'}
-{'id_' : 'ps_swh_KE_oak|psa51|v3|text', 'text' : 'Kwa nini kujisifia uovu, Ewe jabari? Wema wa Mungu upo siku zote.'}
-{'id_' : 'ps_swh_KE_oak|psa51|v2|number', 'text' : '(51:2)'}
-{'id_' : 'ps_swh_KE_oak|psa51|v3|number', 'text' : '(51:3)'}
-{'id_' : 'ps_swh_KE_oak|psa52|v2|text', 'text' : 'Mpumbavu amesema moyoni, Hakuna Mungu; wametenda uovu wa ufisadi na kuchukiza, hakuna atendaye mema.'}
-{'id_' : 'ps_swh_KE_oak|psa52|v2|number', 'text' : '(52:2)'}
-{'id_' : 'ps_swh_KE_oak|psa55|v2|number', 'text' : '(55:2)'}
-{'id_' : 'ps_swh_KE_oak|psa55|v2|text', 'text' : 'Mungu, unirehemu, maana yuko atakaye kunimeza, mchana kutwa ananionea akileta vita.'}
-{'id_' : 'ps_swh_KE_oak|psa56|v2|text', 'text' : 'Unirehemu, Ee Mungu, unirehemu mimi, maana nafsi yangu imekukimbilia Wewe. Nitaukimbilia uvuli wa mbawa zako, hata misiba hii itakapopita.'}
-{'id_' : 'ps_swh_KE_oak|psa56|v2|number', 'text' : '(56:2)'}
-{'id_' : 'ps_swh_KE_oak|psa57|v2|text', 'text' : 'Ni kweli, enyi wakuu, mnanena haki? Enyi wanadamu, mnahukumu kwa adili?'}
-{'id_' : 'ps_swh_KE_oak|psa57|v2|number', 'text' : '(57:2)'}
-{'id_' : 'ps_swh_KE_oak|psa59|v3|text', 'text' : 'Ee Mungu, umetutupa na kututawanya, umekuwa na hasira, uturudishe tena.'}
-{'id_' : 'ps_swh_KE_oak|psa59|v2|number', 'text' : '(59:2)'}
-{'id_' : 'ps_swh_KE_oak|psa59|v3|number', 'text' : '(59:3)'}
-{'id_' : 'ps_swh_KE_oak|psa60|v2|text', 'text' : 'Ee Mungu, ukisikie kilio changu, uyasikilize maombi yangu.'}
-{'id_' : 'ps_swh_KE_oak|psa60|v2|number', 'text' : '(60:2)'}
-{'id_' : 'ps_swh_KE_oak|psa61|v2|text', 'text' : 'Nafsi yangu yamngoja Mungu peke yake kwa kimya, wokovu wangu hutoka kwake.'}
-{'id_' : 'ps_swh_KE_oak|psa61|v2|number', 'text' : '(61:2)'}
-{'id_' : 'ps_swh_KE_oak|psa69|v2|number', 'text' : '(69:2)'}
-{'id_' : 'ps_swh_KE_oak|psa69|v2|text', 'text' : 'Ee Mungu, uniokea, Ee BWANA, unisaidie hima.'}
-{'id_' : 'ps_swh_KE_oak|psa74|v2|number', 'text' : '(74:2)'}
-{'id_' : 'ps_swh_KE_oak|psa74|v11|number', 'text' : '(74:11)'}
-{'id_' : 'ps_swh_KE_oak|psa74|v2|text', 'text' : 'Ee Mungu, twakushukuru. Twakushukuru kwa kuwa Jina lako li karibu;'}
-{'id_' : 'ps_swh_KE_oak|psa74|v11|text', 'text' : 'Pembe zote za wasio haki nitazikata, na pembe za mwenye haki zitainuka.'}
-{'id_' : 'ps_swh_KE_oak|psa80|v2|number', 'text' : '(80:2)'}
-{'id_' : 'ps_swh_KE_oak|psa80|v2|text', 'text' : 'Mwimbieni Mungu, nguvu zetu, nyimbo za furaha, mshangilieni Mungu wa Yakobo.'}
-{'id_' : 'ps_swh_KE_oak|psa82|v2|number', 'text' : '(82:2)'}
-{'id_' : 'ps_swh_KE_oak|psa82|v2|text', 'text' : 'Ee Mungu, usistarehe, Ee Mungu, usinyamae, wala usitulie.'}
-{'id_' : 'ps_swh_KE_oak|psa83|v2|number', 'text' : '(83:2)'}
-{'id_' : 'ps_swh_KE_oak|psa83|v2|text', 'text' : 'Maskani zako zapendeza kama nini, Ee BWANA wa majeshi!'}
-{'id_' : 'ps_swh_KE_oak|psa44|v10b|text', 'text' : 'Mkono wako wa kuume amesimama malkia, amevaa dhahabu ya Ofiri.'}
-{'id_' : 'ps_swh_KE_oak|psa35|v11a|text', 'text' : 'Uwadumishie wakujuao fadhili zako,'}
-{'id_' : 'ps_swh_KE_oak|psa139|v2|number', 'text' : '(139:2)'}
-{'id_' : 'ps_swh_KE_oak|psa139|v2|text', 'text' : 'Ee BWANA, uniokoe na mtu mbaya, unihifadhi na mtu wa jeuri.'}
-{'id_' : 'ps_swh_KE_oak|psa142|v10alt|text', 'text' : 'Ee BWANA, nimekukimbilia Wewe, unifiche. Unifundishe kuyatenda mapenzi yako, kwa maana ndiwe Mungu wangu;'}
-{'id_' : 'ps_swh_KE_oak|psa150|v6aalt|text', 'text' : 'Kila mwenye pumzi na amsifu BWANA.'}
